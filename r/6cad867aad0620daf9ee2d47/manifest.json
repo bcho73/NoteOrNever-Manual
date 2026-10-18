@@ -1,0 +1,1556 @@
+{
+  "format": 1,
+  "revision": "6cad867aad0620daf9ee2d47",
+  "photoChannel": "fba79945f60e1287e8196cf3",
+  "baseUrl": "https://bcho73.github.io/NoteOrNever-Manual/r/6cad867aad0620daf9ee2d47/",
+  "shared": [
+    "new-drawer-icon.png",
+    "toolbar-bottom-1.png",
+    "toolbar-bottom-10.png",
+    "toolbar-bottom-11.png",
+    "toolbar-bottom-2.png",
+    "toolbar-bottom-3.png",
+    "toolbar-bottom-4.png",
+    "toolbar-bottom-5.png",
+    "toolbar-bottom-6.png",
+    "toolbar-bottom-7.png",
+    "toolbar-bottom-8.png",
+    "toolbar-bottom-9.png",
+    "toolbar-top-1.png",
+    "toolbar-top-2.png",
+    "toolbar-top-3.png",
+    "toolbar-top-4.png",
+    "toolbar-top-5.png",
+    "toolbar-top-6.png",
+    "toolbar-top-7.png",
+    "toolbar-top-8.png"
+  ],
+  "languages": {
+    "ko": {
+      "sha256": "023410b15b04e216beaf8a2a96e0ab517a7fd5cce16c2fc6950222b44798c791",
+      "size": 1715772,
+      "files": {
+        "backup.png": {
+          "sha256": "20ee1546d8248c1c44827c1fb961506cc8ed1d5d84d14e1df770ec1db2058a13",
+          "size": 77177
+        },
+        "cabinet-settings.png": {
+          "sha256": "e8ddd61cb6e5d7e77b783adbc3bab4c1acd553b1ff4664e7647772353ab718ff",
+          "size": 16195
+        },
+        "calendar-import.png": {
+          "sha256": "ed2281ef12ef1c2305fb17d73112b089f91a286b5a53405a74805da8827623bc",
+          "size": 38015
+        },
+        "calendar-register.png": {
+          "sha256": "89c2bb4e49e0235f83c68f573d4bd1e122950fe2498004437bb1ce6e964173c5",
+          "size": 33881
+        },
+        "diary-calendar.png": {
+          "sha256": "7bf3acadd55e1c64222c255d64a01c03340006df4b54579496021df5312d8517",
+          "size": 21810
+        },
+        "diary-readonly.png": {
+          "sha256": "3b3589df23e5fe7452a9223d87630f1aa1450e155b7cbcddc8526b177df0151d",
+          "size": 25901
+        },
+        "diary-today.png": {
+          "sha256": "9216958bfc2cb04c6361caeee21ea2f9e86cd0b57141d085388ffbd56a56a64e",
+          "size": 31891
+        },
+        "drawer-batch-move.png": {
+          "sha256": "a669caeb39f5f5fb51ded781cc02ce9923a088532437190a917e6299ad14ff2b",
+          "size": 18822
+        },
+        "drawer-colors.png": {
+          "sha256": "f281941b63e10aa38891873965bc633a696867087898e51855c06972fcaabfc6",
+          "size": 34113
+        },
+        "drawer-icons.png": {
+          "sha256": "0d04318ccde9bcd648ba7217bcf3243796817460cb7ceac0380da354ba053547",
+          "size": 33799
+        },
+        "drawer-menu.png": {
+          "sha256": "fd9e2956537b5c27c8f294c3466c0446a468dfba64e16aaf1ab1ec829e2a2f63",
+          "size": 17860
+        },
+        "drawer-move.png": {
+          "sha256": "825ed92a9fdba7d6d23529632a598c14bb0c3c6f25968e55efebdffdea5d4733",
+          "size": 25714
+        },
+        "drawer-search.png": {
+          "sha256": "ed052aafd60a8207f37c47476fbdde02b88eae632b7f525da54913f00a800570",
+          "size": 29245
+        },
+        "drawer-view.png": {
+          "sha256": "95e0283ef11c49fa0a50dab220ed2b268c00e95973864a740829d380ef92940d",
+          "size": 54487
+        },
+        "drawing-editor.png": {
+          "sha256": "4cec52c3ddf0533f490584142477d086a7d76e06595d96ce05cb2425f13daf78",
+          "size": 32884
+        },
+        "encrypted-drawer-menu.png": {
+          "sha256": "d81a866e5cad757fd4aeef9ea95a69d236a18523aab2ff31be72dd4056db3687",
+          "size": 18119
+        },
+        "encrypted-home.png": {
+          "sha256": "484208c284e201883d90b66f2d886876ee92345340dd7f36160d2f590a765439",
+          "size": 88967
+        },
+        "encryption-badge.png": {
+          "sha256": "08b96ad4045b249e12e6942843d7126f64062166bc2ded65dfc37cbece8c22cc",
+          "size": 4039
+        },
+        "encryption-disable.png": {
+          "sha256": "d0eb3969563f1e9cdcc2b03be22436ca97152cc1fbf5f45458caf100aed89992",
+          "size": 26522
+        },
+        "encryption-password.png": {
+          "sha256": "90c542e59fb95e74719d4e121f646bcbbcd57979168bdd13830fc14ef66b31b5",
+          "size": 47766
+        },
+        "encryption-recovery.png": {
+          "sha256": "68e753171a6b6adba901244909292cafc6b0264c7bf6f16ad61f9a3304dba427",
+          "size": 42489
+        },
+        "encryption-settings.png": {
+          "sha256": "2e265688f51c74e8e32dd81714119f54c5293467a585598f051e829b87b4dadf",
+          "size": 20684
+        },
+        "encryption-setup.png": {
+          "sha256": "68af9dc6fa17eb77302212cf288ee280bc6200c4073db6359e4c6e6df805d2aa",
+          "size": 41466
+        },
+        "encryption-unlock.png": {
+          "sha256": "a018122a30767849e0d8fbf71c6612e64e96ca7911bf84e4d35e683a688e1a32",
+          "size": 28230
+        },
+        "evernote.png": {
+          "sha256": "e49406ee4abd2ea62ce9515ca612c37d3035c127dc3f0cce10416ebcf66d36f4",
+          "size": 70798
+        },
+        "home-expanded.png": {
+          "sha256": "94f19059bacf36d7cc32058b678a9a263d906caf49847c48d876718778f0cccf",
+          "size": 76196
+        },
+        "home.png": {
+          "sha256": "a77084ae53cc597b13a3b13e4d51c4627a8f93c82e44f9d67debda95b7ef63fa",
+          "size": 77410
+        },
+        "local-backup.png": {
+          "sha256": "9eac79b0fbe5742d0503b53c947d8c09f2168e891fee39adffa1017f0c992d2a",
+          "size": 32784
+        },
+        "local-restore.png": {
+          "sha256": "8bc4ff8280052426e67d73931a5b459161045b4782efc7555a192703f580f1fc",
+          "size": 26696
+        },
+        "new-drawer.png": {
+          "sha256": "4066327915ab252b88ec7c459749e20473fdbc4729d17d610e8c7e8079c6f257",
+          "size": 32024
+        },
+        "note-editor.png": {
+          "sha256": "1079d49eae7c5f83300984a7ebdda4a3ff727f608cc0a8106155d4cfd7ffd1d2",
+          "size": 38676
+        },
+        "note-list.png": {
+          "sha256": "3293d946010b9ba58fb75823950b1d2c8cff681054533e40fc5c697901e027a9",
+          "size": 30925
+        },
+        "note-search.png": {
+          "sha256": "0d305b908a302bfb8b3b0c3c8332aac690baa1ba4a4715ef8d29d9e18efac02a",
+          "size": 29729
+        },
+        "note-selection.png": {
+          "sha256": "b825ec8349e1b12440527ad3450cf6012360c3badf5779c2e35a6c9a8e2e55e3",
+          "size": 31332
+        },
+        "note-view.png": {
+          "sha256": "21ef2ca1166c7f33207ef4ed0c2ebffb782c691728ef2ed87533104936ccf5f7",
+          "size": 11102
+        },
+        "photo-menu.png": {
+          "sha256": "947914ff43ad5c7e4158734ccd98e8da502c935ec9f15abb05e07eb6b97570a3",
+          "size": 5979
+        },
+        "photo-viewer.png": {
+          "sha256": "bde7152a1d076d3ff4b5043483a94c92cbd227c4bb74d76f4b0d580cc510b505",
+          "size": 23336
+        },
+        "quantity.png": {
+          "sha256": "363ff922dadb27da94441e049cbf77406fc2974939b617fda4227ae0acd0e4c4",
+          "size": 9558
+        },
+        "repeat.png": {
+          "sha256": "b28cedd6ab01ff52f03fa5380161daba2dc981cba6c70f670e3d58825fe82ba8",
+          "size": 28788
+        },
+        "search.png": {
+          "sha256": "ee5dfca65576b17b40f6c4d22269306f6f21522205b760f6b4a78da1057cb388",
+          "size": 35468
+        },
+        "security.png": {
+          "sha256": "db4a2978d70798274f2c9255a28207d62b90f2d58afd7b9718b2076ae612d9dd",
+          "size": 41556
+        },
+        "settings.png": {
+          "sha256": "34cab9e856322e3bf45beb83bbd7cdeae07e90805ef1da7b75c76970644ac7f0",
+          "size": 46305
+        },
+        "shopping-widget.png": {
+          "sha256": "27933529aa249df9fb1f8ba0c247cbb9ccd43803e45e92d82fc2dfe82baabdee",
+          "size": 16573
+        },
+        "shopping.png": {
+          "sha256": "31a2c554bf2fa2726231405c7f0555146e98cffd4f84deb76f8e14a004e56264",
+          "size": 23033
+        },
+        "task-alert.png": {
+          "sha256": "62d0338b8f190bf73c5e10d029a95d66cbd4d8590f0989835657d2f8111541ed",
+          "size": 48308
+        },
+        "task-menu.png": {
+          "sha256": "ca3cb71ea5997802ba40104974326ad5ae44415f561d6c17b14ab7d9e211cd07",
+          "size": 7846
+        },
+        "task-move.png": {
+          "sha256": "014b3a1b6de61e3194da3c9645172c7d5b1b3b794bdadd3bff69042ec0ac06c6",
+          "size": 28743
+        },
+        "task-overview.png": {
+          "sha256": "86acf67f6b0933cf290a9943557670933355f2ccf23201278c2968de612f6473",
+          "size": 28399
+        },
+        "task-time.png": {
+          "sha256": "97ab0b4d627862a61a706a626de40ac1a1f340bda6e8a7cbbcb7e1b24c46517b",
+          "size": 20361
+        },
+        "themes.png": {
+          "sha256": "2b218e7f5354e88a8cfb01a27ebd87c032bb8f3c922cecf2e08750a217b805d7",
+          "size": 41032
+        },
+        "today-widget.png": {
+          "sha256": "a5760fc8c0edfc8ddd9d6c44de72f7bd2fec9826edc9886cc2a1d537ea95e454",
+          "size": 21440
+        },
+        "trash.png": {
+          "sha256": "38f111cd13ab9b251ccb89dc0304be2ac010bce7974a4dcf3315ff4c115301ed",
+          "size": 40579
+        },
+        "wide-home.png": {
+          "sha256": "e823b951017f5f80070963930469e7bf0beeabb52b97fa0cc994c7184936baaa",
+          "size": 90650
+        }
+      }
+    },
+    "en": {
+      "sha256": "772dde0b256ff5df567b833595fe5ef1efaea16b6cb75c8d95a4cbeac894ba1f",
+      "size": 1947025,
+      "files": {
+        "screens/en/backup.webp": {
+          "sha256": "603a6a2896ab08dfe4fc5a972e029191e77d52793d071a08e9138aad39204ebc",
+          "size": 60244
+        },
+        "screens/en/cabinet-settings.webp": {
+          "sha256": "2262cff6e08dfad1af8a94ec3b1ff135204086d093fb3b782c190d5fb1deb45a",
+          "size": 14342
+        },
+        "screens/en/calendar-import.webp": {
+          "sha256": "080435d0f056af509dec496d8ca70b40ae46de89608ea07303f617ed6df5bf70",
+          "size": 32554
+        },
+        "screens/en/calendar-register.webp": {
+          "sha256": "6e45307b684a15cabc75798e3b20059633f48cc52bebc80549a89e199a92859c",
+          "size": 30384
+        },
+        "screens/en/diary-calendar.webp": {
+          "sha256": "675edfef4c2fbd607e7d37bc30bcf3ec0be52a5752a6125b9944955207dac988",
+          "size": 21620
+        },
+        "screens/en/diary-readonly.webp": {
+          "sha256": "672713d78b69783dbab8d9c7b58fb1b89a0578eec8170e10a6a680faa887747d",
+          "size": 24378
+        },
+        "screens/en/diary-today.webp": {
+          "sha256": "85f44dd1b566187910a91fe753425289a04c2b47a5de8ce8e8d64ffb45165b90",
+          "size": 33632
+        },
+        "screens/en/drawer-batch-move.webp": {
+          "sha256": "6313d33ac16f5b2f87b66725cc396b70dc3acfb0ca71cece18ceb5dd38252f74",
+          "size": 17772
+        },
+        "screens/en/drawer-colors.webp": {
+          "sha256": "22fb71ed2af47eaf6ddc38b2971b87a4a671a8afd2cd9ba666d9784fb301c755",
+          "size": 61266
+        },
+        "screens/en/drawer-icons.webp": {
+          "sha256": "9baca13c1f80140a7d46a81c6f4c6a25c6feefffa66506482e2811db0cc465aa",
+          "size": 37814
+        },
+        "screens/en/drawer-menu.webp": {
+          "sha256": "c8feb7d6b708464324647063726a20cf014bff1f083718e96c8f029690dee125",
+          "size": 18384
+        },
+        "screens/en/drawer-move.webp": {
+          "sha256": "1f5585407fa097fd1f118da2848b4a26c9fdf85727d2eab48753e370aaa37436",
+          "size": 23242
+        },
+        "screens/en/drawer-search.webp": {
+          "sha256": "0216db5f9bb377d6fdd95b415fc8137599b32701265a3ca069e2350ea633ea55",
+          "size": 27540
+        },
+        "screens/en/drawer-view.webp": {
+          "sha256": "16a0dbb0c887f41c05cb5b25811d1dd0b2f0b27ddcd129e360177782876d955e",
+          "size": 46566
+        },
+        "screens/en/drawing-editor.webp": {
+          "sha256": "8a0f399f1d90c6d766b511b261e83eafac8a695218273414ac225559962588e9",
+          "size": 36862
+        },
+        "screens/en/encrypted-drawer-menu.webp": {
+          "sha256": "24d27b2880ee2c849739ccd8043e51019b186a8cffd7c6a7ae92876db5a80716",
+          "size": 19474
+        },
+        "screens/en/encrypted-home.webp": {
+          "sha256": "da7f31db3aff95856bc7b89f30489e49952400ed247928a7b04979008ca2084f",
+          "size": 122418
+        },
+        "screens/en/encryption-badge.webp": {
+          "sha256": "26833b4253a68fdf6219cd4a7901861b529245d37f762adbc4e7410c9a983138",
+          "size": 5226
+        },
+        "screens/en/encryption-disable.webp": {
+          "sha256": "ee12e9b2afca91938038ae6c8c3ccf02eaf6ee1a466549beb1d80b84330368ec",
+          "size": 27892
+        },
+        "screens/en/encryption-password.webp": {
+          "sha256": "2cafd20e13ab34f2ae37948baa0510cda1f5f5825116ad0fdf1cd9beb6994320",
+          "size": 44370
+        },
+        "screens/en/encryption-recovery.webp": {
+          "sha256": "f429b38fd9dbb4d312d0bb500bcf62dcc35b2b592b9c828b52b5c21ad6c2c12e",
+          "size": 38464
+        },
+        "screens/en/encryption-settings.webp": {
+          "sha256": "da3274156606781d798ba6d4fbd74bba341ca04bd170a5d61e99ab42dcd77581",
+          "size": 20252
+        },
+        "screens/en/encryption-setup.webp": {
+          "sha256": "af84c03753eb77da691e65e57fe302e2886924bf325426e5cc6d198e33d0a2a5",
+          "size": 33818
+        },
+        "screens/en/encryption-unlock.webp": {
+          "sha256": "1746d7fb2baf88649be38ae47844e3821daa3397a2163a6646e588db58171900",
+          "size": 27148
+        },
+        "screens/en/evernote.webp": {
+          "sha256": "e8b901894086d045a7365e281721ccede1c63ab2941e851c673c9be5ec10cf30",
+          "size": 49902
+        },
+        "screens/en/home-expanded.webp": {
+          "sha256": "ab44077af7a7617d1e9557ae5aca0c938411f73f9f05ec8ac3616d90736760d2",
+          "size": 103370
+        },
+        "screens/en/home.webp": {
+          "sha256": "84b54e4e072f4169db066497739b586bb5f08fd1c7673a939d3affe61daa2825",
+          "size": 104044
+        },
+        "screens/en/local-backup.webp": {
+          "sha256": "fa0e1e5e421df6589b8557de89b16e36c59ea19d2e88b5630b6efe950b1344ee",
+          "size": 25656
+        },
+        "screens/en/local-restore.webp": {
+          "sha256": "bc1ee74b9b805c8edfb8f7d2b18603453503e2eadd7ce47050fd6ccb1a3829b6",
+          "size": 26978
+        },
+        "screens/en/new-drawer.webp": {
+          "sha256": "f3f16f594c87d3e11ae9d65487eab6520d40c1a8e75982f884ecc3f342ddcb83",
+          "size": 55418
+        },
+        "screens/en/note-editor.webp": {
+          "sha256": "0bdcdcb00bec498a7c91dce778a1caf7aa8749ea5001cab0ed3935bdfb9539e1",
+          "size": 45304
+        },
+        "screens/en/note-list.webp": {
+          "sha256": "b8f9deccebe5ebe26dc7ca72c29cf9822ffb744a7547a7f88ee2caa01b63f1a4",
+          "size": 33206
+        },
+        "screens/en/note-search.webp": {
+          "sha256": "0c5f60a224348f4c49506542071b8fb59f253fa7ecf356451a802f6194c78d82",
+          "size": 31434
+        },
+        "screens/en/note-selection.webp": {
+          "sha256": "72b7b561c3cada784d1867a1cbcdf14d10ded1e0c4dbe1554ba2db957e3a388a",
+          "size": 37746
+        },
+        "screens/en/note-view.webp": {
+          "sha256": "13e3bad78c6e6754d23a99087c884cf199a5c0d8509b4016797968f7aa788a84",
+          "size": 12202
+        },
+        "screens/en/photo-menu.webp": {
+          "sha256": "d7916aae4361d6d433511ef0781f7863be9418c2121498d4fc08f3967b8e3dd7",
+          "size": 5484
+        },
+        "screens/en/photo-viewer.webp": {
+          "sha256": "e58b105dfe59fd1f2c807e4cc040cdb6400820caa755798761ea659e69b24a78",
+          "size": 22530
+        },
+        "screens/en/quantity.webp": {
+          "sha256": "bf67f98080246258c7146484da7faf375348443b9e0f983c05994bd6872d1f0f",
+          "size": 8450
+        },
+        "screens/en/repeat.webp": {
+          "sha256": "c6f13958fadec0e2d56323eb16748d2fe5649862869a1ad8fd04a9a49160ddf4",
+          "size": 32550
+        },
+        "screens/en/search.webp": {
+          "sha256": "adbadd78cd8c0084688c771d7880569728f9894b1997b4bf98bbb7885da610c5",
+          "size": 51734
+        },
+        "screens/en/security.webp": {
+          "sha256": "75a8763bbf2d71e1f369731070cffd88db668fa52279684604652d715a04bc3e",
+          "size": 36514
+        },
+        "screens/en/settings.webp": {
+          "sha256": "bafd61848a22a22569456c080f6d539e1e45e67e4ceec588f613881ddc4413c2",
+          "size": 38646
+        },
+        "screens/en/shopping-widget.webp": {
+          "sha256": "ba817f7bd67a090fe6d247c0c9811a274bada943b0d0210a1169b4bf5027d7d5",
+          "size": 19048
+        },
+        "screens/en/shopping.webp": {
+          "sha256": "861bfad3540a9320c2f5d8a91196bd8846e0cc97ab58307cba56770f8f6af22e",
+          "size": 25488
+        },
+        "screens/en/task-alert.webp": {
+          "sha256": "2c9b10a2042c3fe356e8b6cb8c84dcf767e2533bbfe9b7d4a86128ba0a1b975e",
+          "size": 33938
+        },
+        "screens/en/task-menu.webp": {
+          "sha256": "dc007f216c9dbaa902c737ffb4eeac4869cee33878ecd3d16d9a73cc630becdf",
+          "size": 7420
+        },
+        "screens/en/task-move.webp": {
+          "sha256": "41c542a9ba9a1331e6e359bd6df0a1eae2cdbe3e0719cf9ce32ebad18029bfe2",
+          "size": 31830
+        },
+        "screens/en/task-overview.webp": {
+          "sha256": "3cebfa87380d839ba6758b248a4819d02a3e2231141456f4270c7bb2f3ef911e",
+          "size": 32228
+        },
+        "screens/en/task-time.webp": {
+          "sha256": "37f824c9ed0d73209058a6000ea95fdbe27d9defba3814292343bdcb2e01caf9",
+          "size": 16900
+        },
+        "screens/en/themes.webp": {
+          "sha256": "d0a047c1ef297989cd4faa697ce5b245f0cf955781998acdf5c62f8ac0f8008d",
+          "size": 73314
+        },
+        "screens/en/today-widget.webp": {
+          "sha256": "b78b3e27dbe3ed099f6bc20ed3e6eaa6314661d344cdf214cb7435909a9ab9b3",
+          "size": 24276
+        },
+        "screens/en/trash.webp": {
+          "sha256": "6adfe0298216a5d5ebd084507d26d4a43d38be9e579b2a81deb696fb421702b2",
+          "size": 25458
+        },
+        "screens/en/wide-home.webp": {
+          "sha256": "44b36df81ad997f695c6b193365cb487acb975179b27544af37808b7bf953914",
+          "size": 127032
+        }
+      }
+    },
+    "ja": {
+      "sha256": "b2105513b5329cb1ba012e1a2ac3422459dfeb2c97287b5e658e0ec76f7b7b72",
+      "size": 2443996,
+      "files": {
+        "screens/ja/backup.webp": {
+          "sha256": "373de25740ef72cca37aae71410bf38655c5042170eea4a960756860af47aeba",
+          "size": 100524
+        },
+        "screens/ja/cabinet-settings.webp": {
+          "sha256": "7421573cb995f426086767d1bae65bb69b57f20880eca1391f0939ec922c02ea",
+          "size": 19168
+        },
+        "screens/ja/calendar-import.webp": {
+          "sha256": "c56466bbe7f340b011c18cefb3df884a8e80b9c05e846e79acaa1e86faf1824e",
+          "size": 52236
+        },
+        "screens/ja/calendar-register.webp": {
+          "sha256": "76e22721afe04fbc36dbb9aa02d17d07f06b2c3f22f11ded5db50064ffc91287",
+          "size": 42578
+        },
+        "screens/ja/diary-calendar.webp": {
+          "sha256": "b2e80c9cb7ec2584a2fc31e7d340d6d52dfa3cedc9d6f4b3ca186b57c671eaf8",
+          "size": 22342
+        },
+        "screens/ja/diary-readonly.webp": {
+          "sha256": "4e2dd63d6f2ac81859a3e353e796ca34f9aceb526e3b2b99465db2efe1b07a5b",
+          "size": 31898
+        },
+        "screens/ja/diary-today.webp": {
+          "sha256": "6cd07960cb209377ad43e6ac1caa5b5c2dbeb638d6d9a71148608b5d184dad83",
+          "size": 37046
+        },
+        "screens/ja/drawer-batch-move.webp": {
+          "sha256": "4b54be8b81d84ad6916f86c7ad2b89dcacb10dd028b97db455ed935edca7e08f",
+          "size": 31624
+        },
+        "screens/ja/drawer-colors.webp": {
+          "sha256": "47cf0c19e5d65fb9cd33ed60bbe62f4fac13073d6001de8507e4ec63cc325065",
+          "size": 62540
+        },
+        "screens/ja/drawer-icons.webp": {
+          "sha256": "033c1b5db103d7ba72f51bbd441defda7d6357952fb7b4e610a28d777ce30351",
+          "size": 40914
+        },
+        "screens/ja/drawer-menu.webp": {
+          "sha256": "4f9192d101dd54781c7dbd954a207cf068a3040e1af5e09f82abebe7d4da3bdc",
+          "size": 20838
+        },
+        "screens/ja/drawer-move.webp": {
+          "sha256": "7b1a0feb552d4a42fa3ec4b9daeb54f4cf2c7d4a01df486c2ef5d977e0c0e352",
+          "size": 40504
+        },
+        "screens/ja/drawer-search.webp": {
+          "sha256": "b29fd148dece5d4824bb7d551c3c9ab76789c5cd467547dbb73a280b8592b5d7",
+          "size": 33100
+        },
+        "screens/ja/drawer-view.webp": {
+          "sha256": "a3917d1abe030f4dd11b218f5d504fc9216425fa3906a3485881e7d478f8076b",
+          "size": 74544
+        },
+        "screens/ja/drawing-editor.webp": {
+          "sha256": "f35df69af4ad4b89c77c7af3785989496dd83973a0cafec7b91e4ca262650e9a",
+          "size": 45250
+        },
+        "screens/ja/encrypted-drawer-menu.webp": {
+          "sha256": "90c7c5e6de4ce37c97b6618d0110e8f7f661f8d086d6c4eeda23ebf5cc9fa64d",
+          "size": 22748
+        },
+        "screens/ja/encrypted-home.webp": {
+          "sha256": "781ff9f29831c85e8117ef724cba2af83488c7a6324e54519b073c3eac35c928",
+          "size": 124088
+        },
+        "screens/ja/encryption-badge.webp": {
+          "sha256": "ac62c80fc091a82f68899ae8e4bc11e2405fce43a782eb6c6c61fd7d57bb4ff4",
+          "size": 5622
+        },
+        "screens/ja/encryption-disable.webp": {
+          "sha256": "7837875cc3893d94034a2bcca3ef0691889baf3baefeb354ed95e0e4511a4120",
+          "size": 40110
+        },
+        "screens/ja/encryption-password.webp": {
+          "sha256": "9e5456d29e19648f88e9ffffc583c664aff954e93b9036af0606ae39c2136b1d",
+          "size": 64498
+        },
+        "screens/ja/encryption-recovery.webp": {
+          "sha256": "4783cc41fde38ca1e436ae113c981894d28bd60b167a60a7c0ea0ccab6d1a871",
+          "size": 57284
+        },
+        "screens/ja/encryption-settings.webp": {
+          "sha256": "df0dc04a7a7d90dfa720835ba980afc7e8dad8fe2a692be442bce0dbcf273796",
+          "size": 29976
+        },
+        "screens/ja/encryption-setup.webp": {
+          "sha256": "ebe9fcb8accece3e6854adae676c6512135eff94d279c6c85617fbaa20886fa2",
+          "size": 50634
+        },
+        "screens/ja/encryption-unlock.webp": {
+          "sha256": "75cfb8e9c3744c2c9bdf2ca6f6831437ffbdccf9eb5486c887314fb76547a8dc",
+          "size": 38152
+        },
+        "screens/ja/evernote.webp": {
+          "sha256": "1357c7812d746a98ed50b2dda16ba2f8a692f16273e46a1bbe36efd2fb0befc1",
+          "size": 106580
+        },
+        "screens/ja/home-expanded.webp": {
+          "sha256": "b613bb5bea3049bd43a5016582122f190c6a8c790bb8f2f35ec513e16feb76c9",
+          "size": 103904
+        },
+        "screens/ja/home.webp": {
+          "sha256": "25d02b37aa237cf9eaabda8ff0a295ece94316019133b729099c7c68e38afbdd",
+          "size": 105794
+        },
+        "screens/ja/local-backup.webp": {
+          "sha256": "0bed1673d9714dbf6abfac041ff6385aa522d6d7433da6dfcafc22926e61424d",
+          "size": 43328
+        },
+        "screens/ja/local-restore.webp": {
+          "sha256": "597ea932ea7e1f5ebdb19e4348a7e572446006e83f070cfc612e6e88f3b9a106",
+          "size": 37634
+        },
+        "screens/ja/new-drawer.webp": {
+          "sha256": "592ca21babd7af668c8066cd89cdf6540679e4c3bddb927bc82aa00fb8859514",
+          "size": 57076
+        },
+        "screens/ja/note-editor.webp": {
+          "sha256": "ec7ddb4967311f30780153cdcccd9805d4d4f64fd84ea23a1a8d619a393b2f3d",
+          "size": 51262
+        },
+        "screens/ja/note-list.webp": {
+          "sha256": "a91cbf108a1e80b97ee035ddc35430e408345091959d97ff4b58b4d7dcf53c7b",
+          "size": 41612
+        },
+        "screens/ja/note-search.webp": {
+          "sha256": "5dc8202d66f71f3a8e0152c4e9c5431ae078961cdfb0e8c499ea69f01c72ea7b",
+          "size": 35124
+        },
+        "screens/ja/note-selection.webp": {
+          "sha256": "d87f5f6c5c2161a72fe0ef64e21314c77abb5ed5f1f9e63a89f0c2a07452ee3f",
+          "size": 49672
+        },
+        "screens/ja/note-view.webp": {
+          "sha256": "d60c8470161e1bc878d34f009b009b1beb970b7d5de33f1a3da359cb21a40c1f",
+          "size": 16658
+        },
+        "screens/ja/photo-menu.webp": {
+          "sha256": "a8a6b32a5a7a34a6038a9797bf5388aa82b1d88188e32ca8d450d76191cfecab",
+          "size": 6584
+        },
+        "screens/ja/photo-viewer.webp": {
+          "sha256": "084c8fbf72e01dc93d86c16ae620fad698cfd3d86ac95152f42c70e64e27f3a4",
+          "size": 23714
+        },
+        "screens/ja/quantity.webp": {
+          "sha256": "5f5b9abbf790e804a63e537971583283421e12ed6e707150c3bf44787f09f521",
+          "size": 10390
+        },
+        "screens/ja/repeat.webp": {
+          "sha256": "7c8cf6ac1aa9ad6438caab1734884c7b1dd7a09f6537f6b16dea64b9fca05b70",
+          "size": 47074
+        },
+        "screens/ja/search.webp": {
+          "sha256": "4462dbcc4eef2855cf527b35e4214ea78810602ea29e6c89dcb621d4e65d9ad4",
+          "size": 64066
+        },
+        "screens/ja/security.webp": {
+          "sha256": "da6e7f972ac11b9d70074ad5486df502d0c19e0470bc30a80cc54b4baf751e71",
+          "size": 58218
+        },
+        "screens/ja/settings.webp": {
+          "sha256": "565daee58061fa2359329efbbd0374eda0f7a4693b68b82d7cd614473447bd16",
+          "size": 53446
+        },
+        "screens/ja/shopping-widget.webp": {
+          "sha256": "782530388e5b7be8361603ad358983289257293d4ebfc9a2ed25f5414a0f2057",
+          "size": 19740
+        },
+        "screens/ja/shopping.webp": {
+          "sha256": "6f56a79917bae9b96177b427dee8373652ec01d575695d9a0d0906d8807da465",
+          "size": 25076
+        },
+        "screens/ja/task-alert.webp": {
+          "sha256": "22f666a33511e80b458535326fba0723ba7f2958b93de7e739968ff122fa6a8d",
+          "size": 49872
+        },
+        "screens/ja/task-menu.webp": {
+          "sha256": "4b4721f1f54c9e94553a954ab27c14434a94bca9fad818c1d7e30b50906ca4ca",
+          "size": 11164
+        },
+        "screens/ja/task-move.webp": {
+          "sha256": "6a7e13708b44eb76e394651fd9d447878843256a69767439e2cf4681f91263f3",
+          "size": 35382
+        },
+        "screens/ja/task-overview.webp": {
+          "sha256": "6aa3b9ca7391c2a7bdd415e12af694c07923d6d5733e4397a53fe9333704294d",
+          "size": 35886
+        },
+        "screens/ja/task-time.webp": {
+          "sha256": "3e8716ba353d6a6f0dd6655171123756ca6e328932e222bdaa9334cf1a5ec4e0",
+          "size": 18256
+        },
+        "screens/ja/themes.webp": {
+          "sha256": "55525642feab07811c33196832a2389fff4657cf646d57183346d9a9a47e5d36",
+          "size": 74388
+        },
+        "screens/ja/today-widget.webp": {
+          "sha256": "34d5f15fb730c94c0fde13c97ff91d7db74b8d1b7decd278daaafcc41988092d",
+          "size": 28234
+        },
+        "screens/ja/trash.webp": {
+          "sha256": "f279fec8b4125eca62b6a444d5f5d55eac26618a38578f1b917e8c5403eb305a",
+          "size": 28122
+        },
+        "screens/ja/wide-home.webp": {
+          "sha256": "e165ad5a13eb8cf838af271305968b66235d945ba3441fdc6df5db98020c24cd",
+          "size": 127294
+        }
+      }
+    },
+    "hi": {
+      "sha256": "9564fad9b318257e1e181569b46430e4ab8005bdfeb874086fdd5f529c85981c",
+      "size": 1925283,
+      "files": {
+        "screens/hi/backup.webp": {
+          "sha256": "b21e1b7561198ccdadd9f8a7fa48a21a4e39c6dd2b0920cbd7fcd7b6db93d4c1",
+          "size": 66248
+        },
+        "screens/hi/cabinet-settings.webp": {
+          "sha256": "b79e8e73b17151a9bd75e0acf4045a82164d0f2ecc66badc6748af665e2729bd",
+          "size": 15354
+        },
+        "screens/hi/calendar-import.webp": {
+          "sha256": "f0195508f675368a8e953efe2098e770980d6134fd5684269c45de4eaef7724b",
+          "size": 33658
+        },
+        "screens/hi/calendar-register.webp": {
+          "sha256": "38cdb67fe354bf91aed0700776c71463c81a44a27ebc3fefd778646a67982af7",
+          "size": 31278
+        },
+        "screens/hi/diary-calendar.webp": {
+          "sha256": "ae4fd5de89442d14a7b239cf8783cb33d25a2b306d062a7872bc3f0f13a046e0",
+          "size": 20826
+        },
+        "screens/hi/diary-readonly.webp": {
+          "sha256": "5e1dc90e437802ddda930452c53daba39e618ca6261a3ce590b5b8d347995e92",
+          "size": 25880
+        },
+        "screens/hi/diary-today.webp": {
+          "sha256": "b4281edebca0e61233234168dcf3dfc5c60b0334b1a9272eb87b3e5798197e06",
+          "size": 34408
+        },
+        "screens/hi/drawer-batch-move.webp": {
+          "sha256": "f6343049271d5750ae23255c8b2b868624d019041859590931125fbbdb4f78a9",
+          "size": 18004
+        },
+        "screens/hi/drawer-colors.webp": {
+          "sha256": "9edf77d6ef0de12c3acc01793851b43b10841741c1e8af47d151fe2f383c13b9",
+          "size": 57558
+        },
+        "screens/hi/drawer-icons.webp": {
+          "sha256": "e63ccb8ef5701c3cb42de3478ab4f22e5df5b151ff4a88badceef9ead555d229",
+          "size": 48932
+        },
+        "screens/hi/drawer-menu.webp": {
+          "sha256": "d6031acc2e2045debbfc4b1268e892dbb0f8831eef5f5d7a3c2cea6a61586fa9",
+          "size": 17634
+        },
+        "screens/hi/drawer-move.webp": {
+          "sha256": "bb80996e7ed4bb8835ed90ce3561008752594b67579e4e35b9eb6da29203420f",
+          "size": 23372
+        },
+        "screens/hi/drawer-search.webp": {
+          "sha256": "225cbbd3db8e3a7e2a4b900c35170a5dcfd4fe6bd5fa795d8e3abed3797e9a28",
+          "size": 27198
+        },
+        "screens/hi/drawer-view.webp": {
+          "sha256": "4b21bd4e5c9487ce54bd87dc5e99fac380a4e0bb5115cd882dd2c37e911c51b2",
+          "size": 46750
+        },
+        "screens/hi/drawing-editor.webp": {
+          "sha256": "2916f7e9a2b3d99c472935f89655670477ce9a3fd2b2f4d4b24bf59cfc3b1fb6",
+          "size": 39726
+        },
+        "screens/hi/encrypted-drawer-menu.webp": {
+          "sha256": "1d2afcee9b16ce9e55abb85cae801371bfe115ec02b447b0224d1d6dc51af1ff",
+          "size": 18628
+        },
+        "screens/hi/encrypted-home.webp": {
+          "sha256": "d273d15a4a4b2d0a0b616c2d9f8177dbc5760e7f32bd9d9118adee265414c10f",
+          "size": 118744
+        },
+        "screens/hi/encryption-badge.webp": {
+          "sha256": "ea087f6c13543d1b3f7134854a4804c671e70dfe006832403abbcd5cf4764b6d",
+          "size": 5188
+        },
+        "screens/hi/encryption-disable.webp": {
+          "sha256": "e10e1a88eada23c0565a3239f9990d228b4be6545b9f9084a6d3b8fccd807d68",
+          "size": 35688
+        },
+        "screens/hi/encryption-password.webp": {
+          "sha256": "dfc3e918cd6a0e038a52455f712159b994b6f604f0913a38a60d83f37f3cac33",
+          "size": 38028
+        },
+        "screens/hi/encryption-recovery.webp": {
+          "sha256": "c2b58ea25c52003b81d2fbbd2165a24d401548d077b7e93fb0a90336ac329c4c",
+          "size": 38156
+        },
+        "screens/hi/encryption-settings.webp": {
+          "sha256": "147a57a35af0ab3138998425ebec08972a439e563a6c0bf5ae918516fe13c169",
+          "size": 19712
+        },
+        "screens/hi/encryption-setup.webp": {
+          "sha256": "c597313479cb9680d75caf2d47c35d43c87b09300d07e45a09a5a0b9428948ee",
+          "size": 34114
+        },
+        "screens/hi/encryption-unlock.webp": {
+          "sha256": "98c1f97f49b1ee8d79f81a5b11477f25e2b8cd3eb37a02805d464a7045091873",
+          "size": 27250
+        },
+        "screens/hi/evernote.webp": {
+          "sha256": "7945c9aa97abd80010f49a7620da055ac81232eca1b3768c12987031fd096c2c",
+          "size": 55382
+        },
+        "screens/hi/home-expanded.webp": {
+          "sha256": "6c04771260646458e4594b7c327ecc114c5c6d4ea0f04115004935956d376aaf",
+          "size": 100288
+        },
+        "screens/hi/home.webp": {
+          "sha256": "5a9b50cf959d59887691fe313dafd62363d3173eff49ac1857a32843dfca17f5",
+          "size": 100586
+        },
+        "screens/hi/local-backup.webp": {
+          "sha256": "34b6ba1e9c40df285599baf93f2962268e8ca176620be2f9e33f2dc1def0499b",
+          "size": 25636
+        },
+        "screens/hi/local-restore.webp": {
+          "sha256": "31ff7fbf0ef3106a0ff82fd02e4c6e2b27e5ea39d182ad3a73508ede61765510",
+          "size": 23728
+        },
+        "screens/hi/new-drawer.webp": {
+          "sha256": "076b1c1caa4379fa4c6dcf0298f5506e4eddf792f1883f4a22fac92ca66f3960",
+          "size": 52058
+        },
+        "screens/hi/note-editor.webp": {
+          "sha256": "f14c1d5e5bd8631986f096b339f123f0c8aebe4269c5807e2cc24dbd4152bd60",
+          "size": 44908
+        },
+        "screens/hi/note-list.webp": {
+          "sha256": "d0689f779a527c469ccfbd803040e865fb47695248564267d9ea7bb5a065a70e",
+          "size": 33476
+        },
+        "screens/hi/note-search.webp": {
+          "sha256": "dba2a56c56d348b7a694558b863e906f7e6ca884bc035a8ff65969114db9ca9a",
+          "size": 32608
+        },
+        "screens/hi/note-selection.webp": {
+          "sha256": "62445aa16041a586c693099fd07d0c0c526db2d277aaed57219bc43dfe393a52",
+          "size": 37488
+        },
+        "screens/hi/note-view.webp": {
+          "sha256": "2188addd43715b715903d99a2dd3e5073c379ee9440e1f061054a8c89183f67a",
+          "size": 14650
+        },
+        "screens/hi/photo-menu.webp": {
+          "sha256": "4418fdc6f42f6decb9b4637dbd78058f8c47bf45c1d1fcaa08848a59f5f5f3ca",
+          "size": 5290
+        },
+        "screens/hi/photo-viewer.webp": {
+          "sha256": "3c94fab1e188360cb7826e2cd35be051dedca96d3812c0a126a96f0c56c2b5e1",
+          "size": 23766
+        },
+        "screens/hi/quantity.webp": {
+          "sha256": "cfffc69ce8f97a37632c0e22903e970851cc53a4f950661d12629e81151845da",
+          "size": 7250
+        },
+        "screens/hi/repeat.webp": {
+          "sha256": "f04fe24a9edfa38ba97ca7d8359f9fe4c32c8f4bf6a524d1ef032d570e4e0850",
+          "size": 28562
+        },
+        "screens/hi/search.webp": {
+          "sha256": "d245f758d200e7748b299d716dde8b02a3cd8df67c957ea5a92e1290b01117d7",
+          "size": 25274
+        },
+        "screens/hi/security.webp": {
+          "sha256": "88b5211d881f8016404b0492908959ca29e727a75105c2c95d73680ef8193bfc",
+          "size": 40088
+        },
+        "screens/hi/settings.webp": {
+          "sha256": "089bbf9dd8a4c08f05cc10e81c6e79a60c73a38efd06ec105ac5b34321494b53",
+          "size": 42462
+        },
+        "screens/hi/shopping-widget.webp": {
+          "sha256": "1e8926fd98ff87bf6db9e6952413da15ecefefb55a43f998c819178a66d1ce69",
+          "size": 17842
+        },
+        "screens/hi/shopping.webp": {
+          "sha256": "b215ffd4ca7109ea1a216b02a8f9da0ba6f2f5e14d00b1b8cd0538a586f9ff10",
+          "size": 24622
+        },
+        "screens/hi/task-alert.webp": {
+          "sha256": "e2b08d3297bc46774e48451aff014e0f16b971d9a1d38d1ca9b3e8ebe096b07e",
+          "size": 33628
+        },
+        "screens/hi/task-menu.webp": {
+          "sha256": "cd2c47dbd3a4f77e9716d9e2fbae3d02f7c0b73de1274b7c354902ebfd4caeae",
+          "size": 8002
+        },
+        "screens/hi/task-move.webp": {
+          "sha256": "4461a9a9bf167ba58fe7ff94b46122367985e55e293e971a3d3425c90e5f7912",
+          "size": 30304
+        },
+        "screens/hi/task-overview.webp": {
+          "sha256": "a2411ae40546f580b1b4fd675d74e463c24ffb49e4e9e5d6885a8c90f2205467",
+          "size": 30574
+        },
+        "screens/hi/task-time.webp": {
+          "sha256": "7420cd9e0ee29a2ca0b008d4562a591b68ac0c178fc3a7834b5d8edc285024c0",
+          "size": 17348
+        },
+        "screens/hi/themes.webp": {
+          "sha256": "124c5d9bd09c0d490f3eac93c3794eb0c72802722c15b8e21ad0e1ae311b0782",
+          "size": 70090
+        },
+        "screens/hi/today-widget.webp": {
+          "sha256": "204416c7f728592d081cfdabc8a19ebef7a3adc97704ddfed0ce46113c07d216",
+          "size": 22272
+        },
+        "screens/hi/trash.webp": {
+          "sha256": "0acb15b72e12eac16416774a9ad3c311ae8a52b93dfbe7d1f3fa699bbbce0a2e",
+          "size": 26598
+        },
+        "screens/hi/wide-home.webp": {
+          "sha256": "f216f28ca1ebe3e9494706c404057506febd0c082ebab98ac064767955d3219f",
+          "size": 120948
+        }
+      }
+    },
+    "pt-BR": {
+      "sha256": "d2a4b3811369497fc6a4092a2042758b0368c181a2006813a817d182a9933611",
+      "size": 2003942,
+      "files": {
+        "screens/pt-BR/backup.webp": {
+          "sha256": "256f4f665c61a75c5848f33bfc55a3c0eda6a9d5cb8d660916fe9df20c9aed16",
+          "size": 68380
+        },
+        "screens/pt-BR/cabinet-settings.webp": {
+          "sha256": "25b8cd1be2cf27a029e2ea3b9ddfa5f013b7e7e6c03f8a83ce163466ad8c2093",
+          "size": 14064
+        },
+        "screens/pt-BR/calendar-import.webp": {
+          "sha256": "28d1740318c6d6349b05040b6ddb265148efee2202dcbc8697140a68b3b72a9a",
+          "size": 35366
+        },
+        "screens/pt-BR/calendar-register.webp": {
+          "sha256": "bcebfbf672fb4f94e0c9656b36de94723b4ed08dcd3b54c4ae1aa8bb3b1aac4c",
+          "size": 32610
+        },
+        "screens/pt-BR/diary-calendar.webp": {
+          "sha256": "d573e83baefd40287e609644beea4cb2d0a561a916e6e37b70e91680185e612b",
+          "size": 21760
+        },
+        "screens/pt-BR/diary-readonly.webp": {
+          "sha256": "095456e7abbedce3d09c45dd475e53e3f86215f6bbb506048f6c49ee3d9ded53",
+          "size": 25908
+        },
+        "screens/pt-BR/diary-today.webp": {
+          "sha256": "d442cbebb0575c3bfde987cb5c17474e5e5192daa2eb5b979028569485dd384d",
+          "size": 34220
+        },
+        "screens/pt-BR/drawer-batch-move.webp": {
+          "sha256": "39db1be0e003b1a979a731cf55578474ee7a56ac9e2c5e9364d658e1b7d463d9",
+          "size": 19210
+        },
+        "screens/pt-BR/drawer-colors.webp": {
+          "sha256": "abc2cae9b294c1215497857f9b74cb1a42e7027987ff4e4bb173aab8da7f660b",
+          "size": 69074
+        },
+        "screens/pt-BR/drawer-icons.webp": {
+          "sha256": "4622bf47d057f768825fcf7ce09679d514fac786bd0eb5d378f1fa6260e5a00f",
+          "size": 41438
+        },
+        "screens/pt-BR/drawer-menu.webp": {
+          "sha256": "d93d46515bfe9273d32083b084e98595767a7b52f4caea806ef67a386df5ca02",
+          "size": 19952
+        },
+        "screens/pt-BR/drawer-move.webp": {
+          "sha256": "3bbd8ca81133b0e1ecb8434db6785548c18e9ce2df541f099413a983f3605f1c",
+          "size": 25424
+        },
+        "screens/pt-BR/drawer-search.webp": {
+          "sha256": "289ca268996eaef8cd47e54322d6b2bbcce1237c0a57c8e302e2415ab8353c5f",
+          "size": 27506
+        },
+        "screens/pt-BR/drawer-view.webp": {
+          "sha256": "47e38568ffd0ea76730002b41c64bc145621c722d0449c4e3c26c822926aa28e",
+          "size": 48436
+        },
+        "screens/pt-BR/drawing-editor.webp": {
+          "sha256": "6ae86a34eb3d12a11eb4155b3a5c7c074ed56629f96c74227e089e024cc1de5c",
+          "size": 37720
+        },
+        "screens/pt-BR/encrypted-drawer-menu.webp": {
+          "sha256": "d4402950cb18a6efe0b7fc3b5ac1c7a7d87af7c25b2b2350e7734438c395dc8a",
+          "size": 20986
+        },
+        "screens/pt-BR/encrypted-home.webp": {
+          "sha256": "b5f04f7fd1e92a5a14682b3e94963f60566d21a61b81b02dcba85c8bf2c6ab79",
+          "size": 124040
+        },
+        "screens/pt-BR/encryption-badge.webp": {
+          "sha256": "6cb35378c2af84c29bae41731fac5bffdc2bb7cf02df9fe3a84e1f2a94ae51f1",
+          "size": 5296
+        },
+        "screens/pt-BR/encryption-disable.webp": {
+          "sha256": "18a9a10a7da2c2d4bbd270e9f96e500b7fd5231dcd89e9e37421f497ccc21801",
+          "size": 29460
+        },
+        "screens/pt-BR/encryption-password.webp": {
+          "sha256": "44d9bc3cf1c0f9bd4fc2cef158ecc301b8597682dd525dd7de1b89e96b801bb5",
+          "size": 40332
+        },
+        "screens/pt-BR/encryption-recovery.webp": {
+          "sha256": "a468c6da6fe859bc17e8d3de3c6117c165c19015b0c5e7a16d3b6dade7cc708e",
+          "size": 39790
+        },
+        "screens/pt-BR/encryption-settings.webp": {
+          "sha256": "5cfc0c9f95e6e3ff60d0725d7fdcac1baf3d7669015391f3e84e91a806956a85",
+          "size": 22086
+        },
+        "screens/pt-BR/encryption-setup.webp": {
+          "sha256": "8354d31b030bd65f8ea9e58bde939a37af6e61af7e27da68e1087e54da0e21ff",
+          "size": 37284
+        },
+        "screens/pt-BR/encryption-unlock.webp": {
+          "sha256": "3f1aadd0ededdbe64952fcbf2f82e7fdf827d5563db348e1b23d673f4ab037cd",
+          "size": 27836
+        },
+        "screens/pt-BR/evernote.webp": {
+          "sha256": "53b512596b890e49b930b011f96451731af2ff8cdeef298313d7fb2af1655b9d",
+          "size": 51852
+        },
+        "screens/pt-BR/home-expanded.webp": {
+          "sha256": "e204e6b1a0ca5e5917695cc55276428901e64e48db0e72d3a7f64eca7eab83cf",
+          "size": 105668
+        },
+        "screens/pt-BR/home.webp": {
+          "sha256": "49a8e1ad9fb3825e38054d749cdc6fe583117512271ad7d5950ef815ab811838",
+          "size": 106472
+        },
+        "screens/pt-BR/local-backup.webp": {
+          "sha256": "80885598d562caa6594767f4f61fc84a64f05a6c7f710d6f95c9616d63d5c4c6",
+          "size": 27132
+        },
+        "screens/pt-BR/local-restore.webp": {
+          "sha256": "26fa1ab2f7f03112c0114c38bf4530cd8ab0c633f91306835b204eecf5c319a5",
+          "size": 28828
+        },
+        "screens/pt-BR/new-drawer.webp": {
+          "sha256": "7607a226e40a3664f0c98a68b36ee298873e88d0ace9ac14ce692f077ab84a19",
+          "size": 58260
+        },
+        "screens/pt-BR/note-editor.webp": {
+          "sha256": "e646b77714f3c3362f5a383a68f1b4d588e9de80ea4a9f755b18463506fb6465",
+          "size": 46248
+        },
+        "screens/pt-BR/note-list.webp": {
+          "sha256": "03ebdd022f063e57d20cb6ab030762af6b36cc232eb0d1085fde309053bbe2ab",
+          "size": 35170
+        },
+        "screens/pt-BR/note-search.webp": {
+          "sha256": "bcce9816c99cf23187b2d59e99cb8a48cb1a47c674bd0e38e7898fc5301ea0ef",
+          "size": 31664
+        },
+        "screens/pt-BR/note-selection.webp": {
+          "sha256": "c027809308d2b2ce36b2fe03c426a633dbc60f38688db71381f7b7c5a7f2c171",
+          "size": 39808
+        },
+        "screens/pt-BR/note-view.webp": {
+          "sha256": "e387b2db1b75630cb29536760398309f4d3b7716187bf749d3c470e20a74f38f",
+          "size": 15062
+        },
+        "screens/pt-BR/photo-menu.webp": {
+          "sha256": "f8841b74759909c24e8766b82c3d3e968b397e692a06a4cdccac93b7e1e17acf",
+          "size": 5786
+        },
+        "screens/pt-BR/photo-viewer.webp": {
+          "sha256": "7d170cebd0259984bec03c73cdc227017c67d6ed7523cfce5faacec0ddb553aa",
+          "size": 22840
+        },
+        "screens/pt-BR/quantity.webp": {
+          "sha256": "e027d3de996f6bef236b780fef4666e7eb7174e5a86fc8d3230b746820ee8be2",
+          "size": 9454
+        },
+        "screens/pt-BR/repeat.webp": {
+          "sha256": "2c532c19ce739e1fa93c99730603212497a00a6397321285419165d9507cca18",
+          "size": 32958
+        },
+        "screens/pt-BR/search.webp": {
+          "sha256": "446e94f1b73ee9067bb25e5848b8ff3f0eacbd194e2f4492b3e0b30adb6604e0",
+          "size": 26112
+        },
+        "screens/pt-BR/security.webp": {
+          "sha256": "725731cb29bfb8e10d0983f98539761df82aaa94619a3799c7f29aabd63d9906",
+          "size": 42294
+        },
+        "screens/pt-BR/settings.webp": {
+          "sha256": "0f3ea8407edacc3d6a65b2b191e698ae1bac214dc14ac162ea87fc860e2ff6f7",
+          "size": 44972
+        },
+        "screens/pt-BR/shopping-widget.webp": {
+          "sha256": "d21ae83eaf481028f48c7cd4d1a13cb0d5853084d9a0492098c0f70faae3763c",
+          "size": 18106
+        },
+        "screens/pt-BR/shopping.webp": {
+          "sha256": "e6124d479d9775dfe3e60612affb9ccfc27e3fd934dba602686c3a531aea9c17",
+          "size": 24550
+        },
+        "screens/pt-BR/task-alert.webp": {
+          "sha256": "057d2c927a3da56082ac769a20345b1cfdab9298a27d3689d22d371c3ff91e3f",
+          "size": 33560
+        },
+        "screens/pt-BR/task-menu.webp": {
+          "sha256": "6394f441facac2dec94c5fdd407fe64c41a6a9f49af3f2f335d2b2d5f9f2477c",
+          "size": 8754
+        },
+        "screens/pt-BR/task-move.webp": {
+          "sha256": "969a49735ee9e4a477bcb8e531e0ad999c1c42b50c51b5927dba436e76f86723",
+          "size": 32722
+        },
+        "screens/pt-BR/task-overview.webp": {
+          "sha256": "4b57f232f09038b945bce52d8d068b4f2c3bf2a5b4f081f0075b3f66cb041f5d",
+          "size": 32338
+        },
+        "screens/pt-BR/task-time.webp": {
+          "sha256": "75ea5db125a7b1e1d2422b70149acc45d28f8ae5f0e30e4a5c10544224592e69",
+          "size": 21330
+        },
+        "screens/pt-BR/themes.webp": {
+          "sha256": "7d1e1e3ae94846eb601c846562a944018a6cbe3dfaf67ac94ff5bd0616b860b7",
+          "size": 74664
+        },
+        "screens/pt-BR/today-widget.webp": {
+          "sha256": "5b1fe4da42454e1505012d62ba11ba73389ddf077c2fca2f97bfb4be3cb0fdeb",
+          "size": 23992
+        },
+        "screens/pt-BR/trash.webp": {
+          "sha256": "8ed223ffa0e0342762106fe288e788ef55d2d8cbd3a2f91db3c905cdd4370970",
+          "size": 26628
+        },
+        "screens/pt-BR/wide-home.webp": {
+          "sha256": "ed28d638279da24fb3ddcff8c767fb0dfee4503c943223ea8fc4b506bea49faf",
+          "size": 127498
+        }
+      }
+    },
+    "es": {
+      "sha256": "48be07cb2964738b8da81a898035d580fc49e129a08ba3a5bbe2f2ab7fe968ab",
+      "size": 1999446,
+      "files": {
+        "screens/es/backup.webp": {
+          "sha256": "b3d905b656685d55bbd69e4f9fd7f01f7ccf0abe3ffdd7f51507837be5db24e1",
+          "size": 70648
+        },
+        "screens/es/cabinet-settings.webp": {
+          "sha256": "ee0efea1e6e3ebe7c98fecce07c31106bdf516ba6e3765a0aa196cfe08ee0cf7",
+          "size": 15788
+        },
+        "screens/es/calendar-import.webp": {
+          "sha256": "4c8bdf68db0bebbaacb2a75372a8da6bf84fd8c2157bc418ea571b9780cc353f",
+          "size": 33988
+        },
+        "screens/es/calendar-register.webp": {
+          "sha256": "9f3a56e7da2918ce0be277d89c4db4210aee98ae33bb7338e14b27021edc9454",
+          "size": 31322
+        },
+        "screens/es/diary-calendar.webp": {
+          "sha256": "300b6869c5b09cd5b8fceddbeab59287b07b066610de454381021d722b19f976",
+          "size": 21442
+        },
+        "screens/es/diary-readonly.webp": {
+          "sha256": "ccecfa638a28a48c74c16239cc10d22efd5b36b0cb2944b230e29da5d86e0e57",
+          "size": 25868
+        },
+        "screens/es/diary-today.webp": {
+          "sha256": "df195ad059c93d414d332661e029f3bced6a6f1a48ee563458386c6fea3cb2d6",
+          "size": 33928
+        },
+        "screens/es/drawer-batch-move.webp": {
+          "sha256": "2a2235a6b83617aaf09ad6f2c72cb373c176b980ac5e4e8c6691c884e7b47f83",
+          "size": 18510
+        },
+        "screens/es/drawer-colors.webp": {
+          "sha256": "428f32255b819377112ea09f1571cdece7b0acfc3006afc890551e66b50da7e2",
+          "size": 67010
+        },
+        "screens/es/drawer-icons.webp": {
+          "sha256": "199527383952c278631ee241a35a3f6b9127e1d57964e737a149b5ff37b979fa",
+          "size": 41236
+        },
+        "screens/es/drawer-menu.webp": {
+          "sha256": "19fb3c2d674c20c1bf35445db8a764f14860d72f91a28015797f6b6061d7245b",
+          "size": 18750
+        },
+        "screens/es/drawer-move.webp": {
+          "sha256": "fb1c23727712586c8c29956581ec4a7c00c00284715dc5317fdb3db2e9b9b960",
+          "size": 23786
+        },
+        "screens/es/drawer-search.webp": {
+          "sha256": "715a41ca1f5ff3a36def3cd49c75840f0c65b38635d7747f5556f939c77c3172",
+          "size": 28340
+        },
+        "screens/es/drawer-view.webp": {
+          "sha256": "c74b76c23f150a7ee773093bbbb42449047ab6fbe2e72891f219ef2dd625be05",
+          "size": 48594
+        },
+        "screens/es/drawing-editor.webp": {
+          "sha256": "2cf8938a857cfad8494892515857bbd7bd5e849a82e6202589eb51d40caf561c",
+          "size": 38448
+        },
+        "screens/es/encrypted-drawer-menu.webp": {
+          "sha256": "d4b1a98ed485d5e326704477cfc70357fab62eac8673e750c46a8bf3c2212bc2",
+          "size": 19080
+        },
+        "screens/es/encrypted-home.webp": {
+          "sha256": "afe37643c66d101c826e1b641e811d82baa041891e87853d25460d06a3a313a1",
+          "size": 123948
+        },
+        "screens/es/encryption-badge.webp": {
+          "sha256": "2590ab942cb14f8f5eea17939636bf7a80265f65ee14ec3de574bad3cc50a60f",
+          "size": 5406
+        },
+        "screens/es/encryption-disable.webp": {
+          "sha256": "1f27de4083cdafef6f5b4094baa7225b362bffeef4a84125fb533407250d49cb",
+          "size": 27832
+        },
+        "screens/es/encryption-password.webp": {
+          "sha256": "66c6b64aa85d8d290dfb7865e05d19fc53812d9b10ff15f5e05d897c29310d5a",
+          "size": 40840
+        },
+        "screens/es/encryption-recovery.webp": {
+          "sha256": "c6cfa6c26fee640284954fea61a473867897746088fa1567aa080356ec35fbe7",
+          "size": 42032
+        },
+        "screens/es/encryption-settings.webp": {
+          "sha256": "76d8b20cf40a99d077c339ff33cfe13defe10fa4af9f6e66caba1ef2f2890610",
+          "size": 20932
+        },
+        "screens/es/encryption-setup.webp": {
+          "sha256": "cc5761858bd823f42e699fc4b16c1aa2ff5c1093f63961aba1b16ce20a94acf4",
+          "size": 34506
+        },
+        "screens/es/encryption-unlock.webp": {
+          "sha256": "0e69a66e19c936c38eb735acc9beebe13e4bbade2b7cbaf52577f23124ec0942",
+          "size": 27800
+        },
+        "screens/es/evernote.webp": {
+          "sha256": "c795ac38f623b1d4e57f10bf1c49db02e1988ed5342c7dec89926f194a07ec5f",
+          "size": 51868
+        },
+        "screens/es/home-expanded.webp": {
+          "sha256": "083817e3deda65a19fd1cff8202b796f48a529b86f029a8a5d841670338e5516",
+          "size": 104546
+        },
+        "screens/es/home.webp": {
+          "sha256": "94370a9dcb1bae78a2333834418a0bb06b0c9327764eb0a8d8fceb086ca01a14",
+          "size": 106076
+        },
+        "screens/es/local-backup.webp": {
+          "sha256": "1187a766722dc8847ff80100536869c565b9618c153b840f001c19ade99de679",
+          "size": 25372
+        },
+        "screens/es/local-restore.webp": {
+          "sha256": "2fca98341b59bd48061882a5c74618d97e04bfc377ee320bbac6d4e869230fd2",
+          "size": 29586
+        },
+        "screens/es/new-drawer.webp": {
+          "sha256": "c371478b343eb25711700864a413463dca5bd16fbf303fd0c994208121dab2bd",
+          "size": 58146
+        },
+        "screens/es/note-editor.webp": {
+          "sha256": "7d79305f34286513e8395929441f0c19e1fb67bd6efff6edb28e032ea16e3b3a",
+          "size": 46152
+        },
+        "screens/es/note-list.webp": {
+          "sha256": "2f432199169a23f9f98798978d01f5197d0f5efe7f9dd3b0bb6e3cc6e3c730c2",
+          "size": 35248
+        },
+        "screens/es/note-search.webp": {
+          "sha256": "6ca5af1f869ad2f67ae078a9f4403605ddc4797852728d7bda605c6bddd7f4f3",
+          "size": 33076
+        },
+        "screens/es/note-selection.webp": {
+          "sha256": "518245de45af6c92437ee7cea29776c6ee4ed03708af62867551a93fc3c1b193",
+          "size": 39272
+        },
+        "screens/es/note-view.webp": {
+          "sha256": "b28f6be5a8683d011a7b82a5dbfcb3c718c8d659401085b4097c70bb0ae6720e",
+          "size": 14520
+        },
+        "screens/es/photo-menu.webp": {
+          "sha256": "be676ceffb7b0faa7960ddd485ce653fcaafbb79ba4f78a3c1a942254006d555",
+          "size": 5086
+        },
+        "screens/es/photo-viewer.webp": {
+          "sha256": "f24b11f401028efec2ab892fde229ba4e4c9cd54b5a0c4fbaa5cdf68a74d15af",
+          "size": 22784
+        },
+        "screens/es/quantity.webp": {
+          "sha256": "410a04e9b5a991e98a4a84279a561947884bacaa25927f8c9eed06e077e183d6",
+          "size": 9108
+        },
+        "screens/es/repeat.webp": {
+          "sha256": "9d3b387cf16892629406b2604be2c5a1baa9788c6dad08bec02efab9b57a1b19",
+          "size": 31192
+        },
+        "screens/es/search.webp": {
+          "sha256": "a73e3ab897208082dcb1387c35489166f5e949b55d097d0a5b3b56704cb55c7c",
+          "size": 40558
+        },
+        "screens/es/security.webp": {
+          "sha256": "069e8943163004c42733b96853aa358bbe0e405b023f886e5acb7fa5a3281322",
+          "size": 42304
+        },
+        "screens/es/settings.webp": {
+          "sha256": "80e259a2b8e4528d673da9bc48cce01ca12c9361f1fe59c5b709557241f28b9d",
+          "size": 41238
+        },
+        "screens/es/shopping-widget.webp": {
+          "sha256": "fbb7e2c5a2bf9ee0d33c5c9f2abbcb3f6e18bc56b947cc90c2c86851db2fc1d5",
+          "size": 19182
+        },
+        "screens/es/shopping.webp": {
+          "sha256": "82897f470a89a227cce10cb4f652e975a65e5a29729c98cfcac38dd0c10b60a1",
+          "size": 25234
+        },
+        "screens/es/task-alert.webp": {
+          "sha256": "e60fedb36afb01dcb3e4cba02f65397faf185e9e53eca996cda5294d804201c2",
+          "size": 32726
+        },
+        "screens/es/task-menu.webp": {
+          "sha256": "08a6d9234c07b87b1c5c3f294cd09ba69b0e90d4bd689fecbfa3a97b601781b3",
+          "size": 9254
+        },
+        "screens/es/task-move.webp": {
+          "sha256": "8b5e47bc045d316c1b0ca06630ccdc217e7a18a42465768ac78e1e04e7213315",
+          "size": 31682
+        },
+        "screens/es/task-overview.webp": {
+          "sha256": "1760ad360692aabd2f1f4ede2a7cda52d05ee414ed62d5404cbad3a2e38ac7d7",
+          "size": 31362
+        },
+        "screens/es/task-time.webp": {
+          "sha256": "a774ea74d3b297afe66dcdcfb7c3a83340a8114bbf164d092e39700ede3081d4",
+          "size": 19764
+        },
+        "screens/es/themes.webp": {
+          "sha256": "c74bdcad7c602f1bb2798b78eafeb7cf5a64e1ab2579c9718b7f13aea334ccf1",
+          "size": 75878
+        },
+        "screens/es/today-widget.webp": {
+          "sha256": "03f7d10f9f8dee8edbb9196a9d2d4950fa8a555a72c5ffe7b1a8071259fd45be",
+          "size": 23160
+        },
+        "screens/es/trash.webp": {
+          "sha256": "2d30474ad7099263683577d4cc8b52487c80d39abebf44abb6ca5078edd7ba60",
+          "size": 25874
+        },
+        "screens/es/wide-home.webp": {
+          "sha256": "3b8c6ebed64bf4ac8c8e09881386981293cde00fbfff925cbea7e1fbd687d766",
+          "size": 129702
+        }
+      }
+    },
+    "id": {
+      "sha256": "aa33136618fdf602d338b88d7acc2dd07fd634295a71c12a6e1b8bc814748515",
+      "size": 1890028,
+      "files": {
+        "screens/id/backup.webp": {
+          "sha256": "f64eeeba7cc1a1a50b8f4a61daf99c959a0eee97b097491085e57ccdc1cb0862",
+          "size": 61342
+        },
+        "screens/id/cabinet-settings.webp": {
+          "sha256": "e6789d3c829dea25e98ed79d3fe68cf0777eced2beda4eaa5992f056ff16464b",
+          "size": 12844
+        },
+        "screens/id/calendar-import.webp": {
+          "sha256": "f22c5bc5be225de51cad9aa1b3d5b09aeb27e51e9d693a6cddc9459c77dbf35f",
+          "size": 31128
+        },
+        "screens/id/calendar-register.webp": {
+          "sha256": "652154f0716439424f24ff62fcd4c528c98e26a771e2d09a924a19122d0a10ad",
+          "size": 30456
+        },
+        "screens/id/diary-calendar.webp": {
+          "sha256": "0255936a11dbc2b0043aaac6237675f683509497cf1cf4b30c94697be234bb0c",
+          "size": 20414
+        },
+        "screens/id/diary-readonly.webp": {
+          "sha256": "eb2c3c65497d74b1a957cea5a5111d4cc08a24c9f569558fec462b8701036ed3",
+          "size": 28596
+        },
+        "screens/id/diary-today.webp": {
+          "sha256": "d8273c48a73b9cc9441a3c9c90d49b4aabe9488d6f42422701afc323cd77f5dd",
+          "size": 33008
+        },
+        "screens/id/drawer-batch-move.webp": {
+          "sha256": "fb293941643b9d06e13a54f1d3886f3761a6b0720c6818a8085b61e13230e96f",
+          "size": 18686
+        },
+        "screens/id/drawer-colors.webp": {
+          "sha256": "95fe81a9c11bdf2e0e0b655d90a1887e05aaa0122ed77892cf2798cabc85634f",
+          "size": 58026
+        },
+        "screens/id/drawer-icons.webp": {
+          "sha256": "93d9502bf074bcee2b262f6e96f611dd72b01fdec91b8ccc29aaf4c8de138999",
+          "size": 48944
+        },
+        "screens/id/drawer-menu.webp": {
+          "sha256": "3b82f366afbeac1dea1b4fa62deb7691b81cdea61f743a0daa3a448a2115c2c2",
+          "size": 16368
+        },
+        "screens/id/drawer-move.webp": {
+          "sha256": "b59382cc78a014a1ae2829837e9efdba4bd4bd3c9a57ac46d4f14e0e0f41d4ea",
+          "size": 22564
+        },
+        "screens/id/drawer-search.webp": {
+          "sha256": "f6d15b09d6a4efa1a00bfbbb1b176467fe92f2d14fb9106e610028215ce23608",
+          "size": 25658
+        },
+        "screens/id/drawer-view.webp": {
+          "sha256": "4932683b3b479b2462daa0a1507ee094d2443f0c262473636325429df0d2595d",
+          "size": 41930
+        },
+        "screens/id/drawing-editor.webp": {
+          "sha256": "26bf7b0d10aac8cd0078f6b2ab71f26ee50f40b2d5f69c75fd8f41bf52e24612",
+          "size": 36916
+        },
+        "screens/id/encrypted-drawer-menu.webp": {
+          "sha256": "a3c6b3b5e86b262d276ffa1d5e38a84d9e901674a699fdb75adee6d4d8179e76",
+          "size": 16740
+        },
+        "screens/id/encrypted-home.webp": {
+          "sha256": "502813c9849c976e087fb9b6075751e1090917ca8c242d90abc63bb357738722",
+          "size": 120246
+        },
+        "screens/id/encryption-badge.webp": {
+          "sha256": "d099f67c1336bda78c676cfeb6bce41d0bafe8bfb3c4d006192d3370290225bd",
+          "size": 5046
+        },
+        "screens/id/encryption-disable.webp": {
+          "sha256": "f335719ca6e7bf78d6b8568d618c312c983f271e7c72ddfdfccd72b6e5b7a7ad",
+          "size": 24660
+        },
+        "screens/id/encryption-password.webp": {
+          "sha256": "c4b891404e6179870c2210de27bd25ddfe64d67f638a2c2ddc91789daf817712",
+          "size": 34642
+        },
+        "screens/id/encryption-recovery.webp": {
+          "sha256": "ccfdbea5814ceedc26a1498385ec6bc01c7359724292b4f413099b186516f98f",
+          "size": 36992
+        },
+        "screens/id/encryption-settings.webp": {
+          "sha256": "fd9bd1b2f9e5aa886faf5462d8390b06a4205974daf6bce0324fe256e8f603be",
+          "size": 17548
+        },
+        "screens/id/encryption-setup.webp": {
+          "sha256": "da9c95018a7e91a3d12ffff831c16402b5792b2f5f45297e3200ca510a69923b",
+          "size": 32450
+        },
+        "screens/id/encryption-unlock.webp": {
+          "sha256": "96191645026f7cde331339fa8704636882bcdf68e63cdfdc98cf3c7c0476e55e",
+          "size": 23696
+        },
+        "screens/id/evernote.webp": {
+          "sha256": "bb610dbf88a484f9e2ecdf96f24c08bb8db64fbef108ba8746da42e52f68fad8",
+          "size": 49138
+        },
+        "screens/id/home-expanded.webp": {
+          "sha256": "08a0ebc16dd9595e7d130d689b7b6a94300e73782509bb2bded7958615e1f27d",
+          "size": 101998
+        },
+        "screens/id/home.webp": {
+          "sha256": "c4f52e433517f0c014e79c025539c52a37de326c3603f4f911fa80ee7eb178b0",
+          "size": 102754
+        },
+        "screens/id/local-backup.webp": {
+          "sha256": "0b765c52c13663b5150f251832b93c659184799d76d6143f637b83db6823bd3a",
+          "size": 23456
+        },
+        "screens/id/local-restore.webp": {
+          "sha256": "d09df9b5e882e406d9c5e6fe83fb194518687d61218146b952b62fca1f3572d8",
+          "size": 22840
+        },
+        "screens/id/new-drawer.webp": {
+          "sha256": "14900f71dc0795cf7b5f503cb7894c968d00b9d7e61c633783cc447c62db722a",
+          "size": 48994
+        },
+        "screens/id/note-editor.webp": {
+          "sha256": "c004007d37de580d937c541bf245c1c2d0102d49df1f148870c87e778f6e5cac",
+          "size": 47464
+        },
+        "screens/id/note-list.webp": {
+          "sha256": "2a9d94dc144e37ac354c18761605ec0fde1029cf2788933c8f7df1741928041d",
+          "size": 35220
+        },
+        "screens/id/note-search.webp": {
+          "sha256": "b6b304ea015c3b7dff92840ea0857db985ca001eee644e8d3ca8bd6145c5aa37",
+          "size": 32816
+        },
+        "screens/id/note-selection.webp": {
+          "sha256": "b18432ec5c19343161ab98adfd8903c6660919f1c267f4088014bd411cc5c587",
+          "size": 39078
+        },
+        "screens/id/note-view.webp": {
+          "sha256": "b4bbab603a499d7510eabf81af58de6747b745a6b664492bd68676172884e7cc",
+          "size": 14410
+        },
+        "screens/id/photo-menu.webp": {
+          "sha256": "90912ce0d20b7a155cf73cedb200677ce0e0a54916fbae7f2e156d6b152f612f",
+          "size": 6268
+        },
+        "screens/id/photo-viewer.webp": {
+          "sha256": "a737bdbd84f7caa4fbba327ed9d64715ef12e58bd236e09a028f6ebaf5d72260",
+          "size": 22532
+        },
+        "screens/id/quantity.webp": {
+          "sha256": "525c1a1aefbcc7f356a6bbf2e40f3985edded2030903f7695221f8bfd262f732",
+          "size": 7584
+        },
+        "screens/id/repeat.webp": {
+          "sha256": "9e10960139329b47345d7bc4ebc620775c527eda28508b1c08beb39ce6055745",
+          "size": 30472
+        },
+        "screens/id/search.webp": {
+          "sha256": "442ae9b9439fe42496a26817a39771e3de2ecc82b7a865f8198b6bbdbf468d69",
+          "size": 45214
+        },
+        "screens/id/security.webp": {
+          "sha256": "1dee13e50e339ce592f0026b82e39dd131ebe8b40fa22d56f65bf36b227542d5",
+          "size": 36416
+        },
+        "screens/id/settings.webp": {
+          "sha256": "0b2b6c96da9777942ebce339e5b010176e3ec9f5e39159a0a8906c065ae0f790",
+          "size": 37776
+        },
+        "screens/id/shopping-widget.webp": {
+          "sha256": "4d7b82d2190eca7f433f38c0aa9caec0d2715a8d988ac436fffd9324f56ac2e0",
+          "size": 17186
+        },
+        "screens/id/shopping.webp": {
+          "sha256": "9c149865f4664e97969b4f8691e0629a3fa2a569ffaf3916008b3003eb309433",
+          "size": 23258
+        },
+        "screens/id/task-alert.webp": {
+          "sha256": "178645e16e2c61023ef487a946e7d3403d0ffbd723c16e3388b35d848bfa16eb",
+          "size": 30864
+        },
+        "screens/id/task-menu.webp": {
+          "sha256": "466c973e6160144d63cf1afe21bf16693c9264935dd5572cb1ad33d443d64807",
+          "size": 7134
+        },
+        "screens/id/task-move.webp": {
+          "sha256": "b7f59841f6d91c001ffe73cbd080a8938b2a65fe5d891789dc298ba9874a189d",
+          "size": 31276
+        },
+        "screens/id/task-overview.webp": {
+          "sha256": "54e5f69f9593850ada2ef62130bcdb9c12ee4d0735859d1328dab97ded7f9a19",
+          "size": 29212
+        },
+        "screens/id/task-time.webp": {
+          "sha256": "e491b7b1ba414308aa7c64abec6494bbd7db2e8e0bf87a474de1142479cfd965",
+          "size": 21152
+        },
+        "screens/id/themes.webp": {
+          "sha256": "f16eafb770466ee4c27d1e3bf7b38d9a20b040b94cb82e3a3685edf9fa5695c9",
+          "size": 71240
+        },
+        "screens/id/today-widget.webp": {
+          "sha256": "33a6e85df9bbf1256560f1315e344aa30e7756cc2da951b9a03eb47dc9d45ae9",
+          "size": 23070
+        },
+        "screens/id/trash.webp": {
+          "sha256": "2113355c62db4568498ab28306ef5a74217618123eea95ecfed63ef55cfef3dc",
+          "size": 26694
+        },
+        "screens/id/wide-home.webp": {
+          "sha256": "fe2e2a1c6c9d2eaf233fc6daba495092697b71e95044ad583bd118874aee6b6f",
+          "size": 122554
+        }
+      }
+    }
+  }
+}
