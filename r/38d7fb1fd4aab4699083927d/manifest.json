@@ -1,0 +1,2126 @@
+{
+  "format": 1,
+  "revision": "38d7fb1fd4aab4699083927d",
+  "photoChannel": "e611dd782320555e18adf7d3",
+  "baseUrl": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/",
+  "shared": [
+    "new-drawer-icon.png",
+    "toolbar-bottom-1.png",
+    "toolbar-bottom-10.png",
+    "toolbar-bottom-11.png",
+    "toolbar-bottom-2.png",
+    "toolbar-bottom-3.png",
+    "toolbar-bottom-4.png",
+    "toolbar-bottom-5.png",
+    "toolbar-bottom-6.png",
+    "toolbar-bottom-7.png",
+    "toolbar-bottom-8.png",
+    "toolbar-bottom-9.png",
+    "toolbar-top-1.png",
+    "toolbar-top-2.png",
+    "toolbar-top-3.png",
+    "toolbar-top-4.png",
+    "toolbar-top-5.png",
+    "toolbar-top-6.png",
+    "toolbar-top-7.png",
+    "toolbar-top-8.png",
+    "toolbar-top-9.png"
+  ],
+  "languages": {
+    "ko": {
+      "sha256": "2aa24f1c7f8779c063387f948c5e6f64d2a46c3580c63c9d9a6492a99cbd485a",
+      "size": 1974025,
+      "files": {
+        "attachment-cut.png": {
+          "sha256": "92fce339f49d350a7dff901745063dcc4aaea12976fffc50bdb16814b343191c",
+          "size": 37834
+        },
+        "attachment-menu.png": {
+          "sha256": "bac7d106286354e8aaf38003a31a42a4b25433e643873fb16c1949c26f306b8e",
+          "size": 4168
+        },
+        "attachment-move.png": {
+          "sha256": "3139cbb07c700b9f0c2343408c9fdcfc630944773a4cf1efe4704a0ca3a8731b",
+          "size": 19480
+        },
+        "backup.png": {
+          "sha256": "9b0f1e851d5884913dcfb8ae97af7ce891e56a0ccc0c7ae9b8000837de71847f",
+          "size": 42336
+        },
+        "cabinet-settings.png": {
+          "sha256": "81056e516408761566ddbe4e3a75235cbf626bb4a61fe8439ed5c4a30de9f398",
+          "size": 12438
+        },
+        "calendar-import.png": {
+          "sha256": "d5e290a3069cdacd0442e8dd8b9758a20e55f6688aa2d560f0b0accb8c999677",
+          "size": 37826
+        },
+        "calendar-register.png": {
+          "sha256": "2267d34109588bec63be87b16fda57f15cfdffacbb2a268f4db99082627e0f88",
+          "size": 33832
+        },
+        "diary-calendar.png": {
+          "sha256": "55eb4d8bc56e43c0c77305eeb8e92ae2fa66656db1200152f6d4d8a43ab845be",
+          "size": 23196
+        },
+        "diary-readonly.png": {
+          "sha256": "836037f1f542111301ecdb78ccce2ae47c08db3ab72c1e7af1936704b4e1012a",
+          "size": 28489
+        },
+        "diary-today.png": {
+          "sha256": "d4b08767c0cbbd6c59c95816f5984fdc8d1c51327d2d25b22fc630c0a4c79ba1",
+          "size": 32782
+        },
+        "drawer-batch-move.png": {
+          "sha256": "a669caeb39f5f5fb51ded781cc02ce9923a088532437190a917e6299ad14ff2b",
+          "size": 18822
+        },
+        "drawer-colors.png": {
+          "sha256": "28b1d4717307eca8e6b6ad3853150a02d97df498475739f041aecd478f24c1d8",
+          "size": 34111
+        },
+        "drawer-icons.png": {
+          "sha256": "3095d3e92bcc614f953589db45fcd71710cd91f007e9a1e49a04fe38f9f30848",
+          "size": 32419
+        },
+        "drawer-menu.png": {
+          "sha256": "a88f00460e54ff26f2b3782912c78ba6641585dde09d36e64c4bfb1b13bbd3c7",
+          "size": 21963
+        },
+        "drawer-move.png": {
+          "sha256": "825ed92a9fdba7d6d23529632a598c14bb0c3c6f25968e55efebdffdea5d4733",
+          "size": 25714
+        },
+        "drawer-note-view.png": {
+          "sha256": "af01a7daedca283e00a587f4706c164ea9db7bc3061784d56fc48410880cfc02",
+          "size": 37814
+        },
+        "drawer-search.png": {
+          "sha256": "f8f4fa4ff6f3a82269d4d7cfd2f1d3f60e27ab70b7dc7d830d7372a4f2c76736",
+          "size": 45893
+        },
+        "drawer-view.png": {
+          "sha256": "630fce291442bb94ff55585d52a403d669032aa7ca2b41a3e74ed1d68066e0d5",
+          "size": 37573
+        },
+        "drawing-editor.png": {
+          "sha256": "b94707025444c4ce0c20a106d8568008dadcc112ec0580abea636b300779d7c0",
+          "size": 31009
+        },
+        "drive-recovery.png": {
+          "sha256": "12e5a5fbe65a4eab1a4be9f0712974499242bd3c8e74e1046ad4531b31996c53",
+          "size": 73340
+        },
+        "encrypted-drawer-menu.png": {
+          "sha256": "b4b8cb2ccf21a5259e7b3fecf455824680a88132e7daec50ab77768655b18f42",
+          "size": 21379
+        },
+        "encrypted-home.png": {
+          "sha256": "b95ecc3da56293a72b483402bea8523878de3b18d90ac99a4973671d28e652ca",
+          "size": 87536
+        },
+        "encryption-badge.png": {
+          "sha256": "840e1adecdcfc568ef9f4d190b8f5574c18f203a2eac2420f6c370b463274aec",
+          "size": 4039
+        },
+        "encryption-disable.png": {
+          "sha256": "73f215ebcb2bdee84d4523fc776f6bb2218753bdf4588db4b5b4a1bee6362e88",
+          "size": 26526
+        },
+        "encryption-password.png": {
+          "sha256": "90c542e59fb95e74719d4e121f646bcbbcd57979168bdd13830fc14ef66b31b5",
+          "size": 47766
+        },
+        "encryption-recovery.png": {
+          "sha256": "68e753171a6b6adba901244909292cafc6b0264c7bf6f16ad61f9a3304dba427",
+          "size": 42489
+        },
+        "encryption-settings.png": {
+          "sha256": "2e265688f51c74e8e32dd81714119f54c5293467a585598f051e829b87b4dadf",
+          "size": 20684
+        },
+        "encryption-setup.png": {
+          "sha256": "68af9dc6fa17eb77302212cf288ee280bc6200c4073db6359e4c6e6df805d2aa",
+          "size": 41466
+        },
+        "encryption-unlock.png": {
+          "sha256": "a018122a30767849e0d8fbf71c6612e64e96ca7911bf84e4d35e683a688e1a32",
+          "size": 28230
+        },
+        "evernote.png": {
+          "sha256": "e49406ee4abd2ea62ce9515ca612c37d3035c127dc3f0cce10416ebcf66d36f4",
+          "size": 70798
+        },
+        "home-expanded.png": {
+          "sha256": "dd9cccd8464dcfcf8b2c10678dde56f84218cb72da7d25c59eaffa6c49edb390",
+          "size": 84992
+        },
+        "home.png": {
+          "sha256": "27e7b562ba3368ff349b1ed8fe60e32bac5258673d461b28e3f88adff6edc861",
+          "size": 80030
+        },
+        "local-backup.png": {
+          "sha256": "862070452a41a1cf5dbb43f22b4c1879810a76029c6d8463e15183cf28473607",
+          "size": 38541
+        },
+        "local-restore.png": {
+          "sha256": "f2827d0ee1eb7d2d7669f812c42afb6c10d9dc01fc92ee1e9e721fa0e3a84fdc",
+          "size": 26833
+        },
+        "new-drawer.png": {
+          "sha256": "36e9bd1b5c83a041c359d3a1c23ea1e38d2df0e38e982a1afaa67b4e1a0d3843",
+          "size": 34633
+        },
+        "note-editor.png": {
+          "sha256": "7d99509f95944c599a0b48ca11b32eaff300b07cd53fa0941f5fe80bd6a1f6a6",
+          "size": 42431
+        },
+        "note-list-titles.png": {
+          "sha256": "0acb8b6621ddf599d820cf516cdfe390298c11515b109fe1cbcd7e40477b076c",
+          "size": 49108
+        },
+        "note-list.png": {
+          "sha256": "1765f29fb5bf065f5ce64550d609dbc686ccb8d7b0445c214ca1c23937bfe1d7",
+          "size": 39436
+        },
+        "note-search.png": {
+          "sha256": "8a1cbd50fb8c1c22f103f8b4ac461172e2acdb97f76be89519115300ce7f77d3",
+          "size": 32196
+        },
+        "note-selection.png": {
+          "sha256": "4f428536375a40ed036c15e35cb12069773fcf918ba81eebc5fc6eb71cd7045c",
+          "size": 43307
+        },
+        "note-view.png": {
+          "sha256": "3c8f1a5978eb7da91f11921990225ee3abd8ae2390b3acafb382fbb984901445",
+          "size": 14014
+        },
+        "photo-menu.png": {
+          "sha256": "8ab75bfbb09cc00a671c48d8bc526f23ebf47b4e33fc55dfffa8c69dd6ee7d1c",
+          "size": 7954
+        },
+        "photo-viewer.png": {
+          "sha256": "709734d9a1bbfd989cbde97d47d80d759633f48162a57eb8316b8eaeb11e57bf",
+          "size": 22012
+        },
+        "quantity.png": {
+          "sha256": "363ff922dadb27da94441e049cbf77406fc2974939b617fda4227ae0acd0e4c4",
+          "size": 9558
+        },
+        "repeat.png": {
+          "sha256": "b28cedd6ab01ff52f03fa5380161daba2dc981cba6c70f670e3d58825fe82ba8",
+          "size": 28788
+        },
+        "search.png": {
+          "sha256": "bc30a79c43977ab06a17edd3e180f4a0376d53bcef32bf49a7332a86288f976f",
+          "size": 58824
+        },
+        "security.png": {
+          "sha256": "db4a2978d70798274f2c9255a28207d62b90f2d58afd7b9718b2076ae612d9dd",
+          "size": 41556
+        },
+        "settings.png": {
+          "sha256": "ee7431ce1e7e2fcebd0ac76cb70ac7fa15773253d28d8b58bdfaf057bf89b1c4",
+          "size": 58801
+        },
+        "shopping-widget.png": {
+          "sha256": "409872e009767e97b2cc23a6c468d983b02156b5355bfe02db55e05b7d82b6d9",
+          "size": 16207
+        },
+        "shopping.png": {
+          "sha256": "cb38d3574ea3c5417de47eed22afc97a485691114f769ee538bbf4a47bb6bdd8",
+          "size": 24585
+        },
+        "task-alert.png": {
+          "sha256": "62d0338b8f190bf73c5e10d029a95d66cbd4d8590f0989835657d2f8111541ed",
+          "size": 48308
+        },
+        "task-menu.png": {
+          "sha256": "ca3cb71ea5997802ba40104974326ad5ae44415f561d6c17b14ab7d9e211cd07",
+          "size": 7846
+        },
+        "task-move.png": {
+          "sha256": "e3f7472455c0ee889eb718877ba7c513ebb1487f7161a752f2ae497097a26c6c",
+          "size": 31264
+        },
+        "task-overview.png": {
+          "sha256": "30daf3cde7aa33568f25a059517ba7f5c7333ec6a9d0e468cd8ab5180dec12e0",
+          "size": 31940
+        },
+        "task-time.png": {
+          "sha256": "89c20e3c5e41b749792fc6c7d8936283385c4579e849d3d891fae92f7e804595",
+          "size": 18993
+        },
+        "themes.png": {
+          "sha256": "3d2c95878e6f7636d7d00d3404450a748d84ce8e9845c88ff61928c4c8527cf4",
+          "size": 45177
+        },
+        "today-widget.png": {
+          "sha256": "3f67010c294e8590c7a399568c7278849ded6ccc1de6d5e37d5be2d8e203ecd2",
+          "size": 21050
+        },
+        "trash-selection.png": {
+          "sha256": "575d06ed3a0ef53d83cbbe3c1eeb4a388f7ab7534ce8dca00fafa3a945e05178",
+          "size": 28653
+        },
+        "trash.png": {
+          "sha256": "ed9c653da06d5c93a57104a61651c9e52138774bc7e195e1505fb963d31fa50a",
+          "size": 38917
+        },
+        "wide-home.png": {
+          "sha256": "e711e69bda7e5736cde21a887818677bfd929feeb6c8c7bd342ea47587aa2158",
+          "size": 50984
+        }
+      }
+    },
+    "en": {
+      "sha256": "111bc57cc8507e68f662767ea7a0428890921142646aec92b062c995941371a6",
+      "size": 2374214,
+      "files": {
+        "screens/en/attachment-cut.webp": {
+          "sha256": "b166f816bafaceb2cf241d3ec81aa4f8678cea46f51a21e30a08cb4b1da01a88",
+          "size": 44714
+        },
+        "screens/en/attachment-menu.webp": {
+          "sha256": "8d44a5f74c6510d685fa8f36170f657120a5fc8f40f75a8e88723c827f08cc96",
+          "size": 4386
+        },
+        "screens/en/attachment-move.webp": {
+          "sha256": "f69d35a1fc80563dc2d9d37bf1190836b5a08b7217f8564c1fdc4c4995ac9918",
+          "size": 22308
+        },
+        "screens/en/backup.webp": {
+          "sha256": "33f170b4b3fc0572857f6b810afa83a29f0aff56b43840b9a09cae0e5f684cde",
+          "size": 31822
+        },
+        "screens/en/cabinet-settings.webp": {
+          "sha256": "9066fdb18c1489a5b3972a2b59aeeef9c74888673c987734b7592bf6a2f281a3",
+          "size": 15730
+        },
+        "screens/en/calendar-import.webp": {
+          "sha256": "c5de0c8e62451573bbfa24d98527ba75de311a01d6d84667cdb111f232b96960",
+          "size": 32978
+        },
+        "screens/en/calendar-register.webp": {
+          "sha256": "051f7e773b2244e86ba030c81dfb3d42ea258fff5598fe8139d79b47bf9f3cb9",
+          "size": 30894
+        },
+        "screens/en/diary-calendar.webp": {
+          "sha256": "75d175280afb5b514994f183612e9fd117368fd68ddfcadd22b9bfa05cc82ba9",
+          "size": 22572
+        },
+        "screens/en/diary-readonly.webp": {
+          "sha256": "5be5cedc2fc1b04bafd5845ab3e69d4c7396815d3c33055a34806a414a15125b",
+          "size": 29194
+        },
+        "screens/en/diary-today.webp": {
+          "sha256": "2a4a9309a656516f1bb68a26b866a16f9921474ab97e32f017a29ab15d596556",
+          "size": 41278
+        },
+        "screens/en/drawer-batch-move.webp": {
+          "sha256": "53f49e792e6fe1d0615f1e0beca5a5f33b88a973e1bf74e284d3d39a6d96efd2",
+          "size": 20682
+        },
+        "screens/en/drawer-colors.webp": {
+          "sha256": "12b0eaa8fa6d51ca7fe30e28e7bb1b606877ce647e21f24d4af677f5fc6cd275",
+          "size": 66132
+        },
+        "screens/en/drawer-icons.webp": {
+          "sha256": "c21044324496afe8af22d0a4dc405fe78138262dc3329cf330a4f3491ccbeab3",
+          "size": 37446
+        },
+        "screens/en/drawer-menu.webp": {
+          "sha256": "e339b0a2ea9bffd3ea104cdda51d5b7874370aeae5d8efc7d9bf14ab03312fb5",
+          "size": 36860
+        },
+        "screens/en/drawer-move.webp": {
+          "sha256": "b58499e85cb05f96a8ab6a7e2bf8a4be2ed5e7ff57ded8f2111c83e2d7b6694c",
+          "size": 26592
+        },
+        "screens/en/drawer-note-view.webp": {
+          "sha256": "24eac7d59b5526a8d2116d83a6074514b0cd8fef0e41a982424e05edddbdb5c4",
+          "size": 36066
+        },
+        "screens/en/drawer-search.webp": {
+          "sha256": "2b565fdcdb00a7d868c4fd822b4c35e85ef8538848b0a81e78e216d09d0ebaf3",
+          "size": 50774
+        },
+        "screens/en/drawer-view.webp": {
+          "sha256": "83fbad2e728ba9efad30b7a8d9bda763d4617c06a9a01b7a9b8bc0c1255be33e",
+          "size": 33958
+        },
+        "screens/en/drawing-editor.webp": {
+          "sha256": "d494c7c3babbb908e0badaf4e1e64128bfa387fab5bafafa9da0c336f73fdccf",
+          "size": 33574
+        },
+        "screens/en/drive-recovery.webp": {
+          "sha256": "4f793c26f310e54e388e4bd5578a5ded5c2b524f8e97c6eb1ec21cff20ea3cb0",
+          "size": 53500
+        },
+        "screens/en/encrypted-drawer-menu.webp": {
+          "sha256": "3e6670451e6ea50f39ab7f4cc42c6d083c8947a8cf52a3216d4366d75cc0ce4d",
+          "size": 34778
+        },
+        "screens/en/encrypted-home.webp": {
+          "sha256": "58d4a48a0af8b2d6b0aa3dd58424c57a12a194abb5d171502032fb224bc158f6",
+          "size": 127682
+        },
+        "screens/en/encryption-badge.webp": {
+          "sha256": "0efb7557ea20532142d848d1dcbd84c1f5483e6a284d62dee56a7e84a33afef5",
+          "size": 5216
+        },
+        "screens/en/encryption-disable.webp": {
+          "sha256": "9866497fc7a9e41b212070e22d04953f4fcb20d2ab0fba97c05f023ac72bf735",
+          "size": 45180
+        },
+        "screens/en/encryption-password.webp": {
+          "sha256": "1073a1c575b810a91f37ab5a08478693308329b863cce7b95c42b09f2e4e3f43",
+          "size": 40848
+        },
+        "screens/en/encryption-recovery.webp": {
+          "sha256": "a699cfb05d0db81880cbf3b43e3e42b6d67e6107a9e8c1df0d62ddf0a33038a6",
+          "size": 40284
+        },
+        "screens/en/encryption-settings.webp": {
+          "sha256": "aeafb696f3be73676d4f84b8b7364c0841f19ed0b8360217e587a4c3f7e40724",
+          "size": 20194
+        },
+        "screens/en/encryption-setup.webp": {
+          "sha256": "c02deb1aea71fc696308747b3037d03f9c729554869f0021f885654ca1a01011",
+          "size": 35206
+        },
+        "screens/en/encryption-unlock.webp": {
+          "sha256": "33fa9502c4dbb800990079f60e377b07a6c2a281278c63a82f5f77767adf298c",
+          "size": 29514
+        },
+        "screens/en/evernote.webp": {
+          "sha256": "e5a942be07c9d627a80c7f81ebfdef771f219cb185405d659326a9ef782f7f50",
+          "size": 41078
+        },
+        "screens/en/home-expanded.webp": {
+          "sha256": "89d723915cf19e4f3ea5be962730f79d21341b8b89c6cc387d68d8401756570b",
+          "size": 130524
+        },
+        "screens/en/home.webp": {
+          "sha256": "407fe0374e5a78af8a536fb7497bf7ac1ec930356656f61a8b15a6ee05f47a6c",
+          "size": 139694
+        },
+        "screens/en/local-backup.webp": {
+          "sha256": "b6467dd36f6e6ab8352fff6b9851c8f0a658238a4498b40e807dcf9bb06e5595",
+          "size": 31728
+        },
+        "screens/en/local-restore.webp": {
+          "sha256": "2b7878b19c538b8dc643b7fd70471e4afec3209fdd81f7eacd2b88f43cbef05d",
+          "size": 26834
+        },
+        "screens/en/new-drawer.webp": {
+          "sha256": "cb98b8d41525a233ee4a0521a8bbab819dfd5be92209ce20ad0dd76e69451aca",
+          "size": 62056
+        },
+        "screens/en/note-editor.webp": {
+          "sha256": "c81f0a8e13fc5fe326c8cb623a312f93566ff16eaa07e303e8861a9d4629b409",
+          "size": 50820
+        },
+        "screens/en/note-list-titles.webp": {
+          "sha256": "951acb34f3c23648379ac589100859339c14ff424cf8210385a45c7468be2612",
+          "size": 51110
+        },
+        "screens/en/note-list.webp": {
+          "sha256": "c53e27dce1d45b96f712b1671d1908ff4d18150e8081fe3750afe37dd4107e22",
+          "size": 44388
+        },
+        "screens/en/note-search.webp": {
+          "sha256": "b6ab46e4d7750669617bb4b5226e3a5fac2f3610198c898636afb0977612756b",
+          "size": 40300
+        },
+        "screens/en/note-selection.webp": {
+          "sha256": "c9446745dc08db6c79739bd2fbd5bcab87aae65d3df20002cda4b74f2056e5e1",
+          "size": 49202
+        },
+        "screens/en/note-view.webp": {
+          "sha256": "2f59a84b66872dc27c81c51f1afc6687328b630abdfaca0308bb51a45b3b8c87",
+          "size": 14308
+        },
+        "screens/en/photo-menu.webp": {
+          "sha256": "c5c041265b3bfc35f680939d9a964301156dc73f2bd0c1542b1ec8ec5900cd9d",
+          "size": 6750
+        },
+        "screens/en/photo-viewer.webp": {
+          "sha256": "e17c2af83200f5dd0917dea5672da81a44e7841556d136cbfb058d6ec656aa64",
+          "size": 20442
+        },
+        "screens/en/quantity.webp": {
+          "sha256": "b8dd81237c5f7c1543e5576964cfbd96971a0439bfefbae7cca587efd1f84723",
+          "size": 9814
+        },
+        "screens/en/repeat.webp": {
+          "sha256": "687e0143ab797db19ab3b6e989a9f295f188e5740ec9f4ef889bcc9090f8b36e",
+          "size": 31988
+        },
+        "screens/en/search.webp": {
+          "sha256": "b816d942f00a70688655f98eb465d86775694d718e5c69bae6a8d677c4f46310",
+          "size": 63458
+        },
+        "screens/en/security.webp": {
+          "sha256": "3f48fad6f5d26759ccc4dfa91ebcc7ca2098fa596d81fcde0013f9d95f2a4714",
+          "size": 36214
+        },
+        "screens/en/settings.webp": {
+          "sha256": "3db42f8fd40b7d88212d3e62f3961d81831fcf05701d6cde9f8ea23b323ff42c",
+          "size": 57260
+        },
+        "screens/en/shopping-widget.webp": {
+          "sha256": "9927c3d18738325a329851433c5c84ab31f1dacddc63060fbae51678ba9b9a11",
+          "size": 18382
+        },
+        "screens/en/shopping.webp": {
+          "sha256": "e14103acb5648f5c0e66fd3f5c8d5e39237a66a6c8c7d23a569b0e1ae1ca0f67",
+          "size": 31076
+        },
+        "screens/en/task-alert.webp": {
+          "sha256": "777e9723df9d10302d9ca856b379af5cd5980009290307c9e318341823ff5cea",
+          "size": 34804
+        },
+        "screens/en/task-menu.webp": {
+          "sha256": "b620f8671c13b34804c5dc92513fa1b398885f32b3d7bfcb4ad8fac12a089410",
+          "size": 7356
+        },
+        "screens/en/task-move.webp": {
+          "sha256": "3172dec415ac3ae88fad425a55c8d497d14a1f9c77d6f26a52d10c111a0b720e",
+          "size": 41400
+        },
+        "screens/en/task-overview.webp": {
+          "sha256": "7603114bf54a4f71b560f10a2c128781487aec71d8a2b7b5c3c79ca9fa2da637",
+          "size": 41386
+        },
+        "screens/en/task-time.webp": {
+          "sha256": "4f41726126425942e9a86fd7bface1dd95a312ac34d1d7a96202de9cdc22d783",
+          "size": 17520
+        },
+        "screens/en/themes.webp": {
+          "sha256": "4dd05526219f9938c117464a5d16fe26e74fa928eba2c9c064a5f0c313f450ee",
+          "size": 78638
+        },
+        "screens/en/today-widget.webp": {
+          "sha256": "5577e798b3db8f7b2abb552814260c7d8a5e698ad2573e9141155da08393fa25",
+          "size": 23990
+        },
+        "screens/en/trash-selection.webp": {
+          "sha256": "f63026bbcda420a11d2db621fbae6262cd16c0e4e2de27b70e16ddf61c53044b",
+          "size": 29876
+        },
+        "screens/en/trash.webp": {
+          "sha256": "671299eedaa01738e005e117a7813b45caf58e9731cdede91ad191d5ee34a681",
+          "size": 47058
+        },
+        "screens/en/wide-home.webp": {
+          "sha256": "9e35a2c7add20bc6f61889e657bb52fae30d04c3e7f3631858811fa60a605ff6",
+          "size": 60616
+        }
+      }
+    },
+    "ja": {
+      "sha256": "55ff909455d9d7bcc4a6d6ddc788596c14e508157eeaf318f8c7223258e9c4e8",
+      "size": 2917227,
+      "files": {
+        "screens/ja/attachment-cut.webp": {
+          "sha256": "58819f6c049d7a1fac84351ac950a56876288dd65ebe7652f4786af3a12e667b",
+          "size": 50372
+        },
+        "screens/ja/attachment-menu.webp": {
+          "sha256": "64105ec66c4e3a32dfe33f19b4bcd59d3030ad5d6b3841883a1f9dbaca4e5481",
+          "size": 7268
+        },
+        "screens/ja/attachment-move.webp": {
+          "sha256": "0eefd245034cbd925dbd1c04248c2d9ce2eef86eecf54f4208d8691d113485e0",
+          "size": 35106
+        },
+        "screens/ja/backup.webp": {
+          "sha256": "c53ab1d863170fa61a13291e413a350b80c9dbbba34ad7167448098941049352",
+          "size": 56238
+        },
+        "screens/ja/cabinet-settings.webp": {
+          "sha256": "97bc1a38d48596429a769854f47e9a733f81d57ef10a301cbfa5d5bae8daf172",
+          "size": 20564
+        },
+        "screens/ja/calendar-import.webp": {
+          "sha256": "e548bf864a4d2d5f7a66f4830898255dcc10d5b09832ac95c1700b7c2f54ddf0",
+          "size": 52794
+        },
+        "screens/ja/calendar-register.webp": {
+          "sha256": "373d1abad69dc5b72bfc1c00fa8f2b91e11b72741ace08c4b6eb73f152b4cee4",
+          "size": 43396
+        },
+        "screens/ja/diary-calendar.webp": {
+          "sha256": "4bc13a6473f66bc84751a6226693c60a62c9bdec6e543a89854bd59d1d6bd713",
+          "size": 25368
+        },
+        "screens/ja/diary-readonly.webp": {
+          "sha256": "08c15654e0f6aa39a5a76c32f8ae61001c6fc472c21c8ecc17bf25aac28ef030",
+          "size": 36578
+        },
+        "screens/ja/diary-today.webp": {
+          "sha256": "78f400a3b91a09b2aa2cea843758214f0785790ce30c37074bcd481ff522ec3f",
+          "size": 41432
+        },
+        "screens/ja/drawer-batch-move.webp": {
+          "sha256": "4670e0b30c2a7c8301dd8eea7ad7a81bf0c564b68a29aa912bf64a648f66f789",
+          "size": 35568
+        },
+        "screens/ja/drawer-colors.webp": {
+          "sha256": "b17f344c95e958b86447d299224911ed675c82efd967fdb01b4cd3b6c1368525",
+          "size": 64396
+        },
+        "screens/ja/drawer-icons.webp": {
+          "sha256": "a35eccc3b8ff59b7c4f8780f5bb0683eabdafd383a6c3cd7b101752c9a03ace2",
+          "size": 40820
+        },
+        "screens/ja/drawer-menu.webp": {
+          "sha256": "61f87b5c31710a7bb72108f432f73cb6371fdb52bbea7a8d4a9ca69bd35259fe",
+          "size": 38432
+        },
+        "screens/ja/drawer-move.webp": {
+          "sha256": "435296f5cab56874b2e3138ff6da2d2ad2febbfb727e45b4614dfe5b6fd05084",
+          "size": 46620
+        },
+        "screens/ja/drawer-note-view.webp": {
+          "sha256": "baabc34bae89daa6d6ccbe98e700be3051039f92dfdad777d07b678c6e6a1914",
+          "size": 47272
+        },
+        "screens/ja/drawer-search.webp": {
+          "sha256": "6691c5cceef3f284a9951f130ebac046f971b90a8bd6a13f2fc38a4179e28ea3",
+          "size": 56990
+        },
+        "screens/ja/drawer-view.webp": {
+          "sha256": "df90e549cbf0227985524a2ce497f79ae664e172b47433342edd6b2073b24d16",
+          "size": 52524
+        },
+        "screens/ja/drawing-editor.webp": {
+          "sha256": "eeccdf8afee7aa1d60955498fb39f4d0205064d591c4a70bc48e436d6998241b",
+          "size": 39856
+        },
+        "screens/ja/drive-recovery.webp": {
+          "sha256": "f09013ba4bd4d1d98a59b178cb1be6f27cdd7867bedab0ac3163c0f7c5738fb8",
+          "size": 95112
+        },
+        "screens/ja/encrypted-drawer-menu.webp": {
+          "sha256": "a0af600bff4606b9e89ac1b4ddb47e3868aa83249543b72f9a9e3cd20def2511",
+          "size": 39122
+        },
+        "screens/ja/encrypted-home.webp": {
+          "sha256": "5b3f358668955d744f8bf5ae2ecdc5097a7f2c630c7b048263968347ae7d1571",
+          "size": 128014
+        },
+        "screens/ja/encryption-badge.webp": {
+          "sha256": "bb22838b630b6e39d0d3e1021840361f29e747d9df5969db00abb739e6ec3ef8",
+          "size": 5616
+        },
+        "screens/ja/encryption-disable.webp": {
+          "sha256": "78d4fb2a6cc45e409ecd1c0bf0f58c8a11e28e85536b6dc755b97735ab6aa7c4",
+          "size": 53472
+        },
+        "screens/ja/encryption-password.webp": {
+          "sha256": "254c5f90d864ce5778e0327a4650e4ceb31bc205eed9113ce3cc9967c141c403",
+          "size": 64738
+        },
+        "screens/ja/encryption-recovery.webp": {
+          "sha256": "1e8d2fd084cbb77ded691035aef42a49b4fc7a303ac7b5a915710bc841f8b863",
+          "size": 57178
+        },
+        "screens/ja/encryption-settings.webp": {
+          "sha256": "df0dc04a7a7d90dfa720835ba980afc7e8dad8fe2a692be442bce0dbcf273796",
+          "size": 29976
+        },
+        "screens/ja/encryption-setup.webp": {
+          "sha256": "ee32e767d31079806a8c9cc3c82d238e67639b980e622de7dbb189c40d7e3a10",
+          "size": 51046
+        },
+        "screens/ja/encryption-unlock.webp": {
+          "sha256": "9b79aa92060b59189d4b581065d1227194685e514a8189e19ba2eb26e063fc72",
+          "size": 41704
+        },
+        "screens/ja/evernote.webp": {
+          "sha256": "8268a1503e145e47e54655f605b7ec29bd1f592ba8f63a958ca41a1094165dcf",
+          "size": 82998
+        },
+        "screens/ja/home-expanded.webp": {
+          "sha256": "24815b01a2a435dc597db7c9c86fb30541afb89dddf6bd584ee1d0aeb87a248b",
+          "size": 131834
+        },
+        "screens/ja/home.webp": {
+          "sha256": "f6471aad5fb1bdcff4bdd8d5bf80d7b46f0c8581abb064ddf006d937fc1a9b1b",
+          "size": 139056
+        },
+        "screens/ja/local-backup.webp": {
+          "sha256": "b333e3fd98be8b3608fa2827312ddab5fc20f0da9ea43f5424955c6d13229bc1",
+          "size": 56500
+        },
+        "screens/ja/local-restore.webp": {
+          "sha256": "c6619b607d573500d31afdc99a54bcfd6c3430df0423a823dddb111baf2f0ba4",
+          "size": 38374
+        },
+        "screens/ja/new-drawer.webp": {
+          "sha256": "94da0b24a8451a55400eb8f3e979aa12259cbd91f71532568996c2a01dd7c2e7",
+          "size": 64728
+        },
+        "screens/ja/note-editor.webp": {
+          "sha256": "70803c01049ba47169ea96199c75c5f1ace4fdcd70546925c3e931d30d680a53",
+          "size": 57130
+        },
+        "screens/ja/note-list-titles.webp": {
+          "sha256": "0be1ff75a655c649561e4a681dc24608b7dd38f8136253f0ff8e6e16c39ab49e",
+          "size": 56620
+        },
+        "screens/ja/note-list.webp": {
+          "sha256": "1b1ff681f30fc2143e2b28597771f82103b4b271254e6ca8ae253fa66a52ee22",
+          "size": 65786
+        },
+        "screens/ja/note-search.webp": {
+          "sha256": "21a2e6a05b739b9fbd5e5f780d576532ba14b3194ca0021c9ee8da46df4289fe",
+          "size": 42520
+        },
+        "screens/ja/note-selection.webp": {
+          "sha256": "067913d6408818b9fdde409d30e892700d4b4bc26ea00db83e203d05cdcc0e9f",
+          "size": 61026
+        },
+        "screens/ja/note-view.webp": {
+          "sha256": "0c4321f4b150eb27ef809e050237a6aa6d0ba5a2114789cb60b1991eda796786",
+          "size": 20776
+        },
+        "screens/ja/photo-menu.webp": {
+          "sha256": "b6fa5b7ccabacaaa21cd3f1194811fb5a60b10db115000be3cd42830e9392bf8",
+          "size": 10044
+        },
+        "screens/ja/photo-viewer.webp": {
+          "sha256": "c069419bd036455ab341a21540b448a40757e4e52d1d380181eff3199ef7865e",
+          "size": 21514
+        },
+        "screens/ja/quantity.webp": {
+          "sha256": "b7194ce3ad3f5a907e3d942767a5cc22553aea31d327561f99f979a385bf21c2",
+          "size": 10950
+        },
+        "screens/ja/repeat.webp": {
+          "sha256": "9bae767fffe62a21bb7796fe86b21f53c23503e2a5f3ec47329b9ac66a1cbe1c",
+          "size": 47254
+        },
+        "screens/ja/search.webp": {
+          "sha256": "c2e6140ab9e4b9270754ebefb1f357204d1c7ef08ee09d902c428a2e65886ab8",
+          "size": 75442
+        },
+        "screens/ja/security.webp": {
+          "sha256": "318ca26ca9d682cc6933279539cff7d8a3155b75c0773ee50a81b0fc70d95a7b",
+          "size": 57798
+        },
+        "screens/ja/settings.webp": {
+          "sha256": "cfbc8a9d74f7ddd7793a295dc3f006f55b74d21359a378e9b214e0fcfbbcc582",
+          "size": 65552
+        },
+        "screens/ja/shopping-widget.webp": {
+          "sha256": "ce9ce3673bc7874150fff044a5fdbc578fed3c690486b1c5ea5ce0446e165c30",
+          "size": 19078
+        },
+        "screens/ja/shopping.webp": {
+          "sha256": "0b84f46bdf6500f3fd64e82ca25054ad68ed055bd40beca1b7cdac0287d4e26c",
+          "size": 29836
+        },
+        "screens/ja/task-alert.webp": {
+          "sha256": "7839df2065e9623871e83f8b3e909f12382c71e6493f2550ecf2ebb2e4913429",
+          "size": 51224
+        },
+        "screens/ja/task-menu.webp": {
+          "sha256": "937b77b58a38d6ca49df252ca236f9490bfab4f9baa3cd53c3a8ca6f1f9c60b5",
+          "size": 11108
+        },
+        "screens/ja/task-move.webp": {
+          "sha256": "d0371c919ef998bbdb6d68e17b9443d4c0a53328b91de4266dbdf87e4ef297cf",
+          "size": 42112
+        },
+        "screens/ja/task-overview.webp": {
+          "sha256": "ef71c33c4f01552ae30069f3d19390ae86e429c5336af84f4096ed4215f6f4e6",
+          "size": 42272
+        },
+        "screens/ja/task-time.webp": {
+          "sha256": "6ef9f53c3e8d18e1875c069281eecf6c68dddf053cc7f121bc565760b5572fb4",
+          "size": 18278
+        },
+        "screens/ja/themes.webp": {
+          "sha256": "3ac31468e13993a09c384f8b2e04719cb2b2c0ab32c7af5f91bad8c5c15018da",
+          "size": 83296
+        },
+        "screens/ja/today-widget.webp": {
+          "sha256": "98974ab3a6a7fac43c1df78d1750fc880ef2ddf261096882c7434908f282c65e",
+          "size": 27200
+        },
+        "screens/ja/trash-selection.webp": {
+          "sha256": "4963f59233c1b3b55988254f46bc676240494709c8cd00b8e31751719f96c7d3",
+          "size": 33938
+        },
+        "screens/ja/trash.webp": {
+          "sha256": "f2b64ab796fa2cca15edc235d10f1ae93041231d85bcd44e704a6dc2a6e2e79e",
+          "size": 46848
+        },
+        "screens/ja/wide-home.webp": {
+          "sha256": "dc9bfbf6ab5f3a3cd1249418d8c7c74f727438b347635e609fb31a849fd56ab2",
+          "size": 58810
+        }
+      }
+    },
+    "hi": {
+      "sha256": "51698c4534cf254d7e23610ba76e2048a72ea158c113cf8d7cd9e00a3adef3c1",
+      "size": 2344349,
+      "files": {
+        "screens/hi/attachment-cut.webp": {
+          "sha256": "2c41bceaee031372c4ce3c4325dba02fc0f2f4e0cead85ce851decea76b2a106",
+          "size": 43672
+        },
+        "screens/hi/attachment-menu.webp": {
+          "sha256": "b46ccbca02be12bf841f0b09f8d11af600af617c7fb7c9d3ea0ae59f4c143885",
+          "size": 4474
+        },
+        "screens/hi/attachment-move.webp": {
+          "sha256": "01d00e3cc28cd5fac61a7f79a8c65da3de03433a6fbaac7cef7a0c5dc284f636",
+          "size": 22712
+        },
+        "screens/hi/backup.webp": {
+          "sha256": "57e6a7ca6e3134436399c3f5d8af75e2fb2627245ba70869e6751c63e33e2ae0",
+          "size": 34816
+        },
+        "screens/hi/cabinet-settings.webp": {
+          "sha256": "65d549fd4eec976a772fda0c4d4d06c9a25d6249c08eb41421bb161cd3fd9b97",
+          "size": 14330
+        },
+        "screens/hi/calendar-import.webp": {
+          "sha256": "703fd39404fa39209dd4c82aa0f4d3f11baa7421c0f18dc4f8e756768c41db78",
+          "size": 32998
+        },
+        "screens/hi/calendar-register.webp": {
+          "sha256": "36fc575f55d324b9635c1a0312a0b579a7a565b9da5b8f484032b678f9997392",
+          "size": 31806
+        },
+        "screens/hi/diary-calendar.webp": {
+          "sha256": "769450f6f461e5a081aa6e600d3c77f90945945cdc787df87904ca889b68915a",
+          "size": 22890
+        },
+        "screens/hi/diary-readonly.webp": {
+          "sha256": "795b323d7e6d15a7c5a098aa6892e4f290c1a07b001d72e6437e79854ac4b3ab",
+          "size": 31400
+        },
+        "screens/hi/diary-today.webp": {
+          "sha256": "5b46fb2dfe4e5b8c98c2f73ec37d0a874990e4b489f3aac238f87e68202e57bf",
+          "size": 38888
+        },
+        "screens/hi/drawer-batch-move.webp": {
+          "sha256": "137cf841790d4d32dcbcbf72db425798e9205a97298d061ad4ebe45aa6d03b20",
+          "size": 20746
+        },
+        "screens/hi/drawer-colors.webp": {
+          "sha256": "a7be7dddfa86e506683153cab03b1ee236efbbc141eb6038475d9364779e0359",
+          "size": 62186
+        },
+        "screens/hi/drawer-icons.webp": {
+          "sha256": "49528db0302c4cd7fc5546c1be494e7e22708ef687ec1ca48c432cb4d6a6a88c",
+          "size": 36048
+        },
+        "screens/hi/drawer-menu.webp": {
+          "sha256": "9aa41c42b58b1ee9e6d249931f04ca483ce627e4884fb13656a05f3d9de4b726",
+          "size": 32650
+        },
+        "screens/hi/drawer-move.webp": {
+          "sha256": "960effadca58683abbb3f53a956c1e6df41664cf7b2be2cbd23ad23fac6a5e4f",
+          "size": 31040
+        },
+        "screens/hi/drawer-note-view.webp": {
+          "sha256": "5f89e9ef75ae1396ebaed552eed30569bc650cc959a5267a10470eaa40947c56",
+          "size": 37742
+        },
+        "screens/hi/drawer-search.webp": {
+          "sha256": "55e4786c1d305d7db6e8765a498090192feb9f00f97459318e257bb34541365e",
+          "size": 50994
+        },
+        "screens/hi/drawer-view.webp": {
+          "sha256": "7b9659e21fc582ab83361aa9ce127d4747391a84f18025f0e2b31d56d73cc598",
+          "size": 33462
+        },
+        "screens/hi/drawing-editor.webp": {
+          "sha256": "3598776b37c16969f332f99bce5d16ca9f120879dd7cc7d4cb6693e3be70e4c8",
+          "size": 34832
+        },
+        "screens/hi/drive-recovery.webp": {
+          "sha256": "0bf1bd0f3f648382cd6f3b79ad9c0dfb68841ad628ee030488ba098f0b349063",
+          "size": 59696
+        },
+        "screens/hi/encrypted-drawer-menu.webp": {
+          "sha256": "f5d36bb93cc2ef75b43575f3f39c76c5fb160c5f64d6f715563e069620c0c658",
+          "size": 31750
+        },
+        "screens/hi/encrypted-home.webp": {
+          "sha256": "e388d204cf8fd2ed4d46e3b347f261a07d4813c2918f18b3a9ed339d033582cd",
+          "size": 124284
+        },
+        "screens/hi/encryption-badge.webp": {
+          "sha256": "261a2a4b8214252b7b02b21444ea0ab2e73ad4d6790943773e82ba397e6a928b",
+          "size": 5210
+        },
+        "screens/hi/encryption-disable.webp": {
+          "sha256": "e3b9d89354d7231f8c5f86298621c7cd1a1f1995507a7d1d08a15877537697fd",
+          "size": 38212
+        },
+        "screens/hi/encryption-password.webp": {
+          "sha256": "92976d3374aea71bf175a32639cabfec0fbc746679967b56df914eb959d324a9",
+          "size": 36398
+        },
+        "screens/hi/encryption-recovery.webp": {
+          "sha256": "997f8c19b5b3bb71fbb0a7b59afbe687f3aa68c00e934683870e847399bb55b0",
+          "size": 38618
+        },
+        "screens/hi/encryption-settings.webp": {
+          "sha256": "a2f70bf734390de6a04b02054c20d92775cbd8b15aa6587deace554a74a946b2",
+          "size": 19710
+        },
+        "screens/hi/encryption-setup.webp": {
+          "sha256": "37305b357f6e05afbf53a2726ee01ce6e6c47fccf563e69393d45e49c789b52b",
+          "size": 34186
+        },
+        "screens/hi/encryption-unlock.webp": {
+          "sha256": "19d7836eed62dfecf3579bf5d3e10f8f44a1ef42ff8b2c33583c712a82b79fce",
+          "size": 40944
+        },
+        "screens/hi/evernote.webp": {
+          "sha256": "ae59c5cdf6ac10cacfe2b001ed7a1f3079fefe493f4eb0c85dde0c5419ea8142",
+          "size": 55290
+        },
+        "screens/hi/home-expanded.webp": {
+          "sha256": "22b8359cc54fd833c75faef359020cdb539a36c3d3d1d0808f28787a1ea40ae1",
+          "size": 130692
+        },
+        "screens/hi/home.webp": {
+          "sha256": "8b2ef33513397034466bd2a45272c9da4e9b52eb851a232b6378eb76529c6ca5",
+          "size": 136564
+        },
+        "screens/hi/local-backup.webp": {
+          "sha256": "c4e5a35eec7648ba3a5e2e3d075b0e64078599f426f73324bbe6d8cfee93fede",
+          "size": 31818
+        },
+        "screens/hi/local-restore.webp": {
+          "sha256": "14111cb3a6f04e7a3132128ae60794f2669e600eebe814f7f769602627c970d9",
+          "size": 24510
+        },
+        "screens/hi/new-drawer.webp": {
+          "sha256": "9f375513dbebbe20123746280759ecad8176d5a11f958b9f5d268ff809d824dc",
+          "size": 59592
+        },
+        "screens/hi/note-editor.webp": {
+          "sha256": "a4e971fb4029e8b494b5a6603925271011166ada8ca84aa3e313825194cc9afb",
+          "size": 50930
+        },
+        "screens/hi/note-list-titles.webp": {
+          "sha256": "8f4b56a6a755d995cb1a8206b8b7a4c0e339284b2557c1aa9bd649c22112577d",
+          "size": 51056
+        },
+        "screens/hi/note-list.webp": {
+          "sha256": "bf3a5df079de25dbad58ffec3e6e1107cf96056e27032654dcb29cd1e7a011ef",
+          "size": 38270
+        },
+        "screens/hi/note-search.webp": {
+          "sha256": "4a7bb1e823f6599a7a93a72ba4aedc28056ae31b2e3c8da9c4fd395850213c0e",
+          "size": 37238
+        },
+        "screens/hi/note-selection.webp": {
+          "sha256": "5ca982e1f0610e790cb031c1f47fe3dcee363d5c1b1177fcf28c3fa5772c499e",
+          "size": 47250
+        },
+        "screens/hi/note-view.webp": {
+          "sha256": "f6b6a7c12b460f9933084b29cef46284aa69949549bea8c452574d317f079138",
+          "size": 14792
+        },
+        "screens/hi/photo-menu.webp": {
+          "sha256": "85d23cd9ab9cf1b48dae0dbfdd0e6469bd2f62013e50e2618c878783c6fa3bd7",
+          "size": 6954
+        },
+        "screens/hi/photo-viewer.webp": {
+          "sha256": "c93ba53f75c3ff2aa5637a1b152d887e7d3eb617889b979ddda4ff3035fbea3f",
+          "size": 21400
+        },
+        "screens/hi/quantity.webp": {
+          "sha256": "fa6e927f110a5b8693ba053cadd894d6ed40119ea1e9eb74d5e865fa1ccd9532",
+          "size": 8582
+        },
+        "screens/hi/repeat.webp": {
+          "sha256": "5e54008e327a26da3d1170e5dc8d760953867657f4dab7c492ff49f6a521f396",
+          "size": 28964
+        },
+        "screens/hi/search.webp": {
+          "sha256": "23e09931175c01c1f2260f486accc8797872f5d243adb9138c56da7420a90e00",
+          "size": 45330
+        },
+        "screens/hi/security.webp": {
+          "sha256": "0d94c21d86fb17b3176311083a6e65ec2e08d80d835bebae89bce5b0cb394a56",
+          "size": 39912
+        },
+        "screens/hi/settings.webp": {
+          "sha256": "df7cec1003a766d93dbcc7582e545b20235fab6c2a19c18d1d92f22807b51ab0",
+          "size": 69884
+        },
+        "screens/hi/shopping-widget.webp": {
+          "sha256": "f5bd64d020788e3e76ba1450491ffe5b62093213e7235f952b8c6742db07bd2a",
+          "size": 17412
+        },
+        "screens/hi/shopping.webp": {
+          "sha256": "481fdb1f1585ca74cca4dd36c864ec48e3883673b80b807dc973e5f511aa917d",
+          "size": 29792
+        },
+        "screens/hi/task-alert.webp": {
+          "sha256": "00486ba22c0fd8a32813bac030fd15e6127aaec103f088cb0d9da9ff9d78370d",
+          "size": 33998
+        },
+        "screens/hi/task-menu.webp": {
+          "sha256": "ae998ecf50fb908cfaf9032a02caecc3a4c8501468b9b09e237b9ee061d656a1",
+          "size": 8004
+        },
+        "screens/hi/task-move.webp": {
+          "sha256": "212686176ff667f6f887400d6466895493af14cf2686bc5aff647c4119d0a579",
+          "size": 37502
+        },
+        "screens/hi/task-overview.webp": {
+          "sha256": "60d68c0b327338ad06ae407e60e16850ae59cf4cdff74230ada52960a9df789d",
+          "size": 37402
+        },
+        "screens/hi/task-time.webp": {
+          "sha256": "90ee7447cc03723c9c62db4272e698230106c0202454c578271d18d8e3f0f044",
+          "size": 17436
+        },
+        "screens/hi/themes.webp": {
+          "sha256": "bb6a52ad98e5822fe8c05c0a6fea30b7975abcd8541b72fb947753bcb734188c",
+          "size": 75418
+        },
+        "screens/hi/today-widget.webp": {
+          "sha256": "c1bc55a2f94298649437c28c471ff2fdd669198537d85dce36496ff1da8d6b4f",
+          "size": 21722
+        },
+        "screens/hi/trash-selection.webp": {
+          "sha256": "7029e5352bfc444e3f7888cca6a492ebd7bddaf7a111a004c9c8a8aa96941187",
+          "size": 29568
+        },
+        "screens/hi/trash.webp": {
+          "sha256": "5ed8f728c464cf2043eac63333fc94df6bb624897ac7c9687a25d4769ee8e654",
+          "size": 47940
+        },
+        "screens/hi/wide-home.webp": {
+          "sha256": "f66b97667357da966c092adfb4c298e1051d8dff7a8e6f152f33ae85af4d0d53",
+          "size": 55076
+        }
+      }
+    },
+    "pt-BR": {
+      "sha256": "7e88c2ca495734bf4af3c8396cc6e9d996fe1a9f1d2bc125a3b8827dc69e8867",
+      "size": 2479693,
+      "files": {
+        "screens/pt-BR/attachment-cut.webp": {
+          "sha256": "160838874cb1a36018b4139dcc6b945b014c58c56bfd69ef330a371589a34091",
+          "size": 46734
+        },
+        "screens/pt-BR/attachment-menu.webp": {
+          "sha256": "417353eccfadac4bd8422202e602e05f35d36fda2ad9f05d2487212bf1fb1766",
+          "size": 4900
+        },
+        "screens/pt-BR/attachment-move.webp": {
+          "sha256": "7def4a27262012251f73e34dc25b75bd507dce2428decacfcb14b9ea3bce411e",
+          "size": 23716
+        },
+        "screens/pt-BR/backup.webp": {
+          "sha256": "959f867e1f97183755c36dbbbeaa46581af7d5cc34782621e827a3113a6b1baa",
+          "size": 36134
+        },
+        "screens/pt-BR/cabinet-settings.webp": {
+          "sha256": "5989cdc7fda58bc1e254b964a4fc60425a9da95f1b7f79303f8094401710f926",
+          "size": 15584
+        },
+        "screens/pt-BR/calendar-import.webp": {
+          "sha256": "db10dbdf069fc1fdc60c5e203e974d88d29141044ef66dc73cfa9140161e560d",
+          "size": 35594
+        },
+        "screens/pt-BR/calendar-register.webp": {
+          "sha256": "5c1147fe7c544f1d7dfbd161c16954f85bf1d033388c0b0674dc515d636b9887",
+          "size": 33088
+        },
+        "screens/pt-BR/diary-calendar.webp": {
+          "sha256": "683a59e8d23571797b0359584bcdaef82a15d8bfaff78b15fdff73813b6654ca",
+          "size": 23800
+        },
+        "screens/pt-BR/diary-readonly.webp": {
+          "sha256": "a0929bfd3a6c17818010a58c3a7aa7448ee324499406b7018cde96d3c8275a81",
+          "size": 32222
+        },
+        "screens/pt-BR/diary-today.webp": {
+          "sha256": "6b0f310d65483f989235a250d781e47d5483772f5612dfbba14138bb01d0cae4",
+          "size": 41164
+        },
+        "screens/pt-BR/drawer-batch-move.webp": {
+          "sha256": "8b44f182d18c762b3fb92d374cdc74737d03a5c372b8be71554ba2ff9bc05b5c",
+          "size": 22040
+        },
+        "screens/pt-BR/drawer-colors.webp": {
+          "sha256": "f1b9fc7d94f6fdc0477b90b22149c73a99c7d90caaada5da3f72aee928138268",
+          "size": 74552
+        },
+        "screens/pt-BR/drawer-icons.webp": {
+          "sha256": "4d57fd8956384aae151a186d2f0c3e70751dfed9aa278ed55a7d89619121c8a9",
+          "size": 40836
+        },
+        "screens/pt-BR/drawer-menu.webp": {
+          "sha256": "1462ffb8f8a97ecc60393b70f4dc448ee8c110dacf896f6c448b104f9a0d50cd",
+          "size": 31200
+        },
+        "screens/pt-BR/drawer-move.webp": {
+          "sha256": "54cab8205971ab1b001a0a8d7ebe5241fa1cb118e47f52b56e524adfd1ce20b0",
+          "size": 30004
+        },
+        "screens/pt-BR/drawer-note-view.webp": {
+          "sha256": "efe093852a833075d9b2b83002028a27ad2fa6b781fb5d2a54d7d70a78ef0120",
+          "size": 41900
+        },
+        "screens/pt-BR/drawer-search.webp": {
+          "sha256": "c0f5e574402f22c1cc1a84d64581864e02e43147dbb05e41f6f0e4d4704b96a6",
+          "size": 51240
+        },
+        "screens/pt-BR/drawer-view.webp": {
+          "sha256": "2315c1a4ea73d7d54d9c196360fb1dcf36f7417b97e4b8669febbb4a8c519253",
+          "size": 32980
+        },
+        "screens/pt-BR/drawing-editor.webp": {
+          "sha256": "c0d9ed88c228e9e01f1b1f3816409cf67a5b27f77fbbcf9f0bcd0bffef81036e",
+          "size": 33994
+        },
+        "screens/pt-BR/drive-recovery.webp": {
+          "sha256": "091fa6d5f8ee325b259ca94002d3c3fb56a462542c43369729b96ea686138e07",
+          "size": 63230
+        },
+        "screens/pt-BR/encrypted-drawer-menu.webp": {
+          "sha256": "3078457c54980d055d5aef9467415e4f790207545994ed9bd3f3ee82d380e399",
+          "size": 40426
+        },
+        "screens/pt-BR/encrypted-home.webp": {
+          "sha256": "f83bb209b4ed19957d1f784feb51415ef0450eeded253c3b00e285fa0e44effa",
+          "size": 130058
+        },
+        "screens/pt-BR/encryption-badge.webp": {
+          "sha256": "dde2df4222d27929b68b5f7a3a37b36583b3ad2305c5319f6bad6f313db5f064",
+          "size": 5230
+        },
+        "screens/pt-BR/encryption-disable.webp": {
+          "sha256": "96d41fb3178718906d154bd6904896bdea5e3743c32196b447be5ff0b102dd16",
+          "size": 49460
+        },
+        "screens/pt-BR/encryption-password.webp": {
+          "sha256": "1691e3270dd1ab5438c779df8471894f2aba1ad8cecfa120f7bf2a8293b3a314",
+          "size": 42840
+        },
+        "screens/pt-BR/encryption-recovery.webp": {
+          "sha256": "675a2a6d690fe0c9efc3d723ea4bd60fcad0a31b5a6a2a668677c260806f126e",
+          "size": 42148
+        },
+        "screens/pt-BR/encryption-settings.webp": {
+          "sha256": "5cfc0c9f95e6e3ff60d0725d7fdcac1baf3d7669015391f3e84e91a806956a85",
+          "size": 22086
+        },
+        "screens/pt-BR/encryption-setup.webp": {
+          "sha256": "ac374650ef92a43e1fdf93c669c88f98561d2cb279feb23e68aafe1d9c7940d3",
+          "size": 37422
+        },
+        "screens/pt-BR/encryption-unlock.webp": {
+          "sha256": "1b8aa28aa7569bbe99ac1602abb4771f68349f2c5709ddd96e5d5f06dcdbc77a",
+          "size": 30396
+        },
+        "screens/pt-BR/evernote.webp": {
+          "sha256": "c23304ec826d3b1be2e223b50a113f37bd5c31cd848116cf099334291dbcba54",
+          "size": 40412
+        },
+        "screens/pt-BR/home-expanded.webp": {
+          "sha256": "ecaf92e4b0c43483511b1a9ea9cbffc76c3c4142d69f2c55969ce91bcfbeb04f",
+          "size": 136818
+        },
+        "screens/pt-BR/home.webp": {
+          "sha256": "485418a5c82f86a08f3b77d4a6e170f0839fd2f33658f40ad1a809ed3de4e5b0",
+          "size": 142656
+        },
+        "screens/pt-BR/local-backup.webp": {
+          "sha256": "bb52dd134eefde891fea60bee8020662a406376ee54d3a7c5adbfff2edc6b26a",
+          "size": 32164
+        },
+        "screens/pt-BR/local-restore.webp": {
+          "sha256": "676deef72ef4d328cc31fccfc692384de29ad5c48fd3f545ef725d9ebf5a0713",
+          "size": 30672
+        },
+        "screens/pt-BR/new-drawer.webp": {
+          "sha256": "7ba0797a16864affd12efcae6402590b80b918608b7a30fc4fc65b4fd4c13425",
+          "size": 65344
+        },
+        "screens/pt-BR/note-editor.webp": {
+          "sha256": "7e0e176e76c8c5ce33277ca1046107add7337f8957e235e186e0b475ef37c415",
+          "size": 52562
+        },
+        "screens/pt-BR/note-list-titles.webp": {
+          "sha256": "c8b104de8d693a654d7cd62af40af532a80b97bef476a780eef14d0404670813",
+          "size": 51936
+        },
+        "screens/pt-BR/note-list.webp": {
+          "sha256": "d89af05dcc82579cd1729c285067a54ad9fa510e38ed6e150271b4c4b2ec9134",
+          "size": 56208
+        },
+        "screens/pt-BR/note-search.webp": {
+          "sha256": "c6f52b28fd53368c5e5c23f676b824bd4d04ebdabe673c04029c7e6b4d3c33c7",
+          "size": 40048
+        },
+        "screens/pt-BR/note-selection.webp": {
+          "sha256": "bab1c08e89bd4a97cdc19113ca40fb709e0ba984d4eedc85bd9701487b3b9402",
+          "size": 54150
+        },
+        "screens/pt-BR/note-view.webp": {
+          "sha256": "f33cbda7094273e3febe6cbdbb42016bf87da5ac293875ed43c58ee8006c1343",
+          "size": 18310
+        },
+        "screens/pt-BR/photo-menu.webp": {
+          "sha256": "e65f3c4fbe54a0dd9c932a0f4497e6adc3df6f124314506022b2b7e01c59ddd3",
+          "size": 7186
+        },
+        "screens/pt-BR/photo-viewer.webp": {
+          "sha256": "3dc86b8cd6bf12d6f1cff6cef85d54233fb896e9a8f3446ccf78b8ba6b902460",
+          "size": 20518
+        },
+        "screens/pt-BR/quantity.webp": {
+          "sha256": "95a0e88af866adb60405072a15971a5e46d8ad3e7ca632d4c9ba2870fde5a581",
+          "size": 10688
+        },
+        "screens/pt-BR/repeat.webp": {
+          "sha256": "8bb51650eab09be23f215c1ffb58410f38f9c69ee0cdd673ec8a11585b3ce491",
+          "size": 33258
+        },
+        "screens/pt-BR/search.webp": {
+          "sha256": "d3b617cab8120542632ec34ca1bade263185cb68fda4205826a45df3ef4ce4b2",
+          "size": 46160
+        },
+        "screens/pt-BR/security.webp": {
+          "sha256": "aff263011ec2bad0fc2bcfb9ad4711d56393abf1035d8b9e6fa1930c2a8a1b90",
+          "size": 42112
+        },
+        "screens/pt-BR/settings.webp": {
+          "sha256": "8ba49a6db0dfb9840514e46bc7bff930c778d8b9f7afefc8ed95f53eabfbdaf3",
+          "size": 65184
+        },
+        "screens/pt-BR/shopping-widget.webp": {
+          "sha256": "250785c7b8d27ca6e093f65c64cca8838b5bbfe24cfc5bc00b37ffa567766eb4",
+          "size": 17860
+        },
+        "screens/pt-BR/shopping.webp": {
+          "sha256": "dd569523c34d549564956a6b32c8f774b883742c509b3982f788967691a8b7df",
+          "size": 30390
+        },
+        "screens/pt-BR/task-alert.webp": {
+          "sha256": "90551a5031c67f10c2ac22494b174222a7b86a7f784c18861371d1fcc407dbe9",
+          "size": 34554
+        },
+        "screens/pt-BR/task-menu.webp": {
+          "sha256": "ceae2c6fcec8f187e017eef2830888738beabf5419d702f35ced4e0d7a0d3602",
+          "size": 8898
+        },
+        "screens/pt-BR/task-move.webp": {
+          "sha256": "3b042254de029e830ca6c7fbe05d903365c718d54e7154c009a9ebb017bfe1fc",
+          "size": 40970
+        },
+        "screens/pt-BR/task-overview.webp": {
+          "sha256": "25f16151af6a641ccb98156956bce5d435725f9140e226976a8eba9d74364006",
+          "size": 40668
+        },
+        "screens/pt-BR/task-time.webp": {
+          "sha256": "5673bca2d033c870842e77f8a8be2a9148a66c300d6899c932743129e9c2ea6c",
+          "size": 24078
+        },
+        "screens/pt-BR/themes.webp": {
+          "sha256": "3afb9b6fbab549fae5f26a53ca80326ee9b6194c1ed95b4e8a9b2c5377aa4192",
+          "size": 79340
+        },
+        "screens/pt-BR/today-widget.webp": {
+          "sha256": "88f4c985d6d9b658285b264c4996f9ee4dfb6aa8e1991e433f4bac4697abcedf",
+          "size": 23848
+        },
+        "screens/pt-BR/trash-selection.webp": {
+          "sha256": "a0e7ed5ba97a79c93784c81e6673f68688739f9a985b686159cabc3b42ceef6d",
+          "size": 33396
+        },
+        "screens/pt-BR/trash.webp": {
+          "sha256": "ba769394b33fae557f68bad17a9d5e08758eca46e3fe3978f61b75ed6aa97d5b",
+          "size": 44850
+        },
+        "screens/pt-BR/wide-home.webp": {
+          "sha256": "21f98f6e2f7e10c956b1c6f586a247bb8c154ce5de18e8df2d05318218340065",
+          "size": 58728
+        }
+      }
+    },
+    "es": {
+      "sha256": "95ac0e14fe57ac1e58e2d4f099c5e455af1b42dee25c7991316f7e771025fa46",
+      "size": 2440601,
+      "files": {
+        "screens/es/attachment-cut.webp": {
+          "sha256": "efa0f9e3f4384bdee63797eaddf664cb069bbeb6294b0b646fa685071690ded5",
+          "size": 44738
+        },
+        "screens/es/attachment-menu.webp": {
+          "sha256": "410eebff4713dbadeeedbe196a24e9e0215e1dadb2f6498d7ddbcfed3ac0cbb6",
+          "size": 4304
+        },
+        "screens/es/attachment-move.webp": {
+          "sha256": "f132f99d2f10775b91b5641878bbdf78cab43c2754bdd1e300a5a702be00f545",
+          "size": 22772
+        },
+        "screens/es/backup.webp": {
+          "sha256": "244cc7ee9d94d7a310da65614eb3e5f9eb89c6475ab0d8e0b4f839be406e2133",
+          "size": 37096
+        },
+        "screens/es/cabinet-settings.webp": {
+          "sha256": "4b78027f1c5e38d52079c9f8d9b7facee9c5667d3ceefafda1e984aece29bf99",
+          "size": 15334
+        },
+        "screens/es/calendar-import.webp": {
+          "sha256": "64e3048e289642f117c40e735d0c98d5f858cb43281a2220005f76fb2e6019c1",
+          "size": 34124
+        },
+        "screens/es/calendar-register.webp": {
+          "sha256": "15e4ec6bf91aeda0e7a81a0a4d6d0139312c14d2a3cacf21949aeeecc4c5bcd0",
+          "size": 31610
+        },
+        "screens/es/diary-calendar.webp": {
+          "sha256": "c13cd0bd50bcd3dd88fab57ac806bbdcffb27cfcbbfbf649791c0158f51dd062",
+          "size": 22674
+        },
+        "screens/es/diary-readonly.webp": {
+          "sha256": "7f71af704431ddeddcc8230f0d338a29778fa919aa982ab838514bb9f2771c7a",
+          "size": 31506
+        },
+        "screens/es/diary-today.webp": {
+          "sha256": "68d0b10d61fe89a778fe1712c52a56af14ccd8c4f82a4a57ad2423f85f7d9099",
+          "size": 41586
+        },
+        "screens/es/drawer-batch-move.webp": {
+          "sha256": "98184a2e4bcab9e422840b6726f60248c53bd4d2c4783992b30d9d1c32135179",
+          "size": 21102
+        },
+        "screens/es/drawer-colors.webp": {
+          "sha256": "7cd3327456d4cca2608877ab28f5d5b0170fcf80fdf27d82f9c39fc19cd6c245",
+          "size": 69534
+        },
+        "screens/es/drawer-icons.webp": {
+          "sha256": "5facf48c88909fae317985cb9b06cd0d669348ed68f3e99ce92cc7f9a8edaa4a",
+          "size": 40178
+        },
+        "screens/es/drawer-menu.webp": {
+          "sha256": "b77d3551fccd084e19e97cb2977c445e99789f192d6721be6b21569885589d15",
+          "size": 29270
+        },
+        "screens/es/drawer-move.webp": {
+          "sha256": "faf774298d983f258096ae421569c5070c8ab310df3cdf2a4d4a8d59a43f4eb2",
+          "size": 27962
+        },
+        "screens/es/drawer-note-view.webp": {
+          "sha256": "8c52bca13d1e273f9fb8694c7f28a7c7b1c1bcd818c67c590fdc4eb543023782",
+          "size": 40526
+        },
+        "screens/es/drawer-search.webp": {
+          "sha256": "36c1382743e0b273f0b5cf7e6c4558d03d350b0f30686419122fa735b379a9fb",
+          "size": 51514
+        },
+        "screens/es/drawer-view.webp": {
+          "sha256": "ac47116ef10c66c58f245a723200dc12b6ed37f60d0f6ff1fd3ec6a3e5ff0a05",
+          "size": 33128
+        },
+        "screens/es/drawing-editor.webp": {
+          "sha256": "801a23009f1cc435aec2b3c0648a1a0ec5fdc2431693a06334e012e1d8c6aee2",
+          "size": 33710
+        },
+        "screens/es/drive-recovery.webp": {
+          "sha256": "9dc1432023b06c7d534b907d6fbac1562a287ca6e58bf20d5cb14fdd9f542726",
+          "size": 61000
+        },
+        "screens/es/encrypted-drawer-menu.webp": {
+          "sha256": "046ddd5dabe7e354c41d986ea03976bccb018eb0ae5612c5e45267ac62923987",
+          "size": 36122
+        },
+        "screens/es/encrypted-home.webp": {
+          "sha256": "684dc6f2b1ee356f5b6f6bcc1abedac6ff7898f39fad001b19acd3e646dd030a",
+          "size": 152642
+        },
+        "screens/es/encryption-badge.webp": {
+          "sha256": "79145f22e0dd0fd5079b054f590bef3c8947ae88b9113b6946ae6f42222b07fc",
+          "size": 5354
+        },
+        "screens/es/encryption-disable.webp": {
+          "sha256": "a0f16e06d52071481c10de58f83cd6bbd0d94fc478e4ad3d1cc0c7cd71c46ddd",
+          "size": 45406
+        },
+        "screens/es/encryption-password.webp": {
+          "sha256": "e4b3e323772bc1b7820d1847ef37efdd1a6c6fe2e68d8664b65a19a2d7b86423",
+          "size": 40502
+        },
+        "screens/es/encryption-recovery.webp": {
+          "sha256": "97cead28cdb9badef3166c4b78d9ee742493c97b784d63709d9c67285bf14efe",
+          "size": 40772
+        },
+        "screens/es/encryption-settings.webp": {
+          "sha256": "76d8b20cf40a99d077c339ff33cfe13defe10fa4af9f6e66caba1ef2f2890610",
+          "size": 20932
+        },
+        "screens/es/encryption-setup.webp": {
+          "sha256": "0be76e1640a6580b71280437ce588aea00c01886a04060421535f1532196f8c2",
+          "size": 35776
+        },
+        "screens/es/encryption-unlock.webp": {
+          "sha256": "9cab8ac01ec50989a654271e4569593ef25aaace6257ec9d0a8c9999e1e35f69",
+          "size": 30338
+        },
+        "screens/es/evernote.webp": {
+          "sha256": "81000369f35cf56fba3ac85d62ab5d05140c626ef32748d5b4165b112801f942",
+          "size": 41904
+        },
+        "screens/es/home-expanded.webp": {
+          "sha256": "6451e406ea6b70550e8d7ccd1e6ea2fcc0436e61da3a6cb51c4be349327bae6b",
+          "size": 132846
+        },
+        "screens/es/home.webp": {
+          "sha256": "29ad23e6dbacaeaab70dc56bd420a177a51cece345f7ea800eb9a93c9ed9dec7",
+          "size": 117744
+        },
+        "screens/es/local-backup.webp": {
+          "sha256": "b711c1fc99b18311355a2d0c7bc48344b35f27f12b4183bae4c91efbc6a2c136",
+          "size": 31614
+        },
+        "screens/es/local-restore.webp": {
+          "sha256": "ed0198168d824c23a1159d264c9807abb5ace07627de5901ad4831768a8df215",
+          "size": 30850
+        },
+        "screens/es/new-drawer.webp": {
+          "sha256": "7302d43ca9033bf1bcfb7b969cff40fbb4c4d3c67c08a858e529bb5b8e665019",
+          "size": 64350
+        },
+        "screens/es/note-editor.webp": {
+          "sha256": "7d6a7e7ae9d4045ee3645e458b63f8d95fa2d1a64d549f014c0221c150132239",
+          "size": 52348
+        },
+        "screens/es/note-list-titles.webp": {
+          "sha256": "e9964cc8e14e40a09dd42b4dc4d178711f72f1061c00eb1b10fac740ac3f6a4b",
+          "size": 53282
+        },
+        "screens/es/note-list.webp": {
+          "sha256": "8c9d4651a9e483af95f9af104d981e9ff90bb6b047f10a097fd5ac6c7773d7b3",
+          "size": 48204
+        },
+        "screens/es/note-search.webp": {
+          "sha256": "28c35d70b3243de1af322080e6d76faab80ba1fd8a75b8935c8f2701d782d9ec",
+          "size": 42888
+        },
+        "screens/es/note-selection.webp": {
+          "sha256": "c51b2453315b1e583d34022c5dd132d20dc30a4aaab8e56c645b7017eda2c238",
+          "size": 52968
+        },
+        "screens/es/note-view.webp": {
+          "sha256": "87ee67a34f6b786e404f37442919c96d4195cc3d50e94f647c46f70cc7ee2841",
+          "size": 16772
+        },
+        "screens/es/photo-menu.webp": {
+          "sha256": "5bc31823fe6b7537eeee3602d04d3e05ae39167de7d12fa457c0d861ce42407f",
+          "size": 6340
+        },
+        "screens/es/photo-viewer.webp": {
+          "sha256": "6fcbc9a4fa275a85f72419d239bf5c06b4ec87b41834038d215764a443617370",
+          "size": 20436
+        },
+        "screens/es/quantity.webp": {
+          "sha256": "b1eedf109d7d984bf01f830a4b24a210e06eabdc39a29d447d895e8db3a44dcf",
+          "size": 10240
+        },
+        "screens/es/repeat.webp": {
+          "sha256": "4943c18bb25bd9c13975e3987aad82c6b0f26d7bf01214263454d7d5437d102e",
+          "size": 31136
+        },
+        "screens/es/search.webp": {
+          "sha256": "71783357d869a172222091071822f94a45b0f4ad1c32f8976ef16caddcc40a97",
+          "size": 58504
+        },
+        "screens/es/security.webp": {
+          "sha256": "1ee26d18f1b96955dd90dc1217fefd4f76e30ad677c4e90558524b0618afaa3f",
+          "size": 42056
+        },
+        "screens/es/settings.webp": {
+          "sha256": "a54d096fbc288ca71153147d559479e5475a708613f05a3eb3fe76457affe370",
+          "size": 61766
+        },
+        "screens/es/shopping-widget.webp": {
+          "sha256": "5765abc8bfb1f336480e293fc6e3eb623e974f0f5438b85ef552881520c830ac",
+          "size": 18810
+        },
+        "screens/es/shopping.webp": {
+          "sha256": "877ca31bce0152b2596dc2510e8328e8071331f4ffc1c97e813df9c60955be97",
+          "size": 31610
+        },
+        "screens/es/task-alert.webp": {
+          "sha256": "76ca3406268c3fb29f6cbe5d3d0ed4286e85eff1e327474838e589c7204b1a01",
+          "size": 33722
+        },
+        "screens/es/task-menu.webp": {
+          "sha256": "bbe6767eb26a16442dd0e40274489c7da1d1bac60ab62cd5f65748374264e0b2",
+          "size": 9348
+        },
+        "screens/es/task-move.webp": {
+          "sha256": "7522798d73f37805b78ce4a1818f0fbfa795d5d679ca3ba7c765619df139c272",
+          "size": 39220
+        },
+        "screens/es/task-overview.webp": {
+          "sha256": "eefc65c75f471efd38ad84d157e3f87d7821a67e04337cb682adaa8d8afc9f0e",
+          "size": 39468
+        },
+        "screens/es/task-time.webp": {
+          "sha256": "0ee0a162aa604bf9501fca2c30c96cfadb9bc33831439bc175d92e568d4fdde6",
+          "size": 20916
+        },
+        "screens/es/themes.webp": {
+          "sha256": "b5e6e619f9df885a617d4d8f5f58c6bb723049ff6d96588fd1a182d96044ca65",
+          "size": 84708
+        },
+        "screens/es/today-widget.webp": {
+          "sha256": "38d3ef8756c90472a52fc78d681ab8edeeb7585cb6ed7c62fb3964196e5f0f71",
+          "size": 22594
+        },
+        "screens/es/trash-selection.webp": {
+          "sha256": "89356db198468d35371a94b87b057776df95c27dc0c36e7068a2512b591e66c5",
+          "size": 32178
+        },
+        "screens/es/trash.webp": {
+          "sha256": "ce270985b82c2bbb191a2689e6e154abb348541cd1a8173d96f798e6f45ea84e",
+          "size": 46364
+        },
+        "screens/es/wide-home.webp": {
+          "sha256": "641e446f96faec2a187743c5b672f1b39e66b86301b446cdd7070a2671e3cf40",
+          "size": 63430
+        }
+      }
+    },
+    "id": {
+      "sha256": "bd738af714d2c229f6d071c307dd2c0ee4ec37422e57d75bbbd6fee7fe46706b",
+      "size": 2317670,
+      "files": {
+        "screens/id/attachment-cut.webp": {
+          "sha256": "eb5158d520558397e102e8f90ab41cc880571f07eeacfcd644506563f474dd21",
+          "size": 46318
+        },
+        "screens/id/attachment-menu.webp": {
+          "sha256": "76505d372120d2184d7a85dcf1981c4227cf399caaa6e28809dd880c111092d0",
+          "size": 5150
+        },
+        "screens/id/attachment-move.webp": {
+          "sha256": "425f74de4c5c76b49002143b63f8bdf643c993fe4913299869d67b9b3f40c003",
+          "size": 23078
+        },
+        "screens/id/backup.webp": {
+          "sha256": "0c6bd5405a707ed716a023dffa2e854dbbaf223a322ce810fdaacedb5aaf9673",
+          "size": 32094
+        },
+        "screens/id/cabinet-settings.webp": {
+          "sha256": "71b6a0d48959754e5e225c894d70bd1a703a16ee0446c4370f016b583224de40",
+          "size": 13082
+        },
+        "screens/id/calendar-import.webp": {
+          "sha256": "aa7907f62d493774c0380211a063e464c6d221346095ae2ed197d064bfc65da9",
+          "size": 31500
+        },
+        "screens/id/calendar-register.webp": {
+          "sha256": "ee090dadaa5c97b7c4134c801c3edc0d180dae659964a309f4065e1d5cb5b6fd",
+          "size": 30858
+        },
+        "screens/id/diary-calendar.webp": {
+          "sha256": "e7fff4aaa1656fe1528c70ca86385d3bf91f7c453ee11a3c979d40e937a6c4bc",
+          "size": 22820
+        },
+        "screens/id/diary-readonly.webp": {
+          "sha256": "65205e0fc5308d4f7e46a4d9039461abc2e111f6f692add4d5045112700d666d",
+          "size": 35772
+        },
+        "screens/id/diary-today.webp": {
+          "sha256": "14e170dd0f2021e5ef126d5e4e74b737bf23a94da7a68a0ed7df996674fe41a1",
+          "size": 39394
+        },
+        "screens/id/drawer-batch-move.webp": {
+          "sha256": "679bde74bc816a11464f099f413239a99fa7ebac1b2ca6dbc885836929168ca5",
+          "size": 21746
+        },
+        "screens/id/drawer-colors.webp": {
+          "sha256": "3babbd0965c36a68bd03ff75a7c00a91deac464f11cf392020dba53d4d835e30",
+          "size": 63822
+        },
+        "screens/id/drawer-icons.webp": {
+          "sha256": "45989b53148553835b242fb2bf803824a0a0a18dba04272a710c8386ccf9702f",
+          "size": 35816
+        },
+        "screens/id/drawer-menu.webp": {
+          "sha256": "0a6f163db2fa736e97fc398095de933d9e4c898509088a82b0198d79f1cd5a28",
+          "size": 33522
+        },
+        "screens/id/drawer-move.webp": {
+          "sha256": "1beb954bb6843800ab3fcb89d67b21933e7cfb2fcaf6df479e77ab224e490f3f",
+          "size": 26444
+        },
+        "screens/id/drawer-note-view.webp": {
+          "sha256": "e720494895c7b4b8b38db92592ecd0cc72efc0b03cfc9632e4cebea57f2361f5",
+          "size": 34936
+        },
+        "screens/id/drawer-search.webp": {
+          "sha256": "3b090a8c265316a8a197a1640bf4f369f72f52e8934f5d3be1f354e87a8c4dba",
+          "size": 48144
+        },
+        "screens/id/drawer-view.webp": {
+          "sha256": "8ba3c1f0749ea6499887c948af820fa8388c70ecd738489362529da10605a9a4",
+          "size": 29164
+        },
+        "screens/id/drawing-editor.webp": {
+          "sha256": "e441870e53ee00445f6165146a078a6fd77a266d1ab14ad4bbeb9cb57b48f1aa",
+          "size": 34044
+        },
+        "screens/id/drive-recovery.webp": {
+          "sha256": "d5ac285185fc166b1b3c33081a7a0465632651cf5d1558ac9148d547b7d02a80",
+          "size": 57156
+        },
+        "screens/id/encrypted-drawer-menu.webp": {
+          "sha256": "2fd58590fe0e6965b904a96c0ae8800dbad4e58d66883dfe72646f6ff8b1ac14",
+          "size": 31054
+        },
+        "screens/id/encrypted-home.webp": {
+          "sha256": "54aaf95718d11f8eee4a1a2658fed683a35ddf1a84b76d6700b4b4cd7354d09f",
+          "size": 148120
+        },
+        "screens/id/encryption-badge.webp": {
+          "sha256": "5179b8642712c576947a5dc1a4ab9c5edc747e0151dc6de228031f4284b51cef",
+          "size": 5000
+        },
+        "screens/id/encryption-disable.webp": {
+          "sha256": "f61770d32f9a9d5b4e4afd773a0de868c86dc3cae280fd159b98d04cf3345926",
+          "size": 38928
+        },
+        "screens/id/encryption-password.webp": {
+          "sha256": "47a4a152d636ebb560678043719746988148eeb11641c9755ce1293a3c25143c",
+          "size": 36896
+        },
+        "screens/id/encryption-recovery.webp": {
+          "sha256": "378648bafb1fef6468bfc874c01a7d0af859c27bb8c416d329b08375b0ac2942",
+          "size": 38266
+        },
+        "screens/id/encryption-settings.webp": {
+          "sha256": "74f93c6401b07018dc7a84179fba320c99c7c144321ef78bab0060ded2b84f39",
+          "size": 17588
+        },
+        "screens/id/encryption-setup.webp": {
+          "sha256": "b891cebfd6d4cf0ab2675bd9f998538065deb38153ae8022db4144fdac3cba65",
+          "size": 32042
+        },
+        "screens/id/encryption-unlock.webp": {
+          "sha256": "73c9a27ce8a7e12c1ac2bbaa6e23bf269a30f30030b056470a81a635f9e174e7",
+          "size": 26036
+        },
+        "screens/id/evernote.webp": {
+          "sha256": "e70352f13d4723d7169379a9b3a8526d8e39b7abc2d1997cc31326184d60daa4",
+          "size": 38094
+        },
+        "screens/id/home-expanded.webp": {
+          "sha256": "d49db916b0ae8bf920557ea21582b1c7388711d0473280eceecf18cf9590fc25",
+          "size": 126606
+        },
+        "screens/id/home.webp": {
+          "sha256": "040464bffe92e667a5344eaa008fcf1245a03b6936b3c93cd4c6d6ce3c010963",
+          "size": 136776
+        },
+        "screens/id/local-backup.webp": {
+          "sha256": "79d2d48e2c39c402ab48b65adf02a9e3cb955c843b5456a1781a3ba8d3167c29",
+          "size": 28106
+        },
+        "screens/id/local-restore.webp": {
+          "sha256": "78f877acec007532c11cdc5cd60acac92b18d4209fe557fc8895efc44cc96d49",
+          "size": 23614
+        },
+        "screens/id/new-drawer.webp": {
+          "sha256": "54f18cda8ab022a0b5e2c85492c83e30cc13fcec072d204d8fc13d324af7553c",
+          "size": 58040
+        },
+        "screens/id/note-editor.webp": {
+          "sha256": "17b1f0187ff4b41424fe64cec1aece1f402b443f31c67006684dcbda89cc5459",
+          "size": 55548
+        },
+        "screens/id/note-list-titles.webp": {
+          "sha256": "2162d31e262784dd6ae5eb723cc73732f87185c8bbb2310cabd52f50f8820671",
+          "size": 50386
+        },
+        "screens/id/note-list.webp": {
+          "sha256": "5ae21e2e0cef6b639ac2fc64722d6b82a883a385964c7f9ef125ef76904b9c28",
+          "size": 47168
+        },
+        "screens/id/note-search.webp": {
+          "sha256": "9340a6afc54a10ebedf12c031ece8540ed3dcf0e8a2ff39e74e292c28404cc43",
+          "size": 42842
+        },
+        "screens/id/note-selection.webp": {
+          "sha256": "ddfeb5b4b1f4ba740a29ac56cda71e4872c7088ca4172625905e8bd06ab02e49",
+          "size": 51506
+        },
+        "screens/id/note-view.webp": {
+          "sha256": "722b877d896c15e398d4e1a15394da74aa643b8c50ba80edd02497c3e673458a",
+          "size": 15420
+        },
+        "screens/id/photo-menu.webp": {
+          "sha256": "ea9fef7adbd634302a7b9a43cdccc515cd1c0aa3a3d0c40d6f1e8a4e52539718",
+          "size": 7494
+        },
+        "screens/id/photo-viewer.webp": {
+          "sha256": "6f0fb55ff1476a591503afcc49e2a1bf3a35110774d3ee838944f1fe37999e51",
+          "size": 20846
+        },
+        "screens/id/quantity.webp": {
+          "sha256": "55d33409526103163e0e5f498ae88223df4fb7b9fe4a38c83cc80ef5e073b268",
+          "size": 8418
+        },
+        "screens/id/repeat.webp": {
+          "sha256": "5287ac87f1527a6260516e96d31e5bae9ebdc86ad84c578ec188eb43a012e440",
+          "size": 30240
+        },
+        "screens/id/search.webp": {
+          "sha256": "adcf8029ddd800fbe636495fb2121ca28a524aca1bfae4a02ee235d49d3acb36",
+          "size": 56900
+        },
+        "screens/id/security.webp": {
+          "sha256": "a0c202eee42fe3f1352f2ad5435a2579d20e7472c0a55193448880b9b0f8ff79",
+          "size": 36276
+        },
+        "screens/id/settings.webp": {
+          "sha256": "44cf7c8db4192bf4bcf5544480d9c0128adaeac0111930b1927f155cc8ec451c",
+          "size": 55574
+        },
+        "screens/id/shopping-widget.webp": {
+          "sha256": "79be911815967b413e6f49791f9e86ff9eb231f1c7c5e6888e4394581d6ca0a7",
+          "size": 16916
+        },
+        "screens/id/shopping.webp": {
+          "sha256": "c0f9cd20c59b464d14932b3374b5f7f5ab6447c17ff9ce182176db2ddcdfd0a6",
+          "size": 21852
+        },
+        "screens/id/task-alert.webp": {
+          "sha256": "99cb684543f6aeb1b108eab3fd614461ec44ac39ca073f354c524031e7842a89",
+          "size": 32150
+        },
+        "screens/id/task-menu.webp": {
+          "sha256": "a4ea3bc25030e74fc5f4ca45cb3fa610190968c8b45541f3943ee9892607edec",
+          "size": 7226
+        },
+        "screens/id/task-move.webp": {
+          "sha256": "150274c90c09d6d28c2aa7a5c8b6d8870b0b094987ed5a0f1056a46f7063711f",
+          "size": 39410
+        },
+        "screens/id/task-overview.webp": {
+          "sha256": "145756738fec6dfea312118b9452bc61319501d4170d0ba66709e1d784078abe",
+          "size": 39920
+        },
+        "screens/id/task-time.webp": {
+          "sha256": "2a1d669c0dd4e77889eb6a31e12f8385984dd37f34fa75c08a96ecacd9a2a0f7",
+          "size": 18856
+        },
+        "screens/id/themes.webp": {
+          "sha256": "ca80f1db40f3e03c53bbd70c8c75464086a7e361c523573848027134ea29837e",
+          "size": 75478
+        },
+        "screens/id/today-widget.webp": {
+          "sha256": "a9ffd4453f0af1a8b785555f499ee23e9cfa1c5c2e23b65bf0b71f40aee69381",
+          "size": 22748
+        },
+        "screens/id/trash-selection.webp": {
+          "sha256": "a0d884efa1b2c773e92c3aeae757a3ed90c9dd7ef2d6e634e8f05fb125f513cc",
+          "size": 29786
+        },
+        "screens/id/trash.webp": {
+          "sha256": "f5d4ba6a8f41b711f71d1a468f18c1ef92feeed31058b209138b7148653e77bc",
+          "size": 45236
+        },
+        "screens/id/wide-home.webp": {
+          "sha256": "90ee3682a39cbffedeef14b88ec549a655dd19a09105d175467b13646e903c25",
+          "size": 56692
+        }
+      }
+    }
+  },
+  "publicImages": {
+    "attachment-cut.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/attachment-cut.png",
+    "attachment-menu.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/attachment-menu.png",
+    "attachment-move.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/attachment-move.png",
+    "cabinet-settings.png": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/cabinet-settings.png",
+    "calendar-import.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/calendar-import.png",
+    "calendar-register.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/calendar-register.png",
+    "diary-calendar.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/diary-calendar.png",
+    "diary-readonly.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/diary-readonly.png",
+    "diary-today.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/diary-today.png",
+    "drawer-batch-move.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/drawer-batch-move.png",
+    "drawer-colors.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/drawer-colors.png",
+    "drawer-icons.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/drawer-icons.png",
+    "drawer-menu.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/drawer-menu.png",
+    "drawer-move.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/drawer-move.png",
+    "drawer-note-view.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/drawer-note-view.png",
+    "drawer-search.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/drawer-search.png",
+    "drawer-view.png": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/drawer-view.png",
+    "drawing-editor.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/drawing-editor.png",
+    "encrypted-drawer-menu.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/encrypted-drawer-menu.png",
+    "encrypted-home.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/encrypted-home.png",
+    "encryption-badge.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/encryption-badge.png",
+    "encryption-disable.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/encryption-disable.png",
+    "encryption-password.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/encryption-password.png",
+    "encryption-recovery.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/encryption-recovery.png",
+    "encryption-settings.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/encryption-settings.png",
+    "encryption-setup.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/encryption-setup.png",
+    "encryption-unlock.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/encryption-unlock.png",
+    "evernote.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/evernote.png",
+    "local-restore.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/local-restore.png",
+    "note-editor.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/note-editor.png",
+    "note-list-titles.png": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/note-list-titles.png",
+    "note-list.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/note-list.png",
+    "note-search.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/note-search.png",
+    "note-selection.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/note-selection.png",
+    "note-view.png": "https://bcho73.github.io/NoteOrNever-Manual/r/d5f3850033877529f43f31f3/note-view.png",
+    "photo-menu.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/photo-menu.png",
+    "photo-viewer.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/photo-viewer.png",
+    "quantity.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/quantity.png",
+    "repeat.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/repeat.png",
+    "search.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/search.png",
+    "security.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/security.png",
+    "shopping-widget.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/shopping-widget.png",
+    "shopping.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/shopping.png",
+    "task-alert.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/task-alert.png",
+    "task-menu.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/task-menu.png",
+    "task-move.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/task-move.png",
+    "task-overview.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/task-overview.png",
+    "task-time.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/task-time.png",
+    "themes.png": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/themes.png",
+    "today-widget.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/today-widget.png",
+    "trash-selection.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/trash-selection.png",
+    "trash.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/trash.png",
+    "wide-home.png": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/wide-home.png",
+    "screens/en/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/en/attachment-cut.webp",
+    "screens/en/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/en/attachment-menu.webp",
+    "screens/en/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/en/attachment-move.webp",
+    "screens/en/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/en/cabinet-settings.webp",
+    "screens/en/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/calendar-import.webp",
+    "screens/en/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/calendar-register.webp",
+    "screens/en/diary-calendar.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/diary-calendar.webp",
+    "screens/en/diary-readonly.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/diary-readonly.webp",
+    "screens/en/diary-today.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/diary-today.webp",
+    "screens/en/drawer-batch-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/drawer-batch-move.webp",
+    "screens/en/drawer-colors.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/drawer-colors.webp",
+    "screens/en/drawer-icons.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/en/drawer-icons.webp",
+    "screens/en/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/drawer-menu.webp",
+    "screens/en/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/drawer-move.webp",
+    "screens/en/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/en/drawer-note-view.webp",
+    "screens/en/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/drawer-search.webp",
+    "screens/en/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/en/drawer-view.webp",
+    "screens/en/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/drawing-editor.webp",
+    "screens/en/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/encrypted-drawer-menu.webp",
+    "screens/en/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/encrypted-home.webp",
+    "screens/en/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/encryption-badge.webp",
+    "screens/en/encryption-disable.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/encryption-disable.webp",
+    "screens/en/encryption-password.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/encryption-password.webp",
+    "screens/en/encryption-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/encryption-recovery.webp",
+    "screens/en/encryption-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/encryption-settings.webp",
+    "screens/en/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/encryption-setup.webp",
+    "screens/en/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/encryption-unlock.webp",
+    "screens/en/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/evernote.webp",
+    "screens/en/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/local-restore.webp",
+    "screens/en/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/note-editor.webp",
+    "screens/en/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/en/note-list-titles.webp",
+    "screens/en/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/note-list.webp",
+    "screens/en/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/note-search.webp",
+    "screens/en/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/note-selection.webp",
+    "screens/en/note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/d5f3850033877529f43f31f3/screens/en/note-view.webp",
+    "screens/en/photo-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/en/photo-menu.webp",
+    "screens/en/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/photo-viewer.webp",
+    "screens/en/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/quantity.webp",
+    "screens/en/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/repeat.webp",
+    "screens/en/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/search.webp",
+    "screens/en/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/security.webp",
+    "screens/en/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/shopping-widget.webp",
+    "screens/en/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/shopping.webp",
+    "screens/en/task-alert.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/task-alert.webp",
+    "screens/en/task-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/task-menu.webp",
+    "screens/en/task-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/task-move.webp",
+    "screens/en/task-overview.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/task-overview.webp",
+    "screens/en/task-time.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/task-time.webp",
+    "screens/en/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/en/themes.webp",
+    "screens/en/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/today-widget.webp",
+    "screens/en/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/en/trash-selection.webp",
+    "screens/en/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/trash.webp",
+    "screens/en/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/en/wide-home.webp",
+    "screens/ja/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/ja/attachment-cut.webp",
+    "screens/ja/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/ja/attachment-menu.webp",
+    "screens/ja/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/ja/attachment-move.webp",
+    "screens/ja/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/ja/cabinet-settings.webp",
+    "screens/ja/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/calendar-import.webp",
+    "screens/ja/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/calendar-register.webp",
+    "screens/ja/diary-calendar.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/diary-calendar.webp",
+    "screens/ja/diary-readonly.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/diary-readonly.webp",
+    "screens/ja/diary-today.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/diary-today.webp",
+    "screens/ja/drawer-batch-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/drawer-batch-move.webp",
+    "screens/ja/drawer-colors.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/drawer-colors.webp",
+    "screens/ja/drawer-icons.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/ja/drawer-icons.webp",
+    "screens/ja/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/drawer-menu.webp",
+    "screens/ja/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/drawer-move.webp",
+    "screens/ja/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/ja/drawer-note-view.webp",
+    "screens/ja/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/drawer-search.webp",
+    "screens/ja/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/ja/drawer-view.webp",
+    "screens/ja/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/drawing-editor.webp",
+    "screens/ja/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/encrypted-drawer-menu.webp",
+    "screens/ja/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/encrypted-home.webp",
+    "screens/ja/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/encryption-badge.webp",
+    "screens/ja/encryption-disable.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/encryption-disable.webp",
+    "screens/ja/encryption-password.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/encryption-password.webp",
+    "screens/ja/encryption-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/encryption-recovery.webp",
+    "screens/ja/encryption-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/encryption-settings.webp",
+    "screens/ja/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/encryption-setup.webp",
+    "screens/ja/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/encryption-unlock.webp",
+    "screens/ja/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/evernote.webp",
+    "screens/ja/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/local-restore.webp",
+    "screens/ja/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/note-editor.webp",
+    "screens/ja/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/ja/note-list-titles.webp",
+    "screens/ja/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/note-list.webp",
+    "screens/ja/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/note-search.webp",
+    "screens/ja/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/note-selection.webp",
+    "screens/ja/note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/d5f3850033877529f43f31f3/screens/ja/note-view.webp",
+    "screens/ja/photo-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/ja/photo-menu.webp",
+    "screens/ja/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/photo-viewer.webp",
+    "screens/ja/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/quantity.webp",
+    "screens/ja/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/repeat.webp",
+    "screens/ja/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/search.webp",
+    "screens/ja/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/security.webp",
+    "screens/ja/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/shopping-widget.webp",
+    "screens/ja/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/shopping.webp",
+    "screens/ja/task-alert.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/task-alert.webp",
+    "screens/ja/task-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/task-menu.webp",
+    "screens/ja/task-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/task-move.webp",
+    "screens/ja/task-overview.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/task-overview.webp",
+    "screens/ja/task-time.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/task-time.webp",
+    "screens/ja/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/ja/themes.webp",
+    "screens/ja/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/today-widget.webp",
+    "screens/ja/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/ja/trash-selection.webp",
+    "screens/ja/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/trash.webp",
+    "screens/ja/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/ja/wide-home.webp",
+    "screens/hi/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/hi/attachment-cut.webp",
+    "screens/hi/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/hi/attachment-menu.webp",
+    "screens/hi/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/hi/attachment-move.webp",
+    "screens/hi/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/hi/cabinet-settings.webp",
+    "screens/hi/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/calendar-import.webp",
+    "screens/hi/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/calendar-register.webp",
+    "screens/hi/diary-calendar.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/diary-calendar.webp",
+    "screens/hi/diary-readonly.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/diary-readonly.webp",
+    "screens/hi/diary-today.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/diary-today.webp",
+    "screens/hi/drawer-batch-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/drawer-batch-move.webp",
+    "screens/hi/drawer-colors.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/drawer-colors.webp",
+    "screens/hi/drawer-icons.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/hi/drawer-icons.webp",
+    "screens/hi/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/drawer-menu.webp",
+    "screens/hi/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/drawer-move.webp",
+    "screens/hi/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/hi/drawer-note-view.webp",
+    "screens/hi/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/drawer-search.webp",
+    "screens/hi/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/hi/drawer-view.webp",
+    "screens/hi/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/drawing-editor.webp",
+    "screens/hi/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/encrypted-drawer-menu.webp",
+    "screens/hi/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/encrypted-home.webp",
+    "screens/hi/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/encryption-badge.webp",
+    "screens/hi/encryption-disable.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/encryption-disable.webp",
+    "screens/hi/encryption-password.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/encryption-password.webp",
+    "screens/hi/encryption-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/encryption-recovery.webp",
+    "screens/hi/encryption-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/encryption-settings.webp",
+    "screens/hi/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/encryption-setup.webp",
+    "screens/hi/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/encryption-unlock.webp",
+    "screens/hi/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/evernote.webp",
+    "screens/hi/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/local-restore.webp",
+    "screens/hi/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/note-editor.webp",
+    "screens/hi/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/hi/note-list-titles.webp",
+    "screens/hi/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/note-list.webp",
+    "screens/hi/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/note-search.webp",
+    "screens/hi/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/note-selection.webp",
+    "screens/hi/note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/d5f3850033877529f43f31f3/screens/hi/note-view.webp",
+    "screens/hi/photo-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/hi/photo-menu.webp",
+    "screens/hi/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/photo-viewer.webp",
+    "screens/hi/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/quantity.webp",
+    "screens/hi/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/repeat.webp",
+    "screens/hi/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/search.webp",
+    "screens/hi/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/security.webp",
+    "screens/hi/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/shopping-widget.webp",
+    "screens/hi/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/shopping.webp",
+    "screens/hi/task-alert.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/task-alert.webp",
+    "screens/hi/task-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/task-menu.webp",
+    "screens/hi/task-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/task-move.webp",
+    "screens/hi/task-overview.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/task-overview.webp",
+    "screens/hi/task-time.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/task-time.webp",
+    "screens/hi/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/hi/themes.webp",
+    "screens/hi/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/today-widget.webp",
+    "screens/hi/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/hi/trash-selection.webp",
+    "screens/hi/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/trash.webp",
+    "screens/hi/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/hi/wide-home.webp",
+    "screens/pt-BR/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/pt-BR/attachment-cut.webp",
+    "screens/pt-BR/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/pt-BR/attachment-menu.webp",
+    "screens/pt-BR/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/pt-BR/attachment-move.webp",
+    "screens/pt-BR/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/pt-BR/cabinet-settings.webp",
+    "screens/pt-BR/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/calendar-import.webp",
+    "screens/pt-BR/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/calendar-register.webp",
+    "screens/pt-BR/diary-calendar.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/diary-calendar.webp",
+    "screens/pt-BR/diary-readonly.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/diary-readonly.webp",
+    "screens/pt-BR/diary-today.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/diary-today.webp",
+    "screens/pt-BR/drawer-batch-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/drawer-batch-move.webp",
+    "screens/pt-BR/drawer-colors.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/drawer-colors.webp",
+    "screens/pt-BR/drawer-icons.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/pt-BR/drawer-icons.webp",
+    "screens/pt-BR/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/drawer-menu.webp",
+    "screens/pt-BR/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/drawer-move.webp",
+    "screens/pt-BR/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/pt-BR/drawer-note-view.webp",
+    "screens/pt-BR/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/drawer-search.webp",
+    "screens/pt-BR/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/pt-BR/drawer-view.webp",
+    "screens/pt-BR/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/drawing-editor.webp",
+    "screens/pt-BR/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/encrypted-drawer-menu.webp",
+    "screens/pt-BR/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/encrypted-home.webp",
+    "screens/pt-BR/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/encryption-badge.webp",
+    "screens/pt-BR/encryption-disable.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/encryption-disable.webp",
+    "screens/pt-BR/encryption-password.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/encryption-password.webp",
+    "screens/pt-BR/encryption-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/encryption-recovery.webp",
+    "screens/pt-BR/encryption-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/encryption-settings.webp",
+    "screens/pt-BR/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/encryption-setup.webp",
+    "screens/pt-BR/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/encryption-unlock.webp",
+    "screens/pt-BR/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/evernote.webp",
+    "screens/pt-BR/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/local-restore.webp",
+    "screens/pt-BR/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/note-editor.webp",
+    "screens/pt-BR/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/pt-BR/note-list-titles.webp",
+    "screens/pt-BR/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/note-list.webp",
+    "screens/pt-BR/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/note-search.webp",
+    "screens/pt-BR/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/note-selection.webp",
+    "screens/pt-BR/note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/d5f3850033877529f43f31f3/screens/pt-BR/note-view.webp",
+    "screens/pt-BR/photo-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/pt-BR/photo-menu.webp",
+    "screens/pt-BR/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/photo-viewer.webp",
+    "screens/pt-BR/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/quantity.webp",
+    "screens/pt-BR/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/repeat.webp",
+    "screens/pt-BR/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/search.webp",
+    "screens/pt-BR/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/security.webp",
+    "screens/pt-BR/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/shopping-widget.webp",
+    "screens/pt-BR/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/shopping.webp",
+    "screens/pt-BR/task-alert.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/task-alert.webp",
+    "screens/pt-BR/task-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/task-menu.webp",
+    "screens/pt-BR/task-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/task-move.webp",
+    "screens/pt-BR/task-overview.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/task-overview.webp",
+    "screens/pt-BR/task-time.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/task-time.webp",
+    "screens/pt-BR/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/pt-BR/themes.webp",
+    "screens/pt-BR/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/today-widget.webp",
+    "screens/pt-BR/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/pt-BR/trash-selection.webp",
+    "screens/pt-BR/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/trash.webp",
+    "screens/pt-BR/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/pt-BR/wide-home.webp",
+    "screens/es/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/es/attachment-cut.webp",
+    "screens/es/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/es/attachment-menu.webp",
+    "screens/es/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/es/attachment-move.webp",
+    "screens/es/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/es/cabinet-settings.webp",
+    "screens/es/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/calendar-import.webp",
+    "screens/es/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/calendar-register.webp",
+    "screens/es/diary-calendar.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/diary-calendar.webp",
+    "screens/es/diary-readonly.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/diary-readonly.webp",
+    "screens/es/diary-today.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/diary-today.webp",
+    "screens/es/drawer-batch-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/drawer-batch-move.webp",
+    "screens/es/drawer-colors.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/drawer-colors.webp",
+    "screens/es/drawer-icons.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/es/drawer-icons.webp",
+    "screens/es/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/drawer-menu.webp",
+    "screens/es/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/drawer-move.webp",
+    "screens/es/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/es/drawer-note-view.webp",
+    "screens/es/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/drawer-search.webp",
+    "screens/es/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/es/drawer-view.webp",
+    "screens/es/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/drawing-editor.webp",
+    "screens/es/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/encrypted-drawer-menu.webp",
+    "screens/es/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/encrypted-home.webp",
+    "screens/es/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-badge.webp",
+    "screens/es/encryption-disable.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-disable.webp",
+    "screens/es/encryption-password.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-password.webp",
+    "screens/es/encryption-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-recovery.webp",
+    "screens/es/encryption-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-settings.webp",
+    "screens/es/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-setup.webp",
+    "screens/es/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-unlock.webp",
+    "screens/es/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/evernote.webp",
+    "screens/es/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/local-restore.webp",
+    "screens/es/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/note-editor.webp",
+    "screens/es/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/es/note-list-titles.webp",
+    "screens/es/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/note-list.webp",
+    "screens/es/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/note-search.webp",
+    "screens/es/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/note-selection.webp",
+    "screens/es/note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/d5f3850033877529f43f31f3/screens/es/note-view.webp",
+    "screens/es/photo-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/es/photo-menu.webp",
+    "screens/es/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/photo-viewer.webp",
+    "screens/es/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/quantity.webp",
+    "screens/es/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/repeat.webp",
+    "screens/es/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/search.webp",
+    "screens/es/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/security.webp",
+    "screens/es/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/shopping-widget.webp",
+    "screens/es/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/shopping.webp",
+    "screens/es/task-alert.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/task-alert.webp",
+    "screens/es/task-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/task-menu.webp",
+    "screens/es/task-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/task-move.webp",
+    "screens/es/task-overview.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/task-overview.webp",
+    "screens/es/task-time.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/task-time.webp",
+    "screens/es/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/es/themes.webp",
+    "screens/es/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/today-widget.webp",
+    "screens/es/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/es/trash-selection.webp",
+    "screens/es/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/trash.webp",
+    "screens/es/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/es/wide-home.webp",
+    "screens/id/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/id/attachment-cut.webp",
+    "screens/id/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/id/attachment-menu.webp",
+    "screens/id/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/id/attachment-move.webp",
+    "screens/id/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/id/cabinet-settings.webp",
+    "screens/id/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/calendar-import.webp",
+    "screens/id/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/calendar-register.webp",
+    "screens/id/diary-calendar.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/diary-calendar.webp",
+    "screens/id/diary-readonly.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/diary-readonly.webp",
+    "screens/id/diary-today.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/diary-today.webp",
+    "screens/id/drawer-batch-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/drawer-batch-move.webp",
+    "screens/id/drawer-colors.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/drawer-colors.webp",
+    "screens/id/drawer-icons.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/id/drawer-icons.webp",
+    "screens/id/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/drawer-menu.webp",
+    "screens/id/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/drawer-move.webp",
+    "screens/id/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/id/drawer-note-view.webp",
+    "screens/id/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/drawer-search.webp",
+    "screens/id/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/id/drawer-view.webp",
+    "screens/id/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/drawing-editor.webp",
+    "screens/id/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/encrypted-drawer-menu.webp",
+    "screens/id/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/encrypted-home.webp",
+    "screens/id/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-badge.webp",
+    "screens/id/encryption-disable.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-disable.webp",
+    "screens/id/encryption-password.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-password.webp",
+    "screens/id/encryption-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-recovery.webp",
+    "screens/id/encryption-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-settings.webp",
+    "screens/id/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-setup.webp",
+    "screens/id/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-unlock.webp",
+    "screens/id/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/evernote.webp",
+    "screens/id/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/local-restore.webp",
+    "screens/id/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/note-editor.webp",
+    "screens/id/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/id/note-list-titles.webp",
+    "screens/id/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/note-list.webp",
+    "screens/id/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/note-search.webp",
+    "screens/id/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/note-selection.webp",
+    "screens/id/note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/d5f3850033877529f43f31f3/screens/id/note-view.webp",
+    "screens/id/photo-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/id/photo-menu.webp",
+    "screens/id/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/photo-viewer.webp",
+    "screens/id/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/quantity.webp",
+    "screens/id/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/repeat.webp",
+    "screens/id/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/search.webp",
+    "screens/id/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/security.webp",
+    "screens/id/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/shopping-widget.webp",
+    "screens/id/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/shopping.webp",
+    "screens/id/task-alert.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/task-alert.webp",
+    "screens/id/task-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/task-menu.webp",
+    "screens/id/task-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/task-move.webp",
+    "screens/id/task-overview.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/task-overview.webp",
+    "screens/id/task-time.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/task-time.webp",
+    "screens/id/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/id/themes.webp",
+    "screens/id/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/today-widget.webp",
+    "screens/id/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/id/trash-selection.webp",
+    "screens/id/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/trash.webp",
+    "screens/id/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/id/wide-home.webp"
+  }
+}
