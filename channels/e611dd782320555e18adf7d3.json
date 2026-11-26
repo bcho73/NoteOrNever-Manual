@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "revision": "38d7fb1fd4aab4699083927d",
+  "revision": "a0349062775c87f61bb0e7ff",
   "photoChannel": "e611dd782320555e18adf7d3",
-  "baseUrl": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/",
+  "baseUrl": "https://bcho73.github.io/NoteOrNever-Manual/r/a0349062775c87f61bb0e7ff/",
   "shared": [
     "new-drawer-icon.png",
     "toolbar-bottom-1.png",
@@ -28,8 +28,8 @@
   ],
   "languages": {
     "ko": {
-      "sha256": "2aa24f1c7f8779c063387f948c5e6f64d2a46c3580c63c9d9a6492a99cbd485a",
-      "size": 1974025,
+      "sha256": "eaeab85f2bae166ca91ddf141b905334ada73d36b48ec54b92945e3458adf894",
+      "size": 1884915,
       "files": {
         "attachment-cut.png": {
           "sha256": "92fce339f49d350a7dff901745063dcc4aaea12976fffc50bdb16814b343191c",
@@ -96,8 +96,8 @@
           "size": 37814
         },
         "drawer-search.png": {
-          "sha256": "f8f4fa4ff6f3a82269d4d7cfd2f1d3f60e27ab70b7dc7d830d7372a4f2c76736",
-          "size": 45893
+          "sha256": "74554a421141a2bcd88653d8d9e08ec35dbad86ff665fddca16eba1718b33834",
+          "size": 32309
         },
         "drawer-view.png": {
           "sha256": "630fce291442bb94ff55585d52a403d669032aa7ca2b41a3e74ed1d68066e0d5",
@@ -152,8 +152,8 @@
           "size": 70798
         },
         "home-expanded.png": {
-          "sha256": "dd9cccd8464dcfcf8b2c10678dde56f84218cb72da7d25c59eaffa6c49edb390",
-          "size": 84992
+          "sha256": "3e2959ddceb95d0e2a09a75b68fcbf5a8c4ecf65f4ad134de5ea043d121481ff",
+          "size": 73276
         },
         "home.png": {
           "sha256": "27e7b562ba3368ff349b1ed8fe60e32bac5258673d461b28e3f88adff6edc861",
@@ -176,8 +176,8 @@
           "size": 42431
         },
         "note-list-titles.png": {
-          "sha256": "0acb8b6621ddf599d820cf516cdfe390298c11515b109fe1cbcd7e40477b076c",
-          "size": 49108
+          "sha256": "d077fd4f59abad638a18b6bbf7597c5a1455019793533fce447244b807fa086e",
+          "size": 34289
         },
         "note-list.png": {
           "sha256": "1765f29fb5bf065f5ce64550d609dbc686ccb8d7b0445c214ca1c23937bfe1d7",
@@ -212,16 +212,16 @@
           "size": 28788
         },
         "search.png": {
-          "sha256": "bc30a79c43977ab06a17edd3e180f4a0376d53bcef32bf49a7332a86288f976f",
-          "size": 58824
+          "sha256": "b9acbfc5df93cdc6b6c2041873b095cc410c36323e7a131b50895a266e272259",
+          "size": 44178
         },
         "security.png": {
           "sha256": "db4a2978d70798274f2c9255a28207d62b90f2d58afd7b9718b2076ae612d9dd",
           "size": 41556
         },
         "settings.png": {
-          "sha256": "ee7431ce1e7e2fcebd0ac76cb70ac7fa15773253d28d8b58bdfaf057bf89b1c4",
-          "size": 58801
+          "sha256": "5b9ae327749b8b89257df2da65e806228027bc5a6379b80831785e38b5c30ef2",
+          "size": 42795
         },
         "shopping-widget.png": {
           "sha256": "409872e009767e97b2cc23a6c468d983b02156b5355bfe02db55e05b7d82b6d9",
@@ -264,8 +264,8 @@
           "size": 28653
         },
         "trash.png": {
-          "sha256": "ed9c653da06d5c93a57104a61651c9e52138774bc7e195e1505fb963d31fa50a",
-          "size": 38917
+          "sha256": "f660069b9f52129caf5352813a9f2e640b831b12dd9704e9e0632ecd590099aa",
+          "size": 23140
         },
         "wide-home.png": {
           "sha256": "e711e69bda7e5736cde21a887818677bfd929feeb6c8c7bd342ea47587aa2158",
@@ -274,8 +274,8 @@
       }
     },
     "en": {
-      "sha256": "111bc57cc8507e68f662767ea7a0428890921142646aec92b062c995941371a6",
-      "size": 2374214,
+      "sha256": "88988deb9a990231043df3d3e2766496d907aba9a4c3f269dcf0bbd6ca2526a3",
+      "size": 2216270,
       "files": {
         "screens/en/attachment-cut.webp": {
           "sha256": "b166f816bafaceb2cf241d3ec81aa4f8678cea46f51a21e30a08cb4b1da01a88",
@@ -342,8 +342,8 @@
           "size": 36066
         },
         "screens/en/drawer-search.webp": {
-          "sha256": "2b565fdcdb00a7d868c4fd822b4c35e85ef8538848b0a81e78e216d09d0ebaf3",
-          "size": 50774
+          "sha256": "a1c9bb5733853efb61db0d99fe3bff02815d6124316848ee7003c4df4672521b",
+          "size": 29892
         },
         "screens/en/drawer-view.webp": {
           "sha256": "83fbad2e728ba9efad30b7a8d9bda763d4617c06a9a01b7a9b8bc0c1255be33e",
@@ -398,12 +398,12 @@
           "size": 41078
         },
         "screens/en/home-expanded.webp": {
-          "sha256": "89d723915cf19e4f3ea5be962730f79d21341b8b89c6cc387d68d8401756570b",
-          "size": 130524
+          "sha256": "41d4addab0a78e9a10d1551305defb08a4b05b5f30cdaf5cee09e5f9c7983b6d",
+          "size": 107708
         },
         "screens/en/home.webp": {
-          "sha256": "407fe0374e5a78af8a536fb7497bf7ac1ec930356656f61a8b15a6ee05f47a6c",
-          "size": 139694
+          "sha256": "01dc6662d3429af110a29d037e8db5418c5f4b57fa2e8eb782a589075d0b3255",
+          "size": 115214
         },
         "screens/en/local-backup.webp": {
           "sha256": "b6467dd36f6e6ab8352fff6b9851c8f0a658238a4498b40e807dcf9bb06e5595",
@@ -422,8 +422,8 @@
           "size": 50820
         },
         "screens/en/note-list-titles.webp": {
-          "sha256": "951acb34f3c23648379ac589100859339c14ff424cf8210385a45c7468be2612",
-          "size": 51110
+          "sha256": "b714ebcc3218df546fb65b5670d3cc49cf88b74d515d09cfa0fa04bf8ffab53a",
+          "size": 30198
         },
         "screens/en/note-list.webp": {
           "sha256": "c53e27dce1d45b96f712b1671d1908ff4d18150e8081fe3750afe37dd4107e22",
@@ -458,16 +458,16 @@
           "size": 31988
         },
         "screens/en/search.webp": {
-          "sha256": "b816d942f00a70688655f98eb465d86775694d718e5c69bae6a8d677c4f46310",
-          "size": 63458
+          "sha256": "cf9ad63765b4975e26413e1dc0d7246cdbe01144f926a95b02bdc7e45cda03f0",
+          "size": 35884
         },
         "screens/en/security.webp": {
           "sha256": "3f48fad6f5d26759ccc4dfa91ebcc7ca2098fa596d81fcde0013f9d95f2a4714",
           "size": 36214
         },
         "screens/en/settings.webp": {
-          "sha256": "3db42f8fd40b7d88212d3e62f3961d81831fcf05701d6cde9f8ea23b323ff42c",
-          "size": 57260
+          "sha256": "3d63662bf7b0455a084f6e5826639c51475a1e6602eafa113535c24bff9efe76",
+          "size": 36908
         },
         "screens/en/shopping-widget.webp": {
           "sha256": "9927c3d18738325a329851433c5c84ab31f1dacddc63060fbae51678ba9b9a11",
@@ -510,8 +510,8 @@
           "size": 29876
         },
         "screens/en/trash.webp": {
-          "sha256": "671299eedaa01738e005e117a7813b45caf58e9731cdede91ad191d5ee34a681",
-          "size": 47058
+          "sha256": "459b8d2b4812c38caa4efd3899d51e71b66099f34e9383d99357bfda31bea74a",
+          "size": 25980
         },
         "screens/en/wide-home.webp": {
           "sha256": "9e35a2c7add20bc6f61889e657bb52fae30d04c3e7f3631858811fa60a605ff6",
@@ -520,8 +520,8 @@
       }
     },
     "ja": {
-      "sha256": "55ff909455d9d7bcc4a6d6ddc788596c14e508157eeaf318f8c7223258e9c4e8",
-      "size": 2917227,
+      "sha256": "86818946d88a95474cbffdb5607463a83a0e274761ffcd9c4ab62723d69e0cc0",
+      "size": 2747364,
       "files": {
         "screens/ja/attachment-cut.webp": {
           "sha256": "58819f6c049d7a1fac84351ac950a56876288dd65ebe7652f4786af3a12e667b",
@@ -588,8 +588,8 @@
           "size": 47272
         },
         "screens/ja/drawer-search.webp": {
-          "sha256": "6691c5cceef3f284a9951f130ebac046f971b90a8bd6a13f2fc38a4179e28ea3",
-          "size": 56990
+          "sha256": "616abd911d4e1177fb6217b1c537ac33801f15f0e0b56c776e343827d75db51f",
+          "size": 36436
         },
         "screens/ja/drawer-view.webp": {
           "sha256": "df90e549cbf0227985524a2ce497f79ae664e172b47433342edd6b2073b24d16",
@@ -644,12 +644,12 @@
           "size": 82998
         },
         "screens/ja/home-expanded.webp": {
-          "sha256": "24815b01a2a435dc597db7c9c86fb30541afb89dddf6bd584ee1d0aeb87a248b",
-          "size": 131834
+          "sha256": "b4129a6b941a3ba38e4aa67cec822420e2ebbcbe3d3740e1a44e132d7eaaaa20",
+          "size": 111400
         },
         "screens/ja/home.webp": {
-          "sha256": "f6471aad5fb1bdcff4bdd8d5bf80d7b46f0c8581abb064ddf006d937fc1a9b1b",
-          "size": 139056
+          "sha256": "24f729bfcd96cefd4b469ac324048cb7f9274984dbd3d82635b512465e1600f8",
+          "size": 116576
         },
         "screens/ja/local-backup.webp": {
           "sha256": "b333e3fd98be8b3608fa2827312ddab5fc20f0da9ea43f5424955c6d13229bc1",
@@ -668,12 +668,12 @@
           "size": 57130
         },
         "screens/ja/note-list-titles.webp": {
-          "sha256": "0be1ff75a655c649561e4a681dc24608b7dd38f8136253f0ff8e6e16c39ab49e",
-          "size": 56620
+          "sha256": "e1eae29e16e7c95665c985e5237e139b720d6affd68547fcfca1f9137c1f51f9",
+          "size": 37814
         },
         "screens/ja/note-list.webp": {
-          "sha256": "1b1ff681f30fc2143e2b28597771f82103b4b271254e6ca8ae253fa66a52ee22",
-          "size": 65786
+          "sha256": "c8a84daabe442b54752895ed4df5cfe7ca940fa165839c127dda7696fa54613a",
+          "size": 45400
         },
         "screens/ja/note-search.webp": {
           "sha256": "21a2e6a05b739b9fbd5e5f780d576532ba14b3194ca0021c9ee8da46df4289fe",
@@ -704,16 +704,16 @@
           "size": 47254
         },
         "screens/ja/search.webp": {
-          "sha256": "c2e6140ab9e4b9270754ebefb1f357204d1c7ef08ee09d902c428a2e65886ab8",
-          "size": 75442
+          "sha256": "2750c7bbb005d1f9a646f2d142a9f42a7a619c9632084be936cf31d956e9ab36",
+          "size": 48772
         },
         "screens/ja/security.webp": {
           "sha256": "318ca26ca9d682cc6933279539cff7d8a3155b75c0773ee50a81b0fc70d95a7b",
           "size": 57798
         },
         "screens/ja/settings.webp": {
-          "sha256": "cfbc8a9d74f7ddd7793a295dc3f006f55b74d21359a378e9b214e0fcfbbcc582",
-          "size": 65552
+          "sha256": "f6c519eeb9e0a0b6532f386cc201ce57eba17e2cab5e670b53c4c0e381db3ae6",
+          "size": 45294
         },
         "screens/ja/shopping-widget.webp": {
           "sha256": "ce9ce3673bc7874150fff044a5fdbc578fed3c690486b1c5ea5ce0446e165c30",
@@ -756,8 +756,8 @@
           "size": 33938
         },
         "screens/ja/trash.webp": {
-          "sha256": "f2b64ab796fa2cca15edc235d10f1ae93041231d85bcd44e704a6dc2a6e2e79e",
-          "size": 46848
+          "sha256": "33e8bbf0ace43e1ede06b3328c548066a5520652e8e763780e31244f86ebc396",
+          "size": 26494
         },
         "screens/ja/wide-home.webp": {
           "sha256": "dc9bfbf6ab5f3a3cd1249418d8c7c74f727438b347635e609fb31a849fd56ab2",
@@ -766,8 +766,8 @@
       }
     },
     "hi": {
-      "sha256": "51698c4534cf254d7e23610ba76e2048a72ea158c113cf8d7cd9e00a3adef3c1",
-      "size": 2344349,
+      "sha256": "bbb7eda1aaf10f186f401669c8abb51152c9ef6a451482726c29c9a8cc3f99cb",
+      "size": 2182398,
       "files": {
         "screens/hi/attachment-cut.webp": {
           "sha256": "2c41bceaee031372c4ce3c4325dba02fc0f2f4e0cead85ce851decea76b2a106",
@@ -834,8 +834,8 @@
           "size": 37742
         },
         "screens/hi/drawer-search.webp": {
-          "sha256": "55e4786c1d305d7db6e8765a498090192feb9f00f97459318e257bb34541365e",
-          "size": 50994
+          "sha256": "2e2240faf8de76fdbc0f8f91aeed319fc6c893651fdf8dc7febf94b33426d200",
+          "size": 29448
         },
         "screens/hi/drawer-view.webp": {
           "sha256": "7b9659e21fc582ab83361aa9ce127d4747391a84f18025f0e2b31d56d73cc598",
@@ -890,12 +890,12 @@
           "size": 55290
         },
         "screens/hi/home-expanded.webp": {
-          "sha256": "22b8359cc54fd833c75faef359020cdb539a36c3d3d1d0808f28787a1ea40ae1",
-          "size": 130692
+          "sha256": "f5709c89ee81536c717b9e0f17140c0b3ec7e5aa3a7134de982e6ded7e274a80",
+          "size": 106142
         },
         "screens/hi/home.webp": {
-          "sha256": "8b2ef33513397034466bd2a45272c9da4e9b52eb851a232b6378eb76529c6ca5",
-          "size": 136564
+          "sha256": "828d868c185901aac9ebcfb874c27ce39d66462c81c57330d66858641a04f71b",
+          "size": 111336
         },
         "screens/hi/local-backup.webp": {
           "sha256": "c4e5a35eec7648ba3a5e2e3d075b0e64078599f426f73324bbe6d8cfee93fede",
@@ -914,12 +914,12 @@
           "size": 50930
         },
         "screens/hi/note-list-titles.webp": {
-          "sha256": "8f4b56a6a755d995cb1a8206b8b7a4c0e339284b2557c1aa9bd649c22112577d",
-          "size": 51056
+          "sha256": "ee4a20589e0ba5668a7344dd69e62dab88fa70006e8d93e1e3e16e77f9511c51",
+          "size": 29976
         },
         "screens/hi/note-list.webp": {
-          "sha256": "bf3a5df079de25dbad58ffec3e6e1107cf96056e27032654dcb29cd1e7a011ef",
-          "size": 38270
+          "sha256": "32d683c0ae97a977e21acfb343d8e7bed5a7720cf36e9089fa4c6169e77666c8",
+          "size": 36202
         },
         "screens/hi/note-search.webp": {
           "sha256": "4a7bb1e823f6599a7a93a72ba4aedc28056ae31b2e3c8da9c4fd395850213c0e",
@@ -950,16 +950,16 @@
           "size": 28964
         },
         "screens/hi/search.webp": {
-          "sha256": "23e09931175c01c1f2260f486accc8797872f5d243adb9138c56da7420a90e00",
-          "size": 45330
+          "sha256": "86e93082eb6bf6c25664e757290d3cadbf19bfb0e48bcfefc297d85e52bca91a",
+          "size": 24096
         },
         "screens/hi/security.webp": {
           "sha256": "0d94c21d86fb17b3176311083a6e65ec2e08d80d835bebae89bce5b0cb394a56",
           "size": 39912
         },
         "screens/hi/settings.webp": {
-          "sha256": "df7cec1003a766d93dbcc7582e545b20235fab6c2a19c18d1d92f22807b51ab0",
-          "size": 69884
+          "sha256": "a09afe165b81e9e1048b15b28c4bb979d221322767c1dc10d1ef51da67c1abf5",
+          "size": 45410
         },
         "screens/hi/shopping-widget.webp": {
           "sha256": "f5bd64d020788e3e76ba1450491ffe5b62093213e7235f952b8c6742db07bd2a",
@@ -1002,8 +1002,8 @@
           "size": 29568
         },
         "screens/hi/trash.webp": {
-          "sha256": "5ed8f728c464cf2043eac63333fc94df6bb624897ac7c9687a25d4769ee8e654",
-          "size": 47940
+          "sha256": "a180e07d6ab029456351afc6ee22d34b6b237f6f166747147c644da414974b93",
+          "size": 26734
         },
         "screens/hi/wide-home.webp": {
           "sha256": "f66b97667357da966c092adfb4c298e1051d8dff7a8e6f152f33ae85af4d0d53",
@@ -1012,8 +1012,8 @@
       }
     },
     "pt-BR": {
-      "sha256": "7e88c2ca495734bf4af3c8396cc6e9d996fe1a9f1d2bc125a3b8827dc69e8867",
-      "size": 2479693,
+      "sha256": "853fdb32c84b609e49c885d7db58e104edab2dcf97e0d73b2108dc580c1fbd93",
+      "size": 2308495,
       "files": {
         "screens/pt-BR/attachment-cut.webp": {
           "sha256": "160838874cb1a36018b4139dcc6b945b014c58c56bfd69ef330a371589a34091",
@@ -1080,8 +1080,8 @@
           "size": 41900
         },
         "screens/pt-BR/drawer-search.webp": {
-          "sha256": "c0f5e574402f22c1cc1a84d64581864e02e43147dbb05e41f6f0e4d4704b96a6",
-          "size": 51240
+          "sha256": "1a2856530b9360b7c67b227b6bb39569a3b789cbe31036163366c060a949e0a2",
+          "size": 30436
         },
         "screens/pt-BR/drawer-view.webp": {
           "sha256": "2315c1a4ea73d7d54d9c196360fb1dcf36f7417b97e4b8669febbb4a8c519253",
@@ -1136,12 +1136,12 @@
           "size": 40412
         },
         "screens/pt-BR/home-expanded.webp": {
-          "sha256": "ecaf92e4b0c43483511b1a9ea9cbffc76c3c4142d69f2c55969ce91bcfbeb04f",
-          "size": 136818
+          "sha256": "981dc0c726873f9df810cb9776b2bc4255a31921b347e7eb013f61af051de46f",
+          "size": 112608
         },
         "screens/pt-BR/home.webp": {
-          "sha256": "485418a5c82f86a08f3b77d4a6e170f0839fd2f33658f40ad1a809ed3de4e5b0",
-          "size": 142656
+          "sha256": "6ddba00edf97a3f2021871f40a6e427f7462eccb3a0725fe1142cb0a1efdec5d",
+          "size": 117264
         },
         "screens/pt-BR/local-backup.webp": {
           "sha256": "bb52dd134eefde891fea60bee8020662a406376ee54d3a7c5adbfff2edc6b26a",
@@ -1160,12 +1160,12 @@
           "size": 52562
         },
         "screens/pt-BR/note-list-titles.webp": {
-          "sha256": "c8b104de8d693a654d7cd62af40af532a80b97bef476a780eef14d0404670813",
-          "size": 51936
+          "sha256": "2a93e3334df3b0489594b627d8086f12118c4faa57cf3eee470f595860dc9e42",
+          "size": 31268
         },
         "screens/pt-BR/note-list.webp": {
-          "sha256": "d89af05dcc82579cd1729c285067a54ad9fa510e38ed6e150271b4c4b2ec9134",
-          "size": 56208
+          "sha256": "bd1d77d860d644a0fcbf5d60c857b6f6d1f2ed80df7e88a9a2e7a4203c7995d5",
+          "size": 37384
         },
         "screens/pt-BR/note-search.webp": {
           "sha256": "c6f52b28fd53368c5e5c23f676b824bd4d04ebdabe673c04029c7e6b4d3c33c7",
@@ -1196,16 +1196,16 @@
           "size": 33258
         },
         "screens/pt-BR/search.webp": {
-          "sha256": "d3b617cab8120542632ec34ca1bade263185cb68fda4205826a45df3ef4ce4b2",
-          "size": 46160
+          "sha256": "cc8bcd7a968a35f7ef71487a933ff6045108f8fca8f0eb5d64313ce8e7c7e6b5",
+          "size": 24984
         },
         "screens/pt-BR/security.webp": {
           "sha256": "aff263011ec2bad0fc2bcfb9ad4711d56393abf1035d8b9e6fa1930c2a8a1b90",
           "size": 42112
         },
         "screens/pt-BR/settings.webp": {
-          "sha256": "8ba49a6db0dfb9840514e46bc7bff930c778d8b9f7afefc8ed95f53eabfbdaf3",
-          "size": 65184
+          "sha256": "b8ba5d19e33f4c3a42a93b683a6b2949dbd3e0dab014694ab537687be1cb9221",
+          "size": 42302
         },
         "screens/pt-BR/shopping-widget.webp": {
           "sha256": "250785c7b8d27ca6e093f65c64cca8838b5bbfe24cfc5bc00b37ffa567766eb4",
@@ -1248,8 +1248,8 @@
           "size": 33396
         },
         "screens/pt-BR/trash.webp": {
-          "sha256": "ba769394b33fae557f68bad17a9d5e08758eca46e3fe3978f61b75ed6aa97d5b",
-          "size": 44850
+          "sha256": "67750d4dc27d70a8b1886400973c0f7e609a79d7e8e5c628367c14b9a09b00ef",
+          "size": 27386
         },
         "screens/pt-BR/wide-home.webp": {
           "sha256": "21f98f6e2f7e10c956b1c6f586a247bb8c154ce5de18e8df2d05318218340065",
@@ -1258,8 +1258,8 @@
       }
     },
     "es": {
-      "sha256": "95ac0e14fe57ac1e58e2d4f099c5e455af1b42dee25c7991316f7e771025fa46",
-      "size": 2440601,
+      "sha256": "f3ba3a2e8ccff31326e23ed6b2c05abe64c1f1a3166509d32171d77878c5924f",
+      "size": 2278620,
       "files": {
         "screens/es/attachment-cut.webp": {
           "sha256": "efa0f9e3f4384bdee63797eaddf664cb069bbeb6294b0b646fa685071690ded5",
@@ -1326,8 +1326,8 @@
           "size": 40526
         },
         "screens/es/drawer-search.webp": {
-          "sha256": "36c1382743e0b273f0b5cf7e6c4558d03d350b0f30686419122fa735b379a9fb",
-          "size": 51514
+          "sha256": "3770fa3995cc8c6a35e0907114fe2ba29f9f047f078bdab0d4f5ebd0a4fcd51a",
+          "size": 30752
         },
         "screens/es/drawer-view.webp": {
           "sha256": "ac47116ef10c66c58f245a723200dc12b6ed37f60d0f6ff1fd3ec6a3e5ff0a05",
@@ -1346,8 +1346,8 @@
           "size": 36122
         },
         "screens/es/encrypted-home.webp": {
-          "sha256": "684dc6f2b1ee356f5b6f6bcc1abedac6ff7898f39fad001b19acd3e646dd030a",
-          "size": 152642
+          "sha256": "b39d54a70a7015d04e299a3e57328000a41a0ab837b2639a199502cf80e34c69",
+          "size": 124234
         },
         "screens/es/encryption-badge.webp": {
           "sha256": "79145f22e0dd0fd5079b054f590bef3c8947ae88b9113b6946ae6f42222b07fc",
@@ -1382,8 +1382,8 @@
           "size": 41904
         },
         "screens/es/home-expanded.webp": {
-          "sha256": "6451e406ea6b70550e8d7ccd1e6ea2fcc0436e61da3a6cb51c4be349327bae6b",
-          "size": 132846
+          "sha256": "d0242d4dcc162f35da78ab394a4a56ccf03b696d047d631611283ebd31d50ad7",
+          "size": 109202
         },
         "screens/es/home.webp": {
           "sha256": "29ad23e6dbacaeaab70dc56bd420a177a51cece345f7ea800eb9a93c9ed9dec7",
@@ -1406,8 +1406,8 @@
           "size": 52348
         },
         "screens/es/note-list-titles.webp": {
-          "sha256": "e9964cc8e14e40a09dd42b4dc4d178711f72f1061c00eb1b10fac740ac3f6a4b",
-          "size": 53282
+          "sha256": "21ccfbc01a7e2411e59733fd0460360497d174b3a8605b7f3940498b1bfed319",
+          "size": 31114
         },
         "screens/es/note-list.webp": {
           "sha256": "8c9d4651a9e483af95f9af104d981e9ff90bb6b047f10a097fd5ac6c7773d7b3",
@@ -1442,16 +1442,16 @@
           "size": 31136
         },
         "screens/es/search.webp": {
-          "sha256": "71783357d869a172222091071822f94a45b0f4ad1c32f8976ef16caddcc40a97",
-          "size": 58504
+          "sha256": "78c0587f445bd8675a3a0f4c64d16245c361414d0e3bc0797b52512ddc1401b6",
+          "size": 34114
         },
         "screens/es/security.webp": {
           "sha256": "1ee26d18f1b96955dd90dc1217fefd4f76e30ad677c4e90558524b0618afaa3f",
           "size": 42056
         },
         "screens/es/settings.webp": {
-          "sha256": "a54d096fbc288ca71153147d559479e5475a708613f05a3eb3fe76457affe370",
-          "size": 61766
+          "sha256": "49f0656adeda684575120809ee8d8d6ad218a5030820b3ab2ee3bc876de3318e",
+          "size": 38938
         },
         "screens/es/shopping-widget.webp": {
           "sha256": "5765abc8bfb1f336480e293fc6e3eb623e974f0f5438b85ef552881520c830ac",
@@ -1494,8 +1494,8 @@
           "size": 32178
         },
         "screens/es/trash.webp": {
-          "sha256": "ce270985b82c2bbb191a2689e6e154abb348541cd1a8173d96f798e6f45ea84e",
-          "size": 46364
+          "sha256": "8f753e6cfa2b50123cada9cc72c9c49be91ec9fcd64d70e70fe65ab8e11e2718",
+          "size": 26556
         },
         "screens/es/wide-home.webp": {
           "sha256": "641e446f96faec2a187743c5b672f1b39e66b86301b446cdd7070a2671e3cf40",
@@ -1504,8 +1504,8 @@
       }
     },
     "id": {
-      "sha256": "bd738af714d2c229f6d071c307dd2c0ee4ec37422e57d75bbbd6fee7fe46706b",
-      "size": 2317670,
+      "sha256": "9ac569cb9151a360d23b4b967a91421c807f7b8b0eb92c86d891a846245f9cf2",
+      "size": 2132431,
       "files": {
         "screens/id/attachment-cut.webp": {
           "sha256": "eb5158d520558397e102e8f90ab41cc880571f07eeacfcd644506563f474dd21",
@@ -1572,8 +1572,8 @@
           "size": 34936
         },
         "screens/id/drawer-search.webp": {
-          "sha256": "3b090a8c265316a8a197a1640bf4f369f72f52e8934f5d3be1f354e87a8c4dba",
-          "size": 48144
+          "sha256": "a96bfe85b01dbe6a29a8f2053ceccb899dec93786abf9b849f5bffa034a5a1a6",
+          "size": 27182
         },
         "screens/id/drawer-view.webp": {
           "sha256": "8ba3c1f0749ea6499887c948af820fa8388c70ecd738489362529da10605a9a4",
@@ -1592,8 +1592,8 @@
           "size": 31054
         },
         "screens/id/encrypted-home.webp": {
-          "sha256": "54aaf95718d11f8eee4a1a2658fed683a35ddf1a84b76d6700b4b4cd7354d09f",
-          "size": 148120
+          "sha256": "435f4d0071fad4c714dbb729522d1ba30e09212eec4ec8d1972e58807920498a",
+          "size": 119090
         },
         "screens/id/encryption-badge.webp": {
           "sha256": "5179b8642712c576947a5dc1a4ab9c5edc747e0151dc6de228031f4284b51cef",
@@ -1628,12 +1628,12 @@
           "size": 38094
         },
         "screens/id/home-expanded.webp": {
-          "sha256": "d49db916b0ae8bf920557ea21582b1c7388711d0473280eceecf18cf9590fc25",
-          "size": 126606
+          "sha256": "5b55f839fb565292adcd8baa4a6a78de21263f9352761d685d91919adb243fe4",
+          "size": 102656
         },
         "screens/id/home.webp": {
-          "sha256": "040464bffe92e667a5344eaa008fcf1245a03b6936b3c93cd4c6d6ce3c010963",
-          "size": 136776
+          "sha256": "feaf31babe6f9552af3396f5862b0d2c1a1efefd10deb155f5d860bd7af219f0",
+          "size": 112066
         },
         "screens/id/local-backup.webp": {
           "sha256": "79d2d48e2c39c402ab48b65adf02a9e3cb955c843b5456a1781a3ba8d3167c29",
@@ -1652,8 +1652,8 @@
           "size": 55548
         },
         "screens/id/note-list-titles.webp": {
-          "sha256": "2162d31e262784dd6ae5eb723cc73732f87185c8bbb2310cabd52f50f8820671",
-          "size": 50386
+          "sha256": "abcb8487d899c5dcb200a1c66884600afc7748b30af19988f58641fdb4c5c563",
+          "size": 29232
         },
         "screens/id/note-list.webp": {
           "sha256": "5ae21e2e0cef6b639ac2fc64722d6b82a883a385964c7f9ef125ef76904b9c28",
@@ -1688,16 +1688,16 @@
           "size": 30240
         },
         "screens/id/search.webp": {
-          "sha256": "adcf8029ddd800fbe636495fb2121ca28a524aca1bfae4a02ee235d49d3acb36",
-          "size": 56900
+          "sha256": "9b9224af4f73c828e413ee729e2046699f55d7ac1ae70e8758f5c0bf4ec9ae10",
+          "size": 31170
         },
         "screens/id/security.webp": {
           "sha256": "a0c202eee42fe3f1352f2ad5435a2579d20e7472c0a55193448880b9b0f8ff79",
           "size": 36276
         },
         "screens/id/settings.webp": {
-          "sha256": "44cf7c8db4192bf4bcf5544480d9c0128adaeac0111930b1927f155cc8ec451c",
-          "size": 55574
+          "sha256": "99e572d57cf39e16efdbcc4a7ee141ee5e67f26f314a67653e85c8e85d5c97ba",
+          "size": 34756
         },
         "screens/id/shopping-widget.webp": {
           "sha256": "79be911815967b413e6f49791f9e86ff9eb231f1c7c5e6888e4394581d6ca0a7",
@@ -1740,8 +1740,8 @@
           "size": 29786
         },
         "screens/id/trash.webp": {
-          "sha256": "f5d4ba6a8f41b711f71d1a468f18c1ef92feeed31058b209138b7148653e77bc",
-          "size": 45236
+          "sha256": "5d5b035cebee0cbdc31dc2a06138761e421b0b4759aa0ede26295f4c589c383f",
+          "size": 26322
         },
         "screens/id/wide-home.webp": {
           "sha256": "90ee3682a39cbffedeef14b88ec549a655dd19a09105d175467b13646e903c25",
@@ -1754,6 +1754,7 @@
     "attachment-cut.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/attachment-cut.png",
     "attachment-menu.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/attachment-menu.png",
     "attachment-move.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/attachment-move.png",
+    "backup.png": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/backup.png",
     "cabinet-settings.png": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/cabinet-settings.png",
     "calendar-import.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/calendar-import.png",
     "calendar-register.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/calendar-register.png",
@@ -1766,9 +1767,9 @@
     "drawer-menu.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/drawer-menu.png",
     "drawer-move.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/drawer-move.png",
     "drawer-note-view.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/drawer-note-view.png",
-    "drawer-search.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/drawer-search.png",
     "drawer-view.png": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/drawer-view.png",
     "drawing-editor.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/drawing-editor.png",
+    "drive-recovery.png": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/drive-recovery.png",
     "encrypted-drawer-menu.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/encrypted-drawer-menu.png",
     "encrypted-home.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/encrypted-home.png",
     "encryption-badge.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/encryption-badge.png",
@@ -1779,9 +1780,11 @@
     "encryption-setup.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/encryption-setup.png",
     "encryption-unlock.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/encryption-unlock.png",
     "evernote.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/evernote.png",
+    "home.png": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/home.png",
+    "local-backup.png": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/local-backup.png",
     "local-restore.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/local-restore.png",
+    "new-drawer.png": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/new-drawer.png",
     "note-editor.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/note-editor.png",
-    "note-list-titles.png": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/note-list-titles.png",
     "note-list.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/note-list.png",
     "note-search.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/note-search.png",
     "note-selection.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/note-selection.png",
@@ -1790,7 +1793,6 @@
     "photo-viewer.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/photo-viewer.png",
     "quantity.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/quantity.png",
     "repeat.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/repeat.png",
-    "search.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/search.png",
     "security.png": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/security.png",
     "shopping-widget.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/shopping-widget.png",
     "shopping.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/shopping.png",
@@ -1802,11 +1804,11 @@
     "themes.png": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/themes.png",
     "today-widget.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/today-widget.png",
     "trash-selection.png": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/trash-selection.png",
-    "trash.png": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/trash.png",
     "wide-home.png": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/wide-home.png",
     "screens/en/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/en/attachment-cut.webp",
     "screens/en/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/en/attachment-menu.webp",
     "screens/en/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/en/attachment-move.webp",
+    "screens/en/backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/en/backup.webp",
     "screens/en/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/en/cabinet-settings.webp",
     "screens/en/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/calendar-import.webp",
     "screens/en/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/calendar-register.webp",
@@ -1819,9 +1821,9 @@
     "screens/en/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/drawer-menu.webp",
     "screens/en/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/drawer-move.webp",
     "screens/en/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/en/drawer-note-view.webp",
-    "screens/en/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/drawer-search.webp",
     "screens/en/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/en/drawer-view.webp",
     "screens/en/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/drawing-editor.webp",
+    "screens/en/drive-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/en/drive-recovery.webp",
     "screens/en/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/encrypted-drawer-menu.webp",
     "screens/en/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/encrypted-home.webp",
     "screens/en/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/encryption-badge.webp",
@@ -1832,9 +1834,10 @@
     "screens/en/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/encryption-setup.webp",
     "screens/en/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/encryption-unlock.webp",
     "screens/en/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/evernote.webp",
+    "screens/en/local-backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/en/local-backup.webp",
     "screens/en/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/local-restore.webp",
+    "screens/en/new-drawer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/en/new-drawer.webp",
     "screens/en/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/note-editor.webp",
-    "screens/en/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/en/note-list-titles.webp",
     "screens/en/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/note-list.webp",
     "screens/en/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/note-search.webp",
     "screens/en/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/note-selection.webp",
@@ -1843,7 +1846,6 @@
     "screens/en/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/photo-viewer.webp",
     "screens/en/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/quantity.webp",
     "screens/en/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/repeat.webp",
-    "screens/en/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/search.webp",
     "screens/en/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/en/security.webp",
     "screens/en/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/shopping-widget.webp",
     "screens/en/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/shopping.webp",
@@ -1855,11 +1857,11 @@
     "screens/en/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/en/themes.webp",
     "screens/en/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/today-widget.webp",
     "screens/en/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/en/trash-selection.webp",
-    "screens/en/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/en/trash.webp",
     "screens/en/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/en/wide-home.webp",
     "screens/ja/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/ja/attachment-cut.webp",
     "screens/ja/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/ja/attachment-menu.webp",
     "screens/ja/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/ja/attachment-move.webp",
+    "screens/ja/backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/ja/backup.webp",
     "screens/ja/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/ja/cabinet-settings.webp",
     "screens/ja/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/calendar-import.webp",
     "screens/ja/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/calendar-register.webp",
@@ -1872,9 +1874,9 @@
     "screens/ja/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/drawer-menu.webp",
     "screens/ja/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/drawer-move.webp",
     "screens/ja/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/ja/drawer-note-view.webp",
-    "screens/ja/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/drawer-search.webp",
     "screens/ja/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/ja/drawer-view.webp",
     "screens/ja/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/drawing-editor.webp",
+    "screens/ja/drive-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/ja/drive-recovery.webp",
     "screens/ja/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/encrypted-drawer-menu.webp",
     "screens/ja/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/encrypted-home.webp",
     "screens/ja/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/encryption-badge.webp",
@@ -1885,10 +1887,10 @@
     "screens/ja/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/encryption-setup.webp",
     "screens/ja/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/encryption-unlock.webp",
     "screens/ja/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/evernote.webp",
+    "screens/ja/local-backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/ja/local-backup.webp",
     "screens/ja/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/local-restore.webp",
+    "screens/ja/new-drawer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/ja/new-drawer.webp",
     "screens/ja/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/note-editor.webp",
-    "screens/ja/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/ja/note-list-titles.webp",
-    "screens/ja/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/note-list.webp",
     "screens/ja/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/note-search.webp",
     "screens/ja/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/note-selection.webp",
     "screens/ja/note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/d5f3850033877529f43f31f3/screens/ja/note-view.webp",
@@ -1896,7 +1898,6 @@
     "screens/ja/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/photo-viewer.webp",
     "screens/ja/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/quantity.webp",
     "screens/ja/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/repeat.webp",
-    "screens/ja/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/search.webp",
     "screens/ja/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/ja/security.webp",
     "screens/ja/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/shopping-widget.webp",
     "screens/ja/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/shopping.webp",
@@ -1908,11 +1909,11 @@
     "screens/ja/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/ja/themes.webp",
     "screens/ja/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/today-widget.webp",
     "screens/ja/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/ja/trash-selection.webp",
-    "screens/ja/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/ja/trash.webp",
     "screens/ja/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/ja/wide-home.webp",
     "screens/hi/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/hi/attachment-cut.webp",
     "screens/hi/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/hi/attachment-menu.webp",
     "screens/hi/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/hi/attachment-move.webp",
+    "screens/hi/backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/hi/backup.webp",
     "screens/hi/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/hi/cabinet-settings.webp",
     "screens/hi/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/calendar-import.webp",
     "screens/hi/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/calendar-register.webp",
@@ -1925,9 +1926,9 @@
     "screens/hi/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/drawer-menu.webp",
     "screens/hi/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/drawer-move.webp",
     "screens/hi/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/hi/drawer-note-view.webp",
-    "screens/hi/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/drawer-search.webp",
     "screens/hi/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/hi/drawer-view.webp",
     "screens/hi/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/drawing-editor.webp",
+    "screens/hi/drive-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/hi/drive-recovery.webp",
     "screens/hi/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/encrypted-drawer-menu.webp",
     "screens/hi/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/encrypted-home.webp",
     "screens/hi/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/encryption-badge.webp",
@@ -1938,10 +1939,10 @@
     "screens/hi/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/encryption-setup.webp",
     "screens/hi/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/encryption-unlock.webp",
     "screens/hi/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/evernote.webp",
+    "screens/hi/local-backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/hi/local-backup.webp",
     "screens/hi/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/local-restore.webp",
+    "screens/hi/new-drawer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/hi/new-drawer.webp",
     "screens/hi/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/note-editor.webp",
-    "screens/hi/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/hi/note-list-titles.webp",
-    "screens/hi/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/note-list.webp",
     "screens/hi/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/note-search.webp",
     "screens/hi/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/note-selection.webp",
     "screens/hi/note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/d5f3850033877529f43f31f3/screens/hi/note-view.webp",
@@ -1949,7 +1950,6 @@
     "screens/hi/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/photo-viewer.webp",
     "screens/hi/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/quantity.webp",
     "screens/hi/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/repeat.webp",
-    "screens/hi/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/search.webp",
     "screens/hi/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/hi/security.webp",
     "screens/hi/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/shopping-widget.webp",
     "screens/hi/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/shopping.webp",
@@ -1961,11 +1961,11 @@
     "screens/hi/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/hi/themes.webp",
     "screens/hi/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/today-widget.webp",
     "screens/hi/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/hi/trash-selection.webp",
-    "screens/hi/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/hi/trash.webp",
     "screens/hi/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/hi/wide-home.webp",
     "screens/pt-BR/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/pt-BR/attachment-cut.webp",
     "screens/pt-BR/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/pt-BR/attachment-menu.webp",
     "screens/pt-BR/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/pt-BR/attachment-move.webp",
+    "screens/pt-BR/backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/pt-BR/backup.webp",
     "screens/pt-BR/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/pt-BR/cabinet-settings.webp",
     "screens/pt-BR/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/calendar-import.webp",
     "screens/pt-BR/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/calendar-register.webp",
@@ -1978,9 +1978,9 @@
     "screens/pt-BR/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/drawer-menu.webp",
     "screens/pt-BR/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/drawer-move.webp",
     "screens/pt-BR/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/pt-BR/drawer-note-view.webp",
-    "screens/pt-BR/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/drawer-search.webp",
     "screens/pt-BR/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/pt-BR/drawer-view.webp",
     "screens/pt-BR/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/drawing-editor.webp",
+    "screens/pt-BR/drive-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/pt-BR/drive-recovery.webp",
     "screens/pt-BR/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/encrypted-drawer-menu.webp",
     "screens/pt-BR/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/encrypted-home.webp",
     "screens/pt-BR/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/encryption-badge.webp",
@@ -1991,10 +1991,10 @@
     "screens/pt-BR/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/encryption-setup.webp",
     "screens/pt-BR/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/encryption-unlock.webp",
     "screens/pt-BR/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/evernote.webp",
+    "screens/pt-BR/local-backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/pt-BR/local-backup.webp",
     "screens/pt-BR/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/local-restore.webp",
+    "screens/pt-BR/new-drawer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/pt-BR/new-drawer.webp",
     "screens/pt-BR/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/note-editor.webp",
-    "screens/pt-BR/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/pt-BR/note-list-titles.webp",
-    "screens/pt-BR/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/note-list.webp",
     "screens/pt-BR/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/note-search.webp",
     "screens/pt-BR/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/note-selection.webp",
     "screens/pt-BR/note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/d5f3850033877529f43f31f3/screens/pt-BR/note-view.webp",
@@ -2002,7 +2002,6 @@
     "screens/pt-BR/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/photo-viewer.webp",
     "screens/pt-BR/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/quantity.webp",
     "screens/pt-BR/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/repeat.webp",
-    "screens/pt-BR/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/search.webp",
     "screens/pt-BR/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/pt-BR/security.webp",
     "screens/pt-BR/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/shopping-widget.webp",
     "screens/pt-BR/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/shopping.webp",
@@ -2014,11 +2013,11 @@
     "screens/pt-BR/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/pt-BR/themes.webp",
     "screens/pt-BR/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/today-widget.webp",
     "screens/pt-BR/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/pt-BR/trash-selection.webp",
-    "screens/pt-BR/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/pt-BR/trash.webp",
     "screens/pt-BR/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/pt-BR/wide-home.webp",
     "screens/es/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/es/attachment-cut.webp",
     "screens/es/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/es/attachment-menu.webp",
     "screens/es/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/es/attachment-move.webp",
+    "screens/es/backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/es/backup.webp",
     "screens/es/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/es/cabinet-settings.webp",
     "screens/es/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/calendar-import.webp",
     "screens/es/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/calendar-register.webp",
@@ -2031,11 +2030,10 @@
     "screens/es/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/drawer-menu.webp",
     "screens/es/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/drawer-move.webp",
     "screens/es/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/es/drawer-note-view.webp",
-    "screens/es/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/drawer-search.webp",
     "screens/es/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/es/drawer-view.webp",
     "screens/es/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/drawing-editor.webp",
+    "screens/es/drive-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/es/drive-recovery.webp",
     "screens/es/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/encrypted-drawer-menu.webp",
-    "screens/es/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/encrypted-home.webp",
     "screens/es/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-badge.webp",
     "screens/es/encryption-disable.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-disable.webp",
     "screens/es/encryption-password.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-password.webp",
@@ -2044,9 +2042,11 @@
     "screens/es/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-setup.webp",
     "screens/es/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/encryption-unlock.webp",
     "screens/es/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/evernote.webp",
+    "screens/es/home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/es/home.webp",
+    "screens/es/local-backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/es/local-backup.webp",
     "screens/es/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/local-restore.webp",
+    "screens/es/new-drawer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/es/new-drawer.webp",
     "screens/es/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/note-editor.webp",
-    "screens/es/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/es/note-list-titles.webp",
     "screens/es/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/note-list.webp",
     "screens/es/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/note-search.webp",
     "screens/es/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/note-selection.webp",
@@ -2055,7 +2055,6 @@
     "screens/es/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/photo-viewer.webp",
     "screens/es/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/quantity.webp",
     "screens/es/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/repeat.webp",
-    "screens/es/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/search.webp",
     "screens/es/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/es/security.webp",
     "screens/es/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/shopping-widget.webp",
     "screens/es/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/shopping.webp",
@@ -2067,11 +2066,11 @@
     "screens/es/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/es/themes.webp",
     "screens/es/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/today-widget.webp",
     "screens/es/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/es/trash-selection.webp",
-    "screens/es/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/es/trash.webp",
     "screens/es/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/es/wide-home.webp",
     "screens/id/attachment-cut.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/id/attachment-cut.webp",
     "screens/id/attachment-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/id/attachment-menu.webp",
     "screens/id/attachment-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b1d8f4e10c1f2fe37f459a88/screens/id/attachment-move.webp",
+    "screens/id/backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/id/backup.webp",
     "screens/id/cabinet-settings.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/id/cabinet-settings.webp",
     "screens/id/calendar-import.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/calendar-import.webp",
     "screens/id/calendar-register.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/calendar-register.webp",
@@ -2084,11 +2083,10 @@
     "screens/id/drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/drawer-menu.webp",
     "screens/id/drawer-move.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/drawer-move.webp",
     "screens/id/drawer-note-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/id/drawer-note-view.webp",
-    "screens/id/drawer-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/drawer-search.webp",
     "screens/id/drawer-view.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/7a58f9341f5fc9b79e3d6f43/screens/id/drawer-view.webp",
     "screens/id/drawing-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/drawing-editor.webp",
+    "screens/id/drive-recovery.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/id/drive-recovery.webp",
     "screens/id/encrypted-drawer-menu.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/encrypted-drawer-menu.webp",
-    "screens/id/encrypted-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/encrypted-home.webp",
     "screens/id/encryption-badge.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-badge.webp",
     "screens/id/encryption-disable.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-disable.webp",
     "screens/id/encryption-password.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-password.webp",
@@ -2097,9 +2095,10 @@
     "screens/id/encryption-setup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-setup.webp",
     "screens/id/encryption-unlock.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/encryption-unlock.webp",
     "screens/id/evernote.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/evernote.webp",
+    "screens/id/local-backup.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/id/local-backup.webp",
     "screens/id/local-restore.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/local-restore.webp",
+    "screens/id/new-drawer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/38d7fb1fd4aab4699083927d/screens/id/new-drawer.webp",
     "screens/id/note-editor.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/note-editor.webp",
-    "screens/id/note-list-titles.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/3d4f1120cb310c6800645d4b/screens/id/note-list-titles.webp",
     "screens/id/note-list.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/note-list.webp",
     "screens/id/note-search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/note-search.webp",
     "screens/id/note-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/note-selection.webp",
@@ -2108,7 +2107,6 @@
     "screens/id/photo-viewer.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/photo-viewer.webp",
     "screens/id/quantity.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/quantity.webp",
     "screens/id/repeat.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/repeat.webp",
-    "screens/id/search.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/search.webp",
     "screens/id/security.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/14e8c386a3b5944b1a76a132/screens/id/security.webp",
     "screens/id/shopping-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/shopping-widget.webp",
     "screens/id/shopping.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/shopping.webp",
@@ -2120,7 +2118,6 @@
     "screens/id/themes.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/id/themes.webp",
     "screens/id/today-widget.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/today-widget.webp",
     "screens/id/trash-selection.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/b4447ab4d45ccde9f36ec5b0/screens/id/trash-selection.webp",
-    "screens/id/trash.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/a84804687c825a5839ed8aba/screens/id/trash.webp",
     "screens/id/wide-home.webp": "https://bcho73.github.io/NoteOrNever-Manual/r/60378bd1345adb31b6c4ad09/screens/id/wide-home.webp"
   }
 }
